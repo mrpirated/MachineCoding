@@ -1,0 +1,3 @@
+users [ { MZbM DC 2 } { OUeg FS 3 } { pUVH FS 2 } { Htqv DC 7 } { twfl DC 3 } { zfpN FS 5 } { xYCi FS 0 } { PMud DC 6 } { avrN DC 6 } { gjmC FS 5 } ]
+(int)transactions.size() 976
+mp [ {Htqv,-6937} {MZbM,12366} {OUeg,17892} {PMud,-5085} {avrN,4617} {gjmC,-5868} {null,-41108} {pUVH,2846} {twfl,870} {xYCi,259} {zfpN,20148} ]
