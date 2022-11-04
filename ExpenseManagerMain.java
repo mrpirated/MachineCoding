@@ -1,13 +1,13 @@
 /*input
 9
-0 Saurabh 1 4
-0 Deepesh 1 2
+0 Saurabh 1 0
+0 Deepesh 1 0
 0 Alok 1 2
 1 Saurabh null 8 2 1 1 1 1 1
 1 null Deepesh 15 2 1 1 1 1 1
 1 Deepesh Alok 4 3 1 1 1 1 1
 5 0 0 0 0 0 9 9 9 9 9 0
-7 0 1
+7 
 8
 */
 import java.util.*;
@@ -172,8 +172,7 @@ public class ExpenseManagerMain
 		        }
 		        case 7:
 		        {
-		        	int department1 = ni(), department2 = ni();
-		        	pn(em.getMoneyTransferredBetweenTwoDepartments(Department.values()[department1], Department.values()[department2]));
+		        	pn(em.getMoneyTransferredBetweenInterDepartments());
 		        	break;
 		        }
 		        case 8:
@@ -464,7 +463,7 @@ class ExpenseManager
 	    return getIncomeOfDepartment(new DateTime(2022, 11, 1, 0, 0), datetime, department) - getExpenseOfDepartment(new DateTime(2022, 11, 1, 0, 0), datetime, department);
 	}
 
-	double getMoneyTransferredBetweenTwoDepartments(Department department1, Department department2){
+	double getMoneyTransferredBetweenInterDepartments(){
 		double amount = 0;
 		for(Transaction transaction: transactions){
 			if(transaction.from != null && transaction.to != null && transaction.from.user_position != Position.values()[0] && transaction.from.user_department != transaction.to.user_department){
