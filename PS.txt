@@ -30,4 +30,9 @@ Note: If a given user does not exist, you have to throw an Exception with the me
 
 And If both users are the same in a given transaction, you have to throw an exception with the message “Same users”.
 
+Some Rules:
+1. Top candidates (who will score more) code will be checked manually to see the quality of code. So marks + quality of code will decide the qualification for next round.
+2. Tab Switching is allowed.
+3. In case of plagiarism, candidate will be disqualified.
+
 Constraints:
