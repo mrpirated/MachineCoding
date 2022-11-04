@@ -1,13 +1,14 @@
 /*input
-8
-0 Saurabh 1 0
-0 Deepesh 1 0
-0 Alok 1 1
+9
+0 Saurabh 1 4
+0 Deepesh 1 2
+0 Alok 1 2
 1 Saurabh null 8 2 1 1 1 1 1
 1 null Deepesh 15 2 1 1 1 1 1
 1 Deepesh Alok 4 3 1 1 1 1 1
 5 0 0 0 0 0 9 9 9 9 9 0
 7 0 1
+8
 */
 import java.util.*;
 import java.lang.*;
@@ -173,6 +174,15 @@ public class ExpenseManagerMain
 		        {
 		        	int department1 = ni(), department2 = ni();
 		        	pn(em.getMoneyTransferredBetweenTwoDepartments(Department.values()[department1], Department.values()[department2]));
+		        	break;
+		        }
+		        case 8:
+		        {
+		        	List<Department> list = em.getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio();
+		        	for(Department department: list){
+		        		ps(department);
+		        	}
+		        	pn("");
 		        	break;
 		        }
 		        // case 10:
@@ -464,51 +474,49 @@ class ExpenseManager
 		return amount;
 	}
 
-	// List<Department> getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(){
-	// 	List<Pair> list = new ArrayList<>();
-	// 	HashMap<Department, Double> sponsorMap = new HashMap<>();
-	// 	HashMap<Department, Double> expenseMap = new HashMap<>();
+	List<Department> getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(){
+		List<Pair> list = new ArrayList<>();
+		HashMap<Department, Double> sponsorMap = new HashMap<>();
+		HashMap<Department, Double> expenseMap = new HashMap<>();
 
-	// 	List<Department> res = new ArrayList<>();
-	// 	for(Department department: Department.values()){
-	// 		sponsorMap.put(department, 0.0);
-	// 		expenseMap.put(department, 0.0);
-	// 		res.add(department);
-	// 	}
+		for(Department department: Department.values()){
+			sponsorMap.put(department, 0.0);
+			expenseMap.put(department, 0.0);
+		}
 
-	// 	for(Transaction transaction: transactions){
-	// 		if(transaction.from == null && transaction.to != null && transaction.to.position != Position.values()[0]){
-	// 			sponsorMap.put(transaction.to.department, sponsorMap.get(transaction.to.department) + transaction.amount);
-	// 		}
-	// 		if(transaction.to == null && transaction.from != null && transaction.from.position != Position.values()[0]){
-	// 			expenseMap.put(transaction.from.department, expenseMap.get(transaction.from.department) + transaction.amount);
-	// 		}
-	// 	}
+		for(Transaction transaction: transactions){
+			if(transaction.from == null && transaction.to != null && transaction.to.user_position != Position.values()[0]){
+				sponsorMap.put(transaction.to.user_department, sponsorMap.get(transaction.to.user_department) + transaction.amount);
+			}
+			if(transaction.to == null && transaction.from != null && transaction.from.user_position != Position.values()[0]){
+				expenseMap.put(transaction.from.user_department, expenseMap.get(transaction.from.user_department) + transaction.amount);
+			}
+		}
 
-	// 	for(Department department: Department.values()){
-	// 		double s = sponsorMap.get(department);
-	// 		double m = expenseMap.get(department);
-	// 		double ratio = Double.MAX_VALUE;
-	// 		if(m != 0){
-	// 			ratio = s/m;
-	// 		}
-	// 		list.add(new Pair(department, ratio));
-	// 	}
+		for(Department department: Department.values()){
+			double s = sponsorMap.get(department);
+			double m = expenseMap.get(department);
+			double ratio = Double.MAX_VALUE;
+			if(m != 0){
+				ratio = s/m;
+			}
+			list.add(new Pair(department, ratio));
+		}
 
-	// 	Collections.sort(list);
+		Collections.sort(list, new CustomSort());
 
-	// 	List<Department> res = new ArrayList<>();
+		List<Department> res = new ArrayList<>();
 
-	// 	for(Pair p: list){
-	// 		res.add(p.name);
-	// 	}
-	// 	return res;
-	// }
+		for(Pair p: list){
+			res.add(p.name);
+		}
+		return res;
+	}
 }
 class Pair{
 	Department name;
 	double ratio;
-	Pair(Deprecated department, double ratio){
+	Pair(Department name, double ratio){
 		this.name = name;
 		this.ratio = ratio;
 	}
