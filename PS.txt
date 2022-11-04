@@ -1,0 +1,33 @@
+Avishkar, the most awaited event of the year, is here. But it takes a lot of effort and time (and of course, money!) to bring all pieces together.
+
+To conduct the event smoothly, Professors want an expense tracker from Saurabh and Deepesh to track expenses of Avishkar. As both are also DC, so they are busy with some other work. So Can you help both by completing the application?
+
+Avishkar has various departments Cybequest, Electromania, PowerSurge, Rasayans, Genesis, Nirmaan, Mechrocosm, Monopoly, Kreedomania, and Oligopoly.
+
+The application has two types of Users. The first one is Festival Secretary (FS) and the Second one is the Department Coordinator (DC).
+
+Each DC belongs to a department.
+FS expense or sponsor Money will not be considered in the department expense or sponsor money.
+
+You are given various functions to implement and complete the app.
+
+1. addUser(name, position, dept): is used to add an User according to the User class in a users list.
+2. addTransaction(): is responsible for doing transactions (like expenses, income, transfer)
+
+	Expenses will be when from is a user and to is not a user because that will be for food, Entertainment, etc.
+	Income (Sponsor Money) will be when from Sponsor or fees so in this case from will be null and to will be a user.
+	A Transfer will be when any user(FS or DC) transfer money to other User(FS or DC)
+
+1. getNetRevenue():  is responsible for getting the net balance of Avishkar by adding funds and subtracting expenses.
+2. : getExpenseOfCategory(): is responsible to get Expenses in a particular category from a start Time to an end Time
+3. getExpenseOfDepartment(): is responsible to get Expenses for a particular Department from a start Time to an end Time.
+4. getNetRevenueOfUser(): is responsible to get the net revenue of a user.
+5. getCashflowOfDepartment(): is responsible to get cashflow for a department till a given time.
+6. getMoneyTransferredBetweenInterDepartments(): is responsible for all money transferred between two different departments.
+7. getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(): return List of Department names in ascending order of Sponsor received to expense ratio. If the ratio is equal, return in ascending 
+
+Note: If a given user does not exist, you have to throw an Exception with the message”User name not found”.
+
+And If both users are the same in a given transaction, you have to throw an exception with the message “Same users”.
+
+Constraints:

@@ -411,7 +411,7 @@ class ExpenseManager
 	    {
 	        if (dateCmp(start, transaction.datetime) && dateCmp(transaction.datetime, end))
 	        {
-	            if (transaction.from != null && transaction.from.user_department == department && transaction.to == null)
+	            if (transaction.from != null && transaction.from.user_position != Position.values()[0] && transaction.from.user_department == department && transaction.to == null)
 	                expense += transaction.amount;
 	        }
 	    }
