@@ -1,9 +1,13 @@
 /*input
-4
-0 Saurabh 0 0
-0 Deepesh 0 0
+8
+0 Saurabh 1 0
+0 Deepesh 1 0
+0 Alok 1 1
 1 Saurabh null 8 2 1 1 1 1 1
+1 null Deepesh 15 2 1 1 1 1 1
+1 Deepesh Alok 4 3 1 1 1 1 1
 5 0 0 0 0 0 9 9 9 9 9 0
+7 0 1
 */
 import java.util.*;
 import java.lang.*;
@@ -101,7 +105,12 @@ public class ExpenseManagerMain
 		        case 1:
 		        {
 		            String from = ns();
+		            if(from.equals("null"))
+		            	from = null;
 		            String to = ns();
+		            if(to.equals("null"))
+		            	to = null;
+
 		            double amount = nd();
 		            int category = ni();
 		            int year = ni(), month = ni(), day = ni(), hour = ni(), minute = ni();
@@ -124,6 +133,8 @@ public class ExpenseManagerMain
 		        case 3:
 		        {
 		            String name = ns();
+		            if(name.equals("null"))
+		            	name = null;
 		            try
 		            {
 		                pn(em.getNetRevenueOfUser(name));
@@ -157,6 +168,12 @@ public class ExpenseManagerMain
 		            int department = ni();
 		            pn(em.getCashflowOfDepartment(Department.values()[department], new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
 		            break;
+		        }
+		        case 7:
+		        {
+		        	int department1 = ni(), department2 = ni();
+		        	pn(em.getMoneyTransferredBetweenTwoDepartments(Department.values()[department1], Department.values()[department2]));
+		        	break;
 		        }
 		        // case 10:
 		        // {
@@ -249,19 +266,18 @@ class ExpenseManager
 {
 	List<User> users;
 	List<Transaction> transactions;
-	User nullUser;
 
 	ExpenseManager(){
 		users = new ArrayList<>();
 		transactions = new ArrayList<>();
-		nullUser = new User("null", Position.values()[0], Department.values()[0]);
+		//nullUser = new User(null, Position.values()[0], Department.values()[0]);
 	}
 
 
 	User findUser(String name) throws Exception
 	{
-	    if (name.equals("null"))
-	        return nullUser;
+	    if (name == null)
+	        return null;
 	    for (User user : users){
 	        if (user.user_name.equals(name))
 	            return user;
@@ -286,7 +302,8 @@ class ExpenseManager
 	*/
 	void addTransaction(String from, String to, double amount, Category category, DateTime datetime) throws Exception
 	{
-	    if (from.equals(to))
+		
+	    if (from != null && to != null && from.equals(to))
 	    {
 	        throw new Exception("Same users");
 	    }
@@ -294,15 +311,16 @@ class ExpenseManager
 	    {
 	        User from_user = findUser(from);
 	        User to_user = findUser(to);
-	        if (from.equals("null"))
+	        if (from == null)
 	        {
-	            Transaction transaction = new Transaction(nullUser, to_user, amount, category, datetime);
+
+	            Transaction transaction = new Transaction(null, to_user, amount, category, datetime);
 	            transactions.add(transaction);
 
 	        }
-	        else if (to.equals("null"))
+	        else if (to == null)
 	        {
-	            Transaction transaction = new Transaction(from_user, nullUser, amount, category, datetime);
+	            Transaction transaction = new Transaction(from_user, null, amount, category, datetime);
 	            transactions.add(transaction);
 	        }
 	        else
@@ -324,9 +342,9 @@ class ExpenseManager
 	    double revenue = 0;
 	    for (Transaction transaction : transactions)
 	    {
-	        if (!transaction.from.user_name.equals("null") && transaction.to.user_name.equals("null"))
+	        if (transaction.from.user_name != null && transaction.to.user_name == null)
 	            revenue -= transaction.amount;
-	        else if (transaction.from.user_name.equals("null") && !transaction.to.user_name.equals("null"))
+	        else if (transaction.from.user_name == null && transaction.to.user_name != null)
 	            revenue += transaction.amount;
 	    }
 	    return revenue;
@@ -367,9 +385,9 @@ class ExpenseManager
 	    {
 	        if (dateCmp(start, transaction.datetime) && dateCmp(transaction.datetime, end) && transaction.category == category)
 	        {
-	            if (!transaction.from.user_name.equals("null") && transaction.to.user_name.equals("null"))
+	            if (transaction.from != null && transaction.to == null)
 	                revenue -= transaction.amount;
-	            else if (transaction.from.user_name.equals("null") && !transaction.to.user_name.equals("null"))
+	            else if (transaction.from == null && transaction.to != null)
 	                revenue += transaction.amount;
 	        }
 	    }
@@ -384,7 +402,7 @@ class ExpenseManager
 	    {
 	        if (dateCmp(start, transaction.datetime) && dateCmp(transaction.datetime, end))
 	        {
-	            if (transaction.from.user_department == department && !transaction.from.user_name.equals("null") && transaction.to.user_name.equals("null"))
+	            if (transaction.from != null && transaction.from.user_department == department && transaction.to == null)
 	                expense += transaction.amount;
 	        }
 	    }
@@ -424,7 +442,7 @@ class ExpenseManager
 	    {
 	        if (dateCmp(start, transaction.datetime) && dateCmp(transaction.datetime, end))
 	        {
-	            if (transaction.to.user_department == department && !transaction.to.user_name.equals("null") && transaction.from.user_name.equals("null"))
+	            if (transaction.to.user_department == department && transaction.to != null && transaction.from == null)
 	                income += transaction.amount;
 	        }
 	    }
@@ -434,5 +452,78 @@ class ExpenseManager
 	double getCashflowOfDepartment(Department department, DateTime datetime)
 	{
 	    return getIncomeOfDepartment(new DateTime(2022, 11, 1, 0, 0), datetime, department) - getExpenseOfDepartment(new DateTime(2022, 11, 1, 0, 0), datetime, department);
+	}
+
+	double getMoneyTransferredBetweenTwoDepartments(Department department1, Department department2){
+		double amount = 0;
+		for(Transaction transaction: transactions){
+			if(transaction.from != null && transaction.to != null && transaction.from.user_position != Position.values()[0] && transaction.from.user_department != transaction.to.user_department){
+				amount += transaction.amount;
+			}
+		}
+		return amount;
+	}
+
+	// List<Department> getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(){
+	// 	List<Pair> list = new ArrayList<>();
+	// 	HashMap<Department, Double> sponsorMap = new HashMap<>();
+	// 	HashMap<Department, Double> expenseMap = new HashMap<>();
+
+	// 	List<Department> res = new ArrayList<>();
+	// 	for(Department department: Department.values()){
+	// 		sponsorMap.put(department, 0.0);
+	// 		expenseMap.put(department, 0.0);
+	// 		res.add(department);
+	// 	}
+
+	// 	for(Transaction transaction: transactions){
+	// 		if(transaction.from == null && transaction.to != null && transaction.to.position != Position.values()[0]){
+	// 			sponsorMap.put(transaction.to.department, sponsorMap.get(transaction.to.department) + transaction.amount);
+	// 		}
+	// 		if(transaction.to == null && transaction.from != null && transaction.from.position != Position.values()[0]){
+	// 			expenseMap.put(transaction.from.department, expenseMap.get(transaction.from.department) + transaction.amount);
+	// 		}
+	// 	}
+
+	// 	for(Department department: Department.values()){
+	// 		double s = sponsorMap.get(department);
+	// 		double m = expenseMap.get(department);
+	// 		double ratio = Double.MAX_VALUE;
+	// 		if(m != 0){
+	// 			ratio = s/m;
+	// 		}
+	// 		list.add(new Pair(department, ratio));
+	// 	}
+
+	// 	Collections.sort(list);
+
+	// 	List<Department> res = new ArrayList<>();
+
+	// 	for(Pair p: list){
+	// 		res.add(p.name);
+	// 	}
+	// 	return res;
+	// }
+}
+class Pair{
+	Department name;
+	double ratio;
+	Pair(Deprecated department, double ratio){
+		this.name = name;
+		this.ratio = ratio;
+	}
+}
+class CustomSort implements Comparator<Pair> {
+	public int compare(Pair p1, Pair p2){
+		if(p1.ratio == p2.ratio){
+			String s1 = p1.name.toString();
+			String s2 = p2.name.toString();
+			int nameCompare = s1.compareTo(s2);
+			return nameCompare;
+		}
+		else{
+			if(p1.ratio < p2.ratio) return -1;
+			else return 1;
+		}
 	}
 }
