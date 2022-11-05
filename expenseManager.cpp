@@ -1,155 +1,13 @@
-
 #include <bits/stdc++.h>
 
 using namespace std;
-
-//@author MrPirated
 #define fastio()                      \
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL);                    \
     cout.tie(NULL)
-#define MOD 1000000007
-#define MOD1 998244353
-#define PI 3.141592653589793238462
-#define set_bits __builtin_popcountll
-#define all(x) (x).begin(), (x).end()
-#define mem1(a) memset(a, -1, sizeof(a))
-#define mem0(a) memset(a, 0, sizeof(a))
-
 typedef long long ll;
 typedef unsigned long long ull;
 typedef long double lld;
-
-#ifndef ONLINE_JUDGE
-#define debug(x)       \
-    cerr << #x << " "; \
-    _print(x);         \
-    cerr << endl;
-#else
-#define debug(x)
-#endif
-
-void _print(ll t)
-{
-    cerr << t;
-}
-void _print(int t) { cerr << t; }
-void _print(string t) { cerr << t; }
-void _print(char t) { cerr << t; }
-void _print(lld t) { cerr << t; }
-void _print(double t) { cerr << t; }
-void _print(ull t) { cerr << t; }
-
-template <class T, class V>
-void _print(pair<T, V> p);
-template <class T>
-void _print(vector<T> v);
-template <class T>
-void _print(set<T> v);
-template <class T, class V>
-void _print(map<T, V> v);
-template <class T>
-void _print(multiset<T> v);
-template <class T, class V>
-void _print(pair<T, V> p)
-{
-    cerr << "{";
-    _print(p.first);
-    cerr << ",";
-    _print(p.second);
-    cerr << "}";
-}
-template <class T>
-void _print(vector<T> v)
-{
-    cerr << "[ ";
-    for (T i : v)
-    {
-        _print(i);
-        cerr << " ";
-    }
-    cerr << "]";
-}
-template <class T>
-void _print(set<T> v)
-{
-    cerr << "[ ";
-    for (T i : v)
-    {
-        _print(i);
-        cerr << " ";
-    }
-    cerr << "]";
-}
-template <class T>
-void _print(multiset<T> v)
-{
-    cerr << "[ ";
-    for (T i : v)
-    {
-        _print(i);
-        cerr << " ";
-    }
-    cerr << "]";
-}
-template <class T, class V>
-void _print(map<T, V> v)
-{
-    cerr << "[ ";
-    for (auto i : v)
-    {
-        _print(i);
-        cerr << " ";
-    }
-    cerr << "]";
-}
-template <class T>
-void _print(stack<T> v)
-{
-    int k = v.size();
-    cerr << "-> ";
-    while (k--)
-    {
-        _print(v.top());
-        v.pop();
-        cerr << " ";
-    }
-    cerr << "||";
-}
-template <class T>
-void _print(queue<T> v)
-{
-    int k = v.size();
-    cerr << "-> ";
-    while (k--)
-    {
-        _print(v.front());
-        v.pop();
-        cerr << " ";
-    }
-    cerr << "->";
-}
-template <class T>
-void _print(priority_queue<T> v)
-{
-    int k = v.size();
-    cerr << "-> ";
-    while (k--)
-    {
-        _print(v.top());
-        v.pop();
-        cerr << " ";
-    }
-    cerr << "->";
-}
-
-void printans(bool ans)
-{
-    if (ans)
-        cout << "YES" << endl;
-    else
-        cout << "NO" << endl;
-}
 
 enum Position
 {
@@ -181,61 +39,6 @@ enum Category
     Fees,
     Charges
 };
-string getCategory(Category category)
-{
-    if (category == Food)
-        return "Food";
-    if (category == Shopping)
-        return "Shopping";
-    if (category == Transportation)
-        return "Transportation";
-    if (category == Entertainment)
-        return "Entertainment";
-    if (category == Lending)
-        return "Lending";
-    if (category == Sponsor)
-        return "Sponsor";
-    if (category == CollegeFund)
-        return "CollegeFund";
-    if (category == Fees)
-        return "Fees";
-    if (category == Charges)
-        return "Charges";
-    return "Nature";
-}
-string getPosition(Position position)
-{
-    if (position == FS)
-        return "FS";
-    if (position == DC)
-        return "DC";
-    return "Nature";
-}
-
-string getDepartment(Department department)
-{
-    if (department == Cyberquest)
-        return "Cyberquest";
-    if (department == Electromania)
-        return "Electromania";
-    if (department == Powersurge)
-        return "Powersurge";
-    if (department == Nirmaan)
-        return "Nirmaan";
-    if (department == Rasayans)
-        return "Rasayans";
-    if (department == Mechrocosm)
-        return "Mechrocosm";
-    if (department == Genesis)
-        return "Genesis";
-    if (department == Kreedomania)
-        return "Kreedomania";
-    if (department == Monopoly)
-        return "Monopoly";
-    if (department == Oligopoly)
-        return "Oligopoly";
-    return "Nature";
-}
 class User
 {
 public:
@@ -292,73 +95,63 @@ public:
         this->datetime = datetime;
     }
 };
-void _print(User *user)
+class Debugger
 {
-    if (user == NULL)
+public:
+    Debugger() {}
+    void Debug(int x)
     {
-        _print("null");
-        return;
+        cout << x;
     }
-    cerr << "{ ";
-    _print(user->user_name);
-    cerr << " ";
-    _print(getPosition(user->user_position));
-    cerr << " ";
-    _print(user->user_department);
-    cerr << " }";
-}
-void _print(Category category)
-{
-    _print(getCategory(category));
-}
-void _print(Department department)
-{
-    _print(getDepartment(department));
-}
-void _print(DateTime *datetime)
-{
-    if (datetime == NULL)
+    void Debug(string s)
     {
-        _print("null");
-        return;
+        cout << s;
     }
-    cerr << "{ ";
-    _print(datetime->day);
-    cerr << ":";
-    _print(datetime->month);
-    cerr << ":";
-    _print(datetime->year);
-    cerr << " ";
-    _print(datetime->hour);
-    cerr << ":";
-    _print(datetime->minute);
-    cerr << " }";
-}
-void _print(Transaction *transaction)
-{
-    if (transaction == NULL)
+
+    void Debug(User *user)
     {
-        _print("null");
-        return;
+        if (user == NULL)
+        {
+            cout << "null";
+            return;
+        }
+        Debug(user->user_name);
+        Debug(user->user_position);
+        Debug(user->user_department);
     }
-    cerr << "{ ";
-    cerr << "From: ";
-    _print(transaction->from);
-    cerr << endl;
-    cerr << "To: ";
-    _print(transaction->to);
-    cerr << endl;
-    cerr << "Amount: ";
-    _print(transaction->amount);
-    cerr << endl;
-    cerr << "Category: ";
-    _print(transaction->category);
-    cerr << endl;
-    cerr << "DateTime: ";
-    _print(transaction->datetime);
-    cerr << " }";
-    cerr << endl;
-}
+    void Debug(DateTime *datetime)
+    {
+        if (datetime == NULL)
+        {
+            cout << "null";
+            return;
+        }
+        Debug(datetime->year);
+        Debug(datetime->month);
+        Debug(datetime->day);
+        Debug(datetime->hour);
+        Debug(datetime->minute);
+    }
+    void Debug(Transaction *transaction)
+    {
+        if (transaction == NULL)
+        {
+            cout << "null";
+            return;
+        }
+        Debug(transaction->from);
+        Debug(transaction->to);
+        Debug(transaction->amount);
+        Debug(transaction->category);
+        Debug(transaction->datetime);
+    }
+    template <class T>
+    void Debug(vector<T> v)
+    {
+        for (T it : v)
+            Debug(it);
+    }
+};
 class ExpenseManager
 {
 public:
@@ -366,6 +159,30 @@ public:
     vector<Transaction *> transactions;
     ExpenseManager()
     {
+    }
+    string getDepartment(Department department)
+    {
+        if (department == Cyberquest)
+            return "Cyberquest";
+        if (department == Electromania)
+            return "Electromania";
+        if (department == Powersurge)
+            return "Powersurge";
+        if (department == Nirmaan)
+            return "Nirmaan";
+        if (department == Rasayans)
+            return "Rasayans";
+        if (department == Mechrocosm)
+            return "Mechrocosm";
+        if (department == Genesis)
+            return "Genesis";
+        if (department == Kreedomania)
+            return "Kreedomania";
+        if (department == Monopoly)
+            return "Monopoly";
+        if (department == Oligopoly)
+            return "Oligopoly";
+        return "Nature";
     }
     User *findUser(string name)
     {
@@ -394,7 +211,6 @@ public:
         {
             User *from_user = findUser(from);
             User *to_user = findUser(to);
-            // debug(to_user);
             Transaction *transaction = new Transaction(from_user, to_user, amount, category, datetime);
             transactions.push_back(transaction);
         }
@@ -529,8 +345,6 @@ public:
             incomeMap[(Department)department] = 0;
             expenseMap[(Department)department] = 0;
         }
-        // debug(incomeMap);
-        // debug(expenseMap);
         for (auto transaction : transactions)
         {
             if (transaction->from == NULL && transaction->to != NULL && transaction->to->user_position == DC)
@@ -553,14 +367,13 @@ public:
             tp.push_back({(Department)department, ratio});
         }
         // debug(tp);
-        sort(all(tp), [&](auto a, auto b)
+        sort(tp.begin(), tp.end(), [&](auto a, auto b)
              {
         if(a.second!=b.second)
         return a.second<b.second;
         else{
             return getDepartment(a.first)<getDepartment(b.first);
         } });
-        // debug(tp);
         vector<Department> ans;
         for (auto [x, y] : tp)
             ans.push_back(x);
@@ -586,14 +399,13 @@ public:
         {
             tp.push_back({x, y});
         }
-        sort(all(tp), [&](auto x, auto y)
+        sort(tp.begin(), tp.end(), [&](auto x, auto y)
              {
         if(x.second!=y.second)
         return x.second > y.second;
         else {
             return x.first->user_name<y.first->user_name;
         } });
-        // debug(tp);
         vector<User *> ans;
         for (auto [x, y] : tp)
             ans.push_back(x);
@@ -612,6 +424,7 @@ int main()
     int t = 1;
     cin >> t;
     ExpenseManager expenseManager = ExpenseManager();
+    Debugger debugger = Debugger();
     // User universalUser = User("User", (Position)0, (Department)0);
     while (t--)
     {
@@ -647,13 +460,13 @@ int main()
             }
             catch (invalid_argument e)
             {
-                cout << e.what() << endl;
+                debugger.Debug(e.what());
             }
             break;
         }
         case 2:
         {
-            cout << expenseManager.getNetRevenue() << endl;
+            debugger.Debug(expenseManager.getNetRevenue());
             break;
         }
         case 3:
@@ -662,11 +475,11 @@ int main()
             cin >> name;
             try
             {
-                cout << expenseManager.getNetRevenueOfUser(name) << endl;
+                debugger.Debug(expenseManager.getNetRevenueOfUser(name));
             }
             catch (invalid_argument e)
             {
-                cout << e.what() << endl;
+                debugger.Debug(e.what());
             }
             break;
         }
@@ -678,7 +491,7 @@ int main()
             cin >> end_year >> end_month >> end_day >> end_hour >> end_minute;
             int category;
             cin >> category;
-            cout << expenseManager.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Category)category) << endl;
+            debugger.Debug(expenseManager.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Category)category));
             break;
         }
         case 5:
@@ -689,7 +502,7 @@ int main()
             cin >> end_year >> end_month >> end_day >> end_hour >> end_minute;
             int department;
             cin >> department;
-            cout << expenseManager.getExpenseOfDepartment(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Department)department) << endl;
+            debugger.Debug(expenseManager.getExpenseOfDepartment(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Department)department));
             break;
         }
         case 6:
@@ -698,28 +511,28 @@ int main()
             cin >> end_year >> end_month >> end_day >> end_hour >> end_minute;
             int department;
             cin >> department;
-            cout << expenseManager.getCashflowOfDepartment((Department)department, new DateTime(end_year, end_month, end_day, end_hour, end_minute)) << endl;
+            debugger.Debug(expenseManager.getCashflowOfDepartment((Department)department, new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
             break;
         }
         case 7:
         {
-            debug(expenseManager.getMoneyTransferredBetweenInterDepartments());
+            debugger.Debug(expenseManager.getMoneyTransferredBetweenInterDepartments());
             break;
         }
         case 8:
         {
-            debug(expenseManager.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio());
+            debugger.Debug(expenseManager.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio());
             break;
         }
         case 9:
         {
-            debug(expenseManager.getListOfFSInDescendOrderOfIncome());
+            debugger.Debug(expenseManager.getListOfFSInDescendOrderOfIncome());
             break;
         }
         case 10:
         {
-            debug(expenseManager.users);
-            debug((int)expenseManager.transactions.size());
+            debugger.Debug(expenseManager.users);
+            debugger.Debug(expenseManager.transactions);
             // getList();
             break;
         }
