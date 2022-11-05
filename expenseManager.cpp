@@ -260,7 +260,7 @@ public:
         else
             return true;
     }
-    double getExpenseOfCategory(DateTime *start, DateTime *end, Category category)
+    double getNetRevenueOfACategory(DateTime *start, DateTime *end, Category category)
     {
         double revenue = 0;
         for (auto transaction : transactions)
@@ -334,7 +334,7 @@ public:
         double amount = 0;
         for (auto transaction : transactions)
         {
-            if (transaction->from != NULL && transaction->to != NULL && transaction->from->user_position == DC && transaction->from->user_department != transaction->to->user_department)
+            if (transaction->from != NULL && transaction->to != NULL && transaction->from->user_position == DC && transaction->to->user_position == DC && transaction->from->user_department != transaction->to->user_department)
             {
                 amount += transaction->amount;
             }
@@ -495,7 +495,7 @@ int main()
             cin >> end_year >> end_month >> end_day >> end_hour >> end_minute;
             int category;
             cin >> category;
-            debugger.Debug(expenseManager.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Category)category));
+            debugger.Debug(expenseManager.getNetRevenueOfACategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), (Category)category));
             break;
         }
         case 5:
