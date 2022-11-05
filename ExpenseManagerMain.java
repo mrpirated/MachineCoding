@@ -97,8 +97,8 @@ public class ExpenseManagerMain
 
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		System.setIn(new FileInputStream(new File("input.txt")));
-		System.setOut(new PrintStream(new File("output.txt")));
+		System.setIn(new FileInputStream(new File("TestCases/input1.txt")));
+		System.setOut(new PrintStream(new File("TestCases/output1.txt")));
         out =new PrintWriter(System.out);
         scan =new FastReader();
 		//for fast output sometimes
@@ -168,7 +168,7 @@ public class ExpenseManagerMain
 		            int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
 		            
 		            int category = ni();
-		            debugger.Debug(em.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), Category.values()[category]));
+		            debugger.Debug(em.getNetRevenueOfACategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), Category.values()[category]));
 		            break;
 		        }
 		        case 5:
@@ -481,7 +481,7 @@ class ExpenseManager
 	}
 
 	// This function is responsible to get Expense in a particular category from a start Time to an end Time
-	double getExpenseOfCategory(DateTime start, DateTime end, Category category)
+	double getNetRevenueOfACategory(DateTime start, DateTime end, Category category)
 	{
 	    double revenue = 0;
 	    for (Transaction transaction : transactions)
@@ -560,7 +560,7 @@ class ExpenseManager
 	double getMoneyTransferredBetweenInterDepartments(){
 		double amount = 0;
 		for(Transaction transaction: transactions){
-			if(transaction.from != null && transaction.to != null && transaction.from.user_position != Position.values()[0] && transaction.from.user_department != transaction.to.user_department){
+			if(transaction.from != null && transaction.to != null && transaction.from.user_position != Position.values()[0] && transaction.to.user_position != Position.values()[0] && transaction.from.user_department != transaction.to.user_department){
 				amount += transaction.amount;
 			}
 		}
@@ -608,10 +608,11 @@ class ExpenseManager
 	List<User> getListofFSINDescendOrderOfIncome(){
 		HashMap<User, Double> map = new HashMap<>();
 		List<User> res = new ArrayList<>();
+		List<Pair2> list = new ArrayList<>();
 		for(User user: users){
 			if(user.user_position == Position.values()[0]){
 				map.put(user, 0.0);
-				res.add(user);
+				list.add(new Pair2(user, 0.0));
 			}
 		}
 		for(Transaction transaction : transactions){
@@ -620,17 +621,25 @@ class ExpenseManager
 			}
 		}
 
-		Collections.sort(res, (l1, l2) -> {
-			if(map.get(l1) == map.get(l2)){
-				return l1.user_name.toString().compareTo(l2.user_name.toString());
-			}else if(map.get(l1) > map.get(l2)){
-				return -1;
+		for(int i=0; i<list.size(); i++){
+			list.get(i).amount = map.get(list.get(i).user);
+		}
+
+		Collections.sort(list, (l1, l2) -> {
+			if(l1.amount == l2.amount){
+				return l1.user.user_name.toString().compareTo(l2.user.user_name.toString());
 			}else{
-				return 1;
+				if(l1.amount < l2.amount) return 1;
+				else return -1;
 			}
 		});
+		for(Pair2 p: list){
+			res.add(p.user);
+		}
+		
 		return res;
 	}
+
 }
 class Pair{
 	Department name;
@@ -654,3 +663,13 @@ class CustomSort implements Comparator<Pair> {
 		}
 	}
 }
+
+class Pair2{
+	User user;
+	double amount;
+	Pair2(User user, double amount){
+		this.user = user;
+		this.amount = amount;
+	}
+}
+
