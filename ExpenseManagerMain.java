@@ -97,12 +97,15 @@ public class ExpenseManagerMain
 
 	public static void main (String[] args) throws java.lang.Exception
 	{
+		System.setIn(new FileInputStream(new File("input.txt")));
+		System.setOut(new PrintStream(new File("output.txt")));
         out =new PrintWriter(System.out);
         scan =new FastReader();
 		//for fast output sometimes
 		StringBuilder sb = new StringBuilder();
 		int t = ni();
 		ExpenseManager em = new ExpenseManager();
+		Debugger debugger = new Debugger();
 		while(t-->0){
 			int type = ni();
 			
@@ -134,14 +137,14 @@ public class ExpenseManagerMain
 		            }
 		            catch (Exception e)
 		            {
-		                pn(e.getMessage());
+		                debugger.Debug(e.getMessage());
 		            }
 		            break;
 		        }
 		        case 2:
 		        {
 		        	//ps("getNetRevenue:");
-		            pn(em.getNetRevenue());
+		            debugger.Debug(em.getNetRevenue());
 		            break;
 		        }
 		        case 3:
@@ -151,11 +154,11 @@ public class ExpenseManagerMain
 		            	name = null;
 		            try
 		            {
-		                pn(em.getNetRevenueOfUser(name));
+		                debugger.Debug(em.getNetRevenueOfUser(name));
 		            }
 		            catch (Exception e)
 		            {
-		                pn(e.getMessage());
+		                debugger.Debug(e.getMessage());
 		            }
 		            break;
 		        }
@@ -165,7 +168,7 @@ public class ExpenseManagerMain
 		            int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
 		            
 		            int category = ni();
-		            pn(em.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), Category.values()[category]));
+		            debugger.Debug(em.getExpenseOfCategory(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute), Category.values()[category]));
 		            break;
 		        }
 		        case 5:
@@ -173,44 +176,48 @@ public class ExpenseManagerMain
 		            int start_year = ni(), start_month = ni(), start_day = ni(), start_hour = ni(), start_minute = ni();
 		            int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
 		            int department = ni();
-		            pn(em.getExpenseOfDepartment(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute),Department.values()[department]));
+		            debugger.Debug(em.getExpenseOfDepartment(new DateTime(start_year, start_month, start_day, start_hour, start_minute), new DateTime(end_year, end_month, end_day, end_hour, end_minute),Department.values()[department]));
 		            break;
 		        }
 		        case 6:
 		        {
 		            int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
 		            int department = ni();
-		            pn(em.getCashflowOfDepartment(Department.values()[department], new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
+		            debugger.Debug(em.getCashflowOfDepartment(Department.values()[department], new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
 		            break;
 		        }
 		        case 7:
 		        {
-		        	pn(em.getMoneyTransferredBetweenInterDepartments());
+		        	debugger.Debug(em.getMoneyTransferredBetweenInterDepartments());
 		        	break;
 		        }
 		        case 8:
 		        {
 		        	List<Department> list = em.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio();
 		        	for(Department department: list){
-		        		ps(department);
+		        		debugger.Debug(department);
 		        	}
-		        	pn("");
+		        	// pn("");
 		        	break;
 		        }
 		        case 9:{
-		        	List<String> res = em.getListofFSINDescendOrderOfIncome();
-		        	for(String s: res){
-		        		ps(s);
+		        	List<User> res = em.getListofFSINDescendOrderOfIncome();
+		        	for(User s: res){
+		        		debugger.Debug(s);
 		        	}
-		        	pn("");
+		        	// pn("");
+					break;
 		        }
-		        // case 10:
-		        // {
-		        //     debug(users);
-		        //     debug((int)transactions.size());
-		        //     getList();
-		        //     break;
-		        // }
+		        case 10:
+		        {
+					// System.out.print(x);
+					for(User user: em.users){
+						debugger.Debug(user);
+					}
+					for(Transaction tx: em.transactions){
+					debugger.Debug(tx);}
+		            break;
+		        }
 	        }
         }
         out.flush();
@@ -290,6 +297,73 @@ class Transaction{
         this.category = category;
         this.datetime = datetime;
     }
+}
+class Debugger{
+	Debugger(){
+
+	}
+	void Debug(int x)
+    {
+        System.out.print(x);
+    }
+	void Debug(double x){
+		System.out.print(String.format("%.2f",x));
+	}
+	void Debug(String s)
+    {
+        System.out.print(s);
+    }
+	void Debug(Position position){
+		System.out.print(position.ordinal());
+	}
+	void Debug(Department department){
+		System.out.print(department.ordinal());
+	}
+	void Debug(Category category){
+		System.out.print(category.ordinal());
+	}
+    void Debug(User user)
+    {
+        if (user == null)
+        {
+            System.out.print("null");
+            return;
+        }
+        Debug(user.user_name);
+        Debug(user.user_position);
+        Debug(user.user_department);
+    }
+    void Debug(DateTime datetime)
+    {
+        if (datetime == null)
+        {
+            System.out.print("null");
+            return;
+        }
+        Debug(datetime.year);
+        Debug(datetime.month);
+        Debug(datetime.day);
+        Debug(datetime.hour);
+        Debug(datetime.minute);
+    }
+    void Debug(Transaction transaction)
+    {
+        if (transaction == null)
+        {
+            System.out.print("null");
+            return;
+        }
+        Debug(transaction.from);
+        Debug(transaction.to);
+        Debug(transaction.amount);
+        Debug(transaction.category);
+        Debug(transaction.datetime);
+    }
+    // void Debug(List<E> v)
+    // {
+    //     for (E it : v)
+    //         Debug(it);
+    // }
 }
 class ExpenseManager
 {
@@ -452,11 +526,11 @@ class ExpenseManager
 	    }
 	    for (Transaction transaction : transactions)
 	    {
-	        if (transaction.to.user_name.equals(user_name))
+	        if (transaction.to!=null&&transaction.to.user_name.equals(user_name))
 	        {
 	            revenue += transaction.amount;
 	        }
-	        else if (transaction.from.user_name.equals(user_name))
+	        else if (transaction.from!=null&&transaction.from.user_name.equals(user_name))
 	        {
 	            revenue -= transaction.amount;
 	        }
@@ -531,25 +605,25 @@ class ExpenseManager
 		}
 		return res;
 	}
-	List<String> getListofFSINDescendOrderOfIncome(){
-		HashMap<String, Double> map = new HashMap<>();
-		List<String> res = new ArrayList<>();
+	List<User> getListofFSINDescendOrderOfIncome(){
+		HashMap<User, Double> map = new HashMap<>();
+		List<User> res = new ArrayList<>();
 		for(User user: users){
 			if(user.user_position == Position.values()[0]){
-				map.put(user.user_name, 0.0);
-				res.add(user.user_name);
+				map.put(user, 0.0);
+				res.add(user);
 			}
 		}
 		for(Transaction transaction : transactions){
 			if(transaction.from == null && transaction.to != null && transaction.to.user_position == Position.values()[0]){
-				map.put(transaction.to.user_name, map.get(transaction.to.user_name) +transaction.amount);
+				map.put(transaction.to, map.get(transaction.to) +transaction.amount);
 			}
 		}
 
 		Collections.sort(res, (l1, l2) -> {
 			if(map.get(l1) == map.get(l2)){
-				return l1.compareTo(l2);
-			}else if(map.get(l1) < map.get(l2)){
+				return l1.user_name.toString().compareTo(l2.user_name.toString());
+			}else if(map.get(l1) > map.get(l2)){
 				return -1;
 			}else{
 				return 1;

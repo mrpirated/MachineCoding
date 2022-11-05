@@ -103,6 +103,10 @@ public:
     {
         cout << x;
     }
+    void Debug(double x)
+    {
+        cout << fixed << setprecision(2) << x;
+    }
     void Debug(string s)
     {
         cout << s;
@@ -404,7 +408,7 @@ public:
         if(x.second!=y.second)
         return x.second > y.second;
         else {
-            return x.first->user_name<y.first->user_name;
+            return x.first->user_name < y.first->user_name;
         } });
         vector<User *> ans;
         for (auto [x, y] : tp)
