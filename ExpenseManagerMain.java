@@ -1,14 +1,26 @@
 /*input
-9
+20
+0 Divyansh 0 0
 0 Saurabh 1 0
 0 Deepesh 1 0
-0 Alok 1 2
+0 Lovedeep 1 0
+0 OmVijay 0 1
+0 Anushree 0 2
+0 Himanshu 0 5
+0 Mradul 0 3
 1 Saurabh null 8 2 1 1 1 1 1
 1 null Deepesh 15 2 1 1 1 1 1
-1 Deepesh Alok 4 3 1 1 1 1 1
-5 0 0 0 0 0 9 9 9 9 9 0
-7 
-8
+1 Deepesh Himanshu 4 3 1 1 1 1 1
+1 Divyansh Saurabh 25 5 2 2 2 2 2
+1 Deepesh null 3 3 2 2 2 2 2
+1 null Saurabh 6 3 3 3 3 3 3
+2
+3 Alok
+3 Saurabh
+3 Deepesh
+3 Divyansh
+3 OmVijay
+
 */
 import java.util.*;
 import java.lang.*;
@@ -128,6 +140,7 @@ public class ExpenseManagerMain
 		        }
 		        case 2:
 		        {
+		        	//ps("getNetRevenue:");
 		            pn(em.getNetRevenue());
 		            break;
 		        }
@@ -177,12 +190,19 @@ public class ExpenseManagerMain
 		        }
 		        case 8:
 		        {
-		        	List<Department> list = em.getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio();
+		        	List<Department> list = em.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio();
 		        	for(Department department: list){
 		        		ps(department);
 		        	}
 		        	pn("");
 		        	break;
+		        }
+		        case 9:{
+		        	List<String> res = em.getListofFSINDescendOrderOfIncome();
+		        	for(String s: res){
+		        		ps(s);
+		        	}
+		        	pn("");
 		        }
 		        // case 10:
 		        // {
@@ -351,9 +371,9 @@ class ExpenseManager
 	    double revenue = 0;
 	    for (Transaction transaction : transactions)
 	    {
-	        if (transaction.from.user_name != null && transaction.to.user_name == null)
+	        if (transaction.from != null && transaction.to == null)
 	            revenue -= transaction.amount;
-	        else if (transaction.from.user_name == null && transaction.to.user_name != null)
+	        else if (transaction.from == null && transaction.to != null)
 	            revenue += transaction.amount;
 	    }
 	    return revenue;
@@ -451,7 +471,7 @@ class ExpenseManager
 	    {
 	        if (dateCmp(start, transaction.datetime) && dateCmp(transaction.datetime, end))
 	        {
-	            if (transaction.to.user_department == department && transaction.to != null && transaction.from == null)
+	            if (transaction.to != null && transaction.to.user_position == Position.values()[1] && transaction.to.user_department == department && transaction.from == null)
 	                income += transaction.amount;
 	        }
 	    }
@@ -473,19 +493,19 @@ class ExpenseManager
 		return amount;
 	}
 
-	List<Department> getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(){
+	List<Department> getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio(){
 		List<Pair> list = new ArrayList<>();
-		HashMap<Department, Double> sponsorMap = new HashMap<>();
+		HashMap<Department, Double> incomeMap = new HashMap<>();
 		HashMap<Department, Double> expenseMap = new HashMap<>();
 
 		for(Department department: Department.values()){
-			sponsorMap.put(department, 0.0);
+			incomeMap.put(department, 0.0);
 			expenseMap.put(department, 0.0);
 		}
 
 		for(Transaction transaction: transactions){
 			if(transaction.from == null && transaction.to != null && transaction.to.user_position != Position.values()[0]){
-				sponsorMap.put(transaction.to.user_department, sponsorMap.get(transaction.to.user_department) + transaction.amount);
+				incomeMap.put(transaction.to.user_department, incomeMap.get(transaction.to.user_department) + transaction.amount);
 			}
 			if(transaction.to == null && transaction.from != null && transaction.from.user_position != Position.values()[0]){
 				expenseMap.put(transaction.from.user_department, expenseMap.get(transaction.from.user_department) + transaction.amount);
@@ -493,7 +513,7 @@ class ExpenseManager
 		}
 
 		for(Department department: Department.values()){
-			double s = sponsorMap.get(department);
+			double s = incomeMap.get(department);
 			double m = expenseMap.get(department);
 			double ratio = Double.MAX_VALUE;
 			if(m != 0){
@@ -509,6 +529,32 @@ class ExpenseManager
 		for(Pair p: list){
 			res.add(p.name);
 		}
+		return res;
+	}
+	List<String> getListofFSINDescendOrderOfIncome(){
+		HashMap<String, Double> map = new HashMap<>();
+		List<String> res = new ArrayList<>();
+		for(User user: users){
+			if(user.user_position == Position.values()[0]){
+				map.put(user.user_name, 0.0);
+				res.add(user.user_name);
+			}
+		}
+		for(Transaction transaction : transactions){
+			if(transaction.from == null && transaction.to != null && transaction.to.user_position == Position.values()[0]){
+				map.put(transaction.to.user_name, map.get(transaction.to.user_name) +transaction.amount);
+			}
+		}
+
+		Collections.sort(res, (l1, l2) -> {
+			if(map.get(l1) == map.get(l2)){
+				return l1.compareTo(l2);
+			}else if(map.get(l1) < map.get(l2)){
+				return -1;
+			}else{
+				return 1;
+			}
+		});
 		return res;
 	}
 }

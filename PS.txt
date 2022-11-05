@@ -18,13 +18,13 @@ You are given various functions to implement and complete the app.
 	Income (Sponsor Money) will be when from Sponsor or fees so in this case from will be null and to will be a user.
 	A Transfer will be when any user(FS or DC) transfer money to other User(FS or DC)
 
-1. getNetRevenue():  is responsible for getting the net balance of Avishkar by adding funds and subtracting expenses.
-2. : getExpenseOfCategory(): is responsible to get Expenses in a particular category from a start Time to an end Time
-3. getExpenseOfDepartment(): is responsible to get Expenses for a particular Department from a start Time to an end Time.
-4. getNetRevenueOfUser(): is responsible to get the net revenue of a user.
-5. getCashflowOfDepartment(): is responsible to get cashflow for a department till a given time.
-6. getMoneyTransferredBetweenInterDepartments(): is responsible for all money transferred between two different departments.
-7. getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(): return List of Department names in ascending order of Sponsor received to expense ratio. If the ratio is equal, return in ascending 
+3. getNetRevenue():  is responsible for getting the net balance of Avishkar by adding funds and subtracting expenses.
+4. getExpenseOfCategory(): is responsible to get Expenses in a particular category from a start Time to an end Time
+5. getExpenseOfDepartment(): is responsible to get Expenses for a particular Department from a start Time to an end Time.
+6. getNetRevenueOfUser(): is responsible to get the net revenue of a user.
+7. getCashflowOfDepartment(): is responsible to get cashflow for a department till a given time.
+8. getMoneyTransferredBetweenInterDepartments(): is responsible for all money transferred between two different departments.
+9. getListOfDeptsInAscendOrderOfSponsorTOExpenseRatio(): return List of Department names in ascending order of Sponsor received to expense ratio. If the ratio is equal, return in ascending 
 
 Note: If a given user does not exist, you have to throw an Exception with the message”User name not found”.
 

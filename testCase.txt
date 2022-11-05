@@ -1,0 +1,10 @@
+// 1 --------------------------------------
+6
+0 Divyansh 0 0
+0 Saurabh 1 0
+0 Deepesh 1 0
+0 OmVijay 0 1
+0 Anushree 0 2
+0 Mradul 0 3
+
+Ans = users size will be 6
