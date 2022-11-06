@@ -271,6 +271,24 @@ void addMin(int &day, int &hour, int &minute, int min)
         hour %= 24;
     }
 }
+void random2Date(int day, int hour, int minute)
+{
+    int d = rnd.next(1, day - 1);
+    int h = rnd.next(0, 23);
+    int m = rnd.next(0, 59);
+    cout << 2022 << " " << 11 << " " << d << " " << h << " " << m << " ";
+    d += rnd.next(0, day - d - 1);
+    h = rnd.next(0, 23);
+    m = rnd.next(0, 59);
+    cout << 2022 << " " << 11 << " " << d << " " << h << " " << m << " ";
+}
+void randomDate(int day, int hour, int minute)
+{
+    int d = rnd.next(1, day - 1);
+    int h = rnd.next(0, 23);
+    int m = rnd.next(0, 59);
+    cout << 2022 << " " << 11 << " " << d << " " << h << " " << m << " ";
+}
 int main(int argc, char *argv[])
 {
 #ifndef ONLINE_JUDGE
@@ -286,7 +304,10 @@ int main(int argc, char *argv[])
     int day = 1;
     int hour = 0;
     int minute = 0;
-    for (int i = 0; i < 10; i++)
+    int tot1 = rnd.next(100, 1000);
+    int tot2 = rnd.next(1000, 5000);
+    cout << (2 * tot1 + tot2 + 10) << endl;
+    for (int i = 0; i < tot1; i++)
     {
         cout << 0 << endl;
         string s = rnd.next("[a-zA-Z]{4,4}");
@@ -302,11 +323,12 @@ int main(int argc, char *argv[])
         cout << 1 << endl;
         cout << "null"
              << " " << s << " " << amt << " " << category << endl;
-        addMin(day, hour, minute, rnd.next(10, 200));
+        addMin(day, hour, minute, rnd.next(10, 40));
         cout << 2022 << " " << 11 << " " << day << " " << hour << " " << minute << endl;
     }
     int a = 0, b = 0, c = 0;
-    for (int i = 0; i < 1000; i++)
+    cout << 10 << endl;
+    for (int i = 0; i < tot2; i++)
     {
         int type = rnd.next(0, 2);
 
@@ -350,8 +372,14 @@ int main(int argc, char *argv[])
             cout << 2022 << " " << 11 << " " << day << " " << hour << " " << minute << endl;
         }
     }
-    debug(a);
-    debug(b);
-    debug(c);
+    for (int i = 0; i <= 9; i++)
+    {
+        cout << 6 << endl;
+        randomDate(day, hour, minute);
+        cout << i << endl;
+    }
+    // cout << 2 << endl;
+    // cout << 3 << " " << users[rnd.next(0, (int)users.size() - 1)].user_name << endl;
+
     return 0;
 }

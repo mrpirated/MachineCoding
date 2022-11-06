@@ -201,12 +201,29 @@ public:
     }
     void addUser(string name, Position position, Department department)
     {
+        bool f = false;
+        for (auto user : users)
+        {
+            if (name == user->user_name)
+            {
+                f = true;
+                break;
+            }
+        }
+        if (f)
+        {
+            throw invalid_argument("Duplicate user_name");
+        }
+
         User *user = new User(name, position, department);
         users.push_back(user);
     }
     void addTransaction(string from, string to, double amount, Category category, DateTime *datetime)
     {
-
+        if (from == "null" && to == "null")
+        {
+            throw invalid_argument("Both users can't be null");
+        }
         if (from == to)
         {
             throw invalid_argument("Same users");
@@ -218,7 +235,7 @@ public:
             Transaction *transaction = new Transaction(from_user, to_user, amount, category, datetime);
             transactions.push_back(transaction);
         }
-        catch (invalid_argument e)
+        catch (exception e)
         {
             throw;
         }
@@ -442,7 +459,15 @@ int main()
             cin >> name;
             int position, department;
             cin >> position >> department;
-            expenseManager.addUser(name, (Position)position, (Department)department);
+            try
+            {
+                expenseManager.addUser(name, (Position)position, (Department)department);
+            }
+            catch (invalid_argument e)
+            {
+
+                debugger.Debug(e.what());
+            }
             break;
         }
         case 1:

@@ -175,7 +175,11 @@ public class ExpenseManagerMain {
 				case 0: {
 					String name = ns();
 					int position = ni(), department = ni();
-					em.addUser(name, Position.values()[position], Department.values()[department]);
+					try {
+						em.addUser(name, Position.values()[position], Department.values()[department]);
+					} catch (IllegalArgumentException e) {
+						debugger.Debug(e.getMessage());
+					}
 					break;
 				}
 				case 1: {
@@ -193,7 +197,7 @@ public class ExpenseManagerMain {
 					try {
 						em.addTransaction(from, to, amount, Category.values()[category],
 								new DateTime(year, month, day, hour, minute));
-					} catch (Exception e) {
+					} catch (IllegalArgumentException e) {
 						debugger.Debug(e.getMessage());
 					}
 					break;
@@ -209,7 +213,7 @@ public class ExpenseManagerMain {
 						name = null;
 					try {
 						debugger.Debug(em.getNetRevenueOfUser(name));
-					} catch (Exception e) {
+					} catch (IllegalArgumentException e) {
 						debugger.Debug(e.getMessage());
 					}
 					break;
@@ -435,18 +439,27 @@ class ExpenseManager {
 		// nullUser = new User(null, Position.values()[0], Department.values()[0]);
 	}
 
-	User findUser(String name) throws Exception {
+	User findUser(String name) throws IllegalArgumentException {
 		if (name == null)
 			return null;
 		for (User user : users) {
 			if (user.user_name.equals(name))
 				return user;
 		}
-		throw new Exception("User name not found");
+		throw new IllegalArgumentException("User name not found");
 	}
 
 	// This function is used to add the user in the application
-	void addUser(String name, Position position, Department department) {
+	void addUser(String name, Position position, Department department) throws IllegalArgumentException {
+		boolean f = false;
+		for (User user : users) {
+			if (user.user_name.equals(name)) {
+				f = true;
+				break;
+			}
+		}
+		if (f == true)
+			throw new IllegalArgumentException("Duplicate user_name");
 		User user = new User(name, position, department);
 		users.add(user);
 	}
@@ -462,10 +475,14 @@ class ExpenseManager {
 	 * Transfer will be when any user(FS or DC) transfer to other User(FS or DC)
 	 * 
 	 */
-	void addTransaction(String from, String to, double amount, Category category, DateTime datetime) throws Exception {
+	void addTransaction(String from, String to, double amount, Category category, DateTime datetime)
+			throws IllegalArgumentException {
 
+		if (from == null && to == null) {
+			throw new IllegalArgumentException("Both users can't be null");
+		}
 		if (from != null && to != null && from.equals(to)) {
-			throw new Exception("Same users");
+			throw new IllegalArgumentException("Same users");
 		}
 		try {
 			User from_user = findUser(from);
@@ -547,11 +564,11 @@ class ExpenseManager {
 	}
 
 	// This funcion is responsible to get net revenue of a user
-	double getNetRevenueOfUser(String user_name) throws Exception {
+	double getNetRevenueOfUser(String user_name) throws IllegalArgumentException {
 		double revenue = 0;
 		try {
 			User user = findUser(user_name);
-		} catch (Exception e) {
+		} catch (IllegalArgumentException e) {
 			throw e;
 		}
 		for (Transaction transaction : transactions) {

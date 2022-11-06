@@ -5,6 +5,11 @@
         "optional": "cpp",
         "variant": "cpp",
         "chrono": "cpp",
-        "stdexcept": "cpp"
+        "stdexcept": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp"
     }
 }

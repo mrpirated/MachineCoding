@@ -1,41 +1,11484 @@
-40
-9
-0 gbptl 0 1
+5742
+0
+MZbM 1 2
+0
+IADT 0 6
+0
+gMDB 1 5
+0
+PwBp 1 3
+0
+nuAP 1 4
+0
+Htqv 1 7
+0
+TYts 1 1
+0
+MZbM 0 0
+0
+FWtz 0 1
+0
+gUem 1 5
+0
+xYCi 0 0
+0
+YPNx 0 6
+0
+dUHz 0 4
+0
+udHa 0 8
+0
+fwuJ 1 5
+0
+gjmC 0 5
+0
+jFEo 0 1
+0
+GWxt 1 1
+0
+IQqU 1 1
+0
+DsWX 0 4
+0
+zfhk 0 6
+0
+FagP 0 2
+0
+DAgk 1 3
+0
+veUs 1 7
+0
+sTul 1 8
+0
+MFgz 1 8
+0
+yeTw 1 2
+0
+Ewcz 1 3
+0
+lqat 1 6
+0
+wgZc 0 7
+0
+OxYJ 1 8
+0
+MPpr 1 4
+0
+oBda 1 4
+0
+SUFE 1 2
+0
+CbSZ 1 1
+0
+pbzU 1 6
+0
+oRzf 0 7
+0
+QorV 1 4
+0
+lfdC 0 1
+0
+RqDk 1 6
+0
+zXiL 0 8
+0
+pFpx 1 8
+0
+gdSc 1 5
+0
+AmzT 0 6
+0
+tCMb 1 0
+0
+jDwt 1 5
+0
+OLSY 0 7
+0
+BpOL 1 6
+0
+PMrf 0 4
+0
+DtMW 0 6
+0
+gxhw 0 3
+0
+DFQJ 1 3
+0
+TTSl 1 6
+0
+kJOY 0 6
+0
+ICeA 0 4
+0
+eVsJ 1 0
+0
+FnKS 0 5
+0
+JXwc 1 5
+0
+BZBr 0 2
+0
+jQTL 0 2
+0
+PtPK 0 3
+0
+QJsh 1 1
+0
+anNr 0 2
+0
+rghL 1 0
+0
+PXNL 0 8
+0
+DkSW 0 4
+0
+NWwy 1 8
+0
+NeXe 1 8
+0
+uYfj 0 0
+0
+FxEX 1 8
+0
+PcFB 0 7
+0
+TyHT 1 1
+0
+osCC 0 2
+0
+vCRO 0 3
+0
+xzOE 0 1
+0
+bbQK 1 5
+0
+PwmH 1 3
+0
+rMlF 1 5
+0
+QYIK 0 7
+0
+Aifc 1 0
+0
+EzeS 1 2
+0
+aiAf 0 5
+0
+aIsY 0 4
+0
+TPnx 1 5
+0
+rNqU 0 0
+0
+RhiE 0 3
+0
+vOuw 0 7
+0
+hDFa 1 4
+0
+vNgI 1 5
+0
+prza 1 5
+0
+ILwK 0 6
+0
+OCni 0 8
+0
+RfQx 0 4
+0
+cGVZ 1 1
+0
+nEZB 1 7
+0
+bmrV 0 4
+0
+vVwq 1 6
+0
+wHmm 0 2
+0
+IWhF 0 4
+0
+WFtg 0 7
+0
+YGsp 0 6
+0
+MgNW 1 3
+0
+nZnz 0 0
+0
+jMWI 0 7
+0
+odOA 1 8
+0
+uvMe 0 5
+0
+PiyM 1 0
+0
+EbJi 1 5
+0
+efGT 0 8
+0
+IvTL 1 4
+0
+qnkK 0 7
+0
+SCno 1 3
+0
+hIGi 0 3
+0
+zZZb 1 7
+0
+LxEn 1 4
+0
+zDiO 1 1
+0
+BUlv 0 6
+0
+hAYe 0 2
+0
+CtyA 1 4
+0
+vuDY 1 7
+0
+GmHL 1 0
+0
+Yips 1 8
+0
+HpyG 1 1
+0
+WWlN 0 3
+0
+nQgD 1 7
+0
+XZFt 0 1
+0
+TRKB 0 7
+0
+sNLc 0 5
+0
+uJBb 0 6
+0
+KGxo 0 8
+0
+vCJm 1 3
+0
+xcGy 1 1
+0
+LcJq 0 6
+0
+ydps 0 8
+0
+KPSu 1 6
+0
+xlsI 0 8
+0
+rCVR 1 7
+0
+yFwU 0 1
+0
+bbNx 0 2
+0
+MxRb 0 1
+0
+Dase 0 1
+0
+KeCq 1 2
+0
+Awyq 1 7
+0
+uZcv 0 7
+0
+PxiC 1 5
+0
+SBsU 0 3
+0
+qkwG 1 0
+0
+ZBCZ 1 2
+0
+hxnX 1 2
+0
+cvQe 0 0
+0
+Sfho 0 2
+0
+Nhuu 1 1
+0
+iYfw 1 1
+0
+ecYY 0 6
+0
+dlEG 1 7
+0
+iyRW 1 1
+0
+MDFd 1 6
+0
+OkIw 0 1
+0
+IbDK 1 8
+0
+SxRY 0 0
+0
+rtJP 0 1
+0
+HMQE 0 4
+0
+LeHs 1 2
+0
+VSSM 1 3
+0
+SxUS 1 8
+0
+RDVz 0 3
+0
+glyo 1 1
+0
+IfWG 0 8
+0
+CjLK 0 6
+0
+nLct 1 5
+0
+oxYV 1 3
+0
+lHRl 1 3
+0
+Sucl 1 3
+0
+iTmx 1 0
+0
+SOWJ 0 8
+0
+mLUi 0 6
+0
+EwqC 1 8
+0
+vSQf 1 1
+0
+cSdR 1 0
+0
+bdyT 1 6
+0
+EETQ 0 8
+0
+xTaw 0 1
+0
+vzrA 0 6
+0
+PNDd 1 4
+0
+AlsW 1 0
+0
+foOI 1 5
+0
+mdJX 1 1
+0
+ewKW 0 5
+0
+KIBC 0 3
+0
+Iwpm 1 7
+0
+HTcz 1 0
+0
+gyVS 1 3
+0
+eTDF 1 1
+0
+peOp 0 5
+0
+LaYs 1 1
+0
+mcEd 0 0
+0
+eicJ 1 3
+0
+xcxJ 1 2
+0
+ltTs 1 1
+0
+BMiG 1 8
+0
+jgVi 0 3
+0
+JVpV 0 0
+0
+SETI 1 2
+0
+tCMA 0 1
+0
+yOOE 1 1
+0
+UPLO 0 3
+0
+vqdW 0 8
+0
+gAJU 0 1
+0
+eEDj 1 3
+0
+Sxdv 0 6
+0
+jqLW 1 2
+0
+UyLq 0 1
+0
+mwDO 0 3
+0
+YedF 0 0
+0
+hKQM 0 3
+0
+Acoo 0 4
+0
+XbfZ 1 3
+0
+vqaA 0 3
+0
+CIrQ 0 5
+0
+LJMA 1 8
+0
+uAOU 0 1
+0
+aVeb 1 1
+0
+sUla 1 4
+0
+PNzq 1 2
+0
+Dxwt 1 0
+0
+iLPM 0 0
+0
+wboN 0 1
+0
+QitT 0 2
+0
+fSES 0 4
+0
+Nipo 0 1
+0
+lphJ 0 3
+0
+sPhB 1 4
+0
+IFmW 1 1
+0
+hQib 1 4
+0
+ysyV 0 2
+0
+MinY 1 5
+0
+EPub 1 5
+0
+vyoV 0 3
+0
+ZdOb 1 2
+0
+NJBe 1 4
+0
+HYwI 0 3
+0
+XZfC 1 8
+0
+mEFw 0 8
+0
+BJdf 1 8
+0
+Xdpc 1 1
+0
+GVKP 1 5
+0
+DpZo 1 1
+0
+CHWs 0 0
+0
+OoEJ 1 3
+0
+Cekt 1 5
+0
+WHSu 1 2
+0
+AwMi 0 4
+0
+HraF 0 7
+0
+DIxz 1 5
+0
+IEai 0 4
+0
+zQTS 1 1
+0
+mGvH 0 8
+0
+AXgM 1 5
+0
+Vwio 1 6
+0
+EbIJ 1 0
+0
+taFT 0 2
+0
+avEM 0 3
+0
+XeNp 1 0
+0
+REXS 1 8
+0
+sSTw 1 6
+0
+tXbU 0 1
+0
+PygF 1 0
+0
+cKJd 1 7
+0
+MEES 1 5
+0
+Homc 1 6
+0
+rUVz 0 0
+0
+BVeb 1 6
+0
+pGCd 1 7
+0
+ibfx 1 4
+0
+Cxwl 1 5
+0
+ZCLW 1 0
+0
+OljT 1 5
+0
+vHxI 0 7
+0
+HlQA 1 7
+0
+rbxU 1 2
+0
+veGD 1 7
+0
+Edxb 0 7
+0
+mxMx 1 4
+0
+FKWb 0 3
+0
+fcan 0 5
+0
+Qeja 0 5
+0
+lpgv 1 6
+0
+glRZ 0 5
+0
+XVUo 1 6
+0
+ZXQm 1 0
+0
+mBvc 0 7
+0
+cQtm 1 1
+0
+TBsC 1 7
+0
+Yton 0 1
+0
+RkBb 1 7
+0
+IPRG 0 7
+0
+jPjy 0 6
+0
+yfYM 0 3
+0
+aJRn 1 7
+0
+TbXm 1 7
+0
+Zafk 1 5
+0
+NlJs 1 7
+0
+YGeG 0 4
+0
+YYLf 0 5
+0
+LJwG 0 7
+0
+Ldkz 1 7
+0
+mowl 1 3
+0
+sodv 1 7
+0
+ExPP 1 6
+0
+CeqL 1 7
+0
+QlvI 1 4
+0
+gjeo 0 1
+0
+CrtG 0 2
+0
+mncO 0 8
+0
+dOzI 0 8
+0
+PHVW 0 6
+0
+SMGO 0 6
+0
+UqUR 0 5
+0
+HhJJ 0 3
+0
+lLaM 0 6
+0
+fcMr 0 8
+0
+jGXi 0 0
+0
+caSi 0 5
+0
+XEWc 0 2
+0
+tYLH 0 4
+0
+JdLi 0 4
+0
+lSHa 1 5
+0
+optU 0 0
+0
+xsCz 0 6
+0
+gnNG 0 8
+0
+KhnA 0 6
+0
+cdpZ 1 6
+0
+UdVC 0 6
+0
+BFgy 1 0
+0
+pFtg 0 4
+0
+tyLn 1 4
+0
+tsyo 0 4
+0
+GOai 1 7
+0
+fRsl 1 0
+0
+SsAm 1 6
+0
+ljas 0 6
+0
+HlkQ 0 3
+0
+Jglp 0 4
+0
+MTHV 1 8
+0
+hCKu 0 4
+0
+KrRZ 0 2
+0
+DuzH 0 0
+0
+kqGl 1 1
+0
+KuuY 0 5
+0
+cjra 1 1
+0
+cUrP 1 5
+0
+smQh 1 6
+0
+FiGA 0 4
+0
+YcVE 1 0
+0
+uQxV 1 4
+0
+yAoF 1 5
+0
+hLDA 0 0
+0
+kHCC 0 6
+0
+hKKI 0 7
+0
+CYQx 0 5
+0
+Hldk 0 6
+0
+Hkfn 1 7
+0
+LGoz 0 3
+0
+XDCk 1 3
+0
+tkQI 0 6
+0
+iwRp 0 2
+0
+DTGx 1 3
+0
+lbgm 1 4
+0
+zBNS 1 3
+0
+bIyP 1 4
+0
+rwRB 0 7
+0
+bRDP 1 6
+0
+obAJ 0 1
+0
+rPkr 0 4
+0
+PNKx 1 3
+0
+hLpG 1 0
+0
+laQs 0 5
+0
+phBt 0 3
+0
+hSez 0 5
+0
+KAIi 0 3
+0
+tiyL 0 5
+0
+TNin 0 6
+0
+bYNj 1 7
+0
+nagf 0 2
+0
+UHOA 0 6
+0
+SGbb 0 5
+0
+lmRa 1 1
+0
+LIuG 1 4
+0
+BNIz 1 8
+0
+nTsC 0 6
+0
+jmmY 1 6
+0
+aOPv 1 1
+0
+byoA 0 1
+0
+YddT 0 5
+0
+ORUR 1 7
+0
+tamZ 0 5
+0
+DDCm 1 7
+0
+NJuI 0 0
+0
+AuCA 0 3
+0
+wXdQ 1 1
+0
+CvAE 0 4
+0
+GvWt 1 4
+0
+Fivk 1 4
+0
+EkHN 0 6
+0
+Cspv 0 8
+0
+yWGQ 1 1
+0
+LpSx 1 3
+0
+NrJX 1 2
+0
+TJTv 0 0
+0
+PVOt 0 5
+0
+axiQ 0 7
+0
+ZtkS 1 7
+0
+TaiM 0 0
+0
+qjbj 1 2
+0
+EbnU 0 6
+0
+TEqf 0 0
+0
+WjZi 0 1
+0
+gcUs 0 4
+0
+QxJI 1 1
+0
+JQRb 1 6
+0
+SieW 0 0
+0
+idvV 0 7
+0
+QjDO 1 4
+0
+EeMV 1 2
+0
+HjZT 0 0
+0
+tCgR 0 5
+0
+iNQB 1 4
+0
+hVea 1 8
+0
+TjJT 1 6
+0
+Nyoi 1 4
+0
+FSzf 0 7
+0
+aflG 0 3
+0
+VKsi 1 6
+0
+XLYq 0 0
+0
+euhb 0 3
+0
+oFcG 1 0
+0
+efFy 0 0
+0
+PcqE 1 2
+0
+jkBK 1 2
+0
+NURN 1 5
+0
+SOQz 1 4
+0
+FIqa 0 1
+0
+uzXN 1 8
+0
+TcNl 0 5
+0
+GLpD 0 6
+0
+xLPO 0 5
+0
+mDtq 1 7
+0
+TqDw 0 2
+0
+bdXS 0 6
+0
+RgUO 0 3
+0
+nvTA 0 6
+0
+IHMo 1 5
+0
+XvlS 1 8
+0
+qVVZ 1 7
+0
+RYuy 0 7
+0
+nQcQ 1 1
+0
+qpKR 0 3
+0
+Xsjm 0 8
+0
+oCwc 1 2
+0
+rJOY 1 3
+0
+pMuE 1 2
+0
+jdDw 1 0
+0
+CZfZ 0 1
+0
+DheE 0 6
+0
+PiYp 1 7
+0
+WtgD 0 2
+0
+NEoF 0 3
+0
+MURg 0 1
+0
+OTUW 0 8
+0
+bvUV 0 0
+0
+UVQi 0 3
+0
+FIeo 0 0
+0
+yhWp 1 2
+0
+xCpk 1 8
+0
+aYfv 0 5
+0
+SyIw 0 1
+0
+UwlA 0 2
+0
+jHpB 0 3
+0
+PtEF 1 6
+0
+tqhH 1 1
+0
+lXKQ 0 6
+0
+XBgO 1 5
+0
+vusl 0 8
+0
+oGNd 0 1
+0
+dUsS 0 6
+0
+Prfu 1 5
+0
+kHBH 1 5
+0
+Ywse 0 4
+0
+AuPv 0 7
+0
+TSyO 1 7
+0
+Pxwy 1 6
+0
+ESBn 1 7
+0
+wtRh 1 3
+0
+ukKD 1 2
+0
+XNJK 1 2
+0
+OPLF 1 7
+0
+yfIA 1 3
+0
+MZBn 1 3
+0
+jdAe 0 2
+0
+acbd 0 0
+0
+fVpL 0 5
+0
+lpfl 1 7
+0
+uWRi 1 1
+0
+hZhP 1 2
+0
+zZyv 0 6
+0
+wWxb 1 5
+0
+BdHB 0 8
+0
+VLRB 0 0
+0
+ZvlK 1 7
+0
+klvq 1 5
+0
+RQON 1 8
+0
+jfxX 1 1
+0
+KkpZ 0 5
+0
+VYvk 1 5
+0
+PNPQ 1 5
+0
+eMMa 0 2
+0
+wAZh 1 2
+0
+EnVe 0 8
+0
+aSif 1 6
+0
+veuX 0 0
+0
+pXzv 0 1
+0
+voZc 0 5
+0
+nFTS 0 1
+0
+XMwT 1 8
+0
+xmam 0 8
+0
+npLo 0 1
+0
+EThv 1 7
+0
+cQId 0 6
+0
+hlhP 1 3
+0
+fRDP 0 0
+0
+HYQU 1 6
+0
+QZtL 0 1
+0
+MJmQ 0 0
+0
+mbUP 1 2
+0
+xVKj 1 7
+0
+USUK 1 5
+0
+poPz 1 8
+0
+vQMS 0 3
+0
+UhSQ 0 7
+0
+NmrU 0 2
+0
+PUcm 1 8
+0
+lrPD 1 1
+0
+xTRa 0 3
+0
+iZUQ 0 4
+0
+EYlA 0 0
+0
+DftX 0 1
+0
+IpOZ 0 6
+0
+ZWmn 0 3
+0
+vMqW 0 5
+0
+xYyb 0 1
+0
+GyAp 1 2
+0
+cnYu 1 0
+0
+BVKs 0 6
+0
+sDsp 1 5
+0
+demQ 0 4
+0
+UOOo 1 3
+0
+okVz 0 2
+0
+VNUR 0 8
+0
+UTcu 1 6
+0
+NQxM 0 0
+0
+lIDv 0 8
+0
+wMSn 0 4
+0
+xFtM 0 7
+0
+SdMn 0 5
+0
+nJpW 0 1
+0
+xxTf 0 4
+0
+Bjif 0 6
+0
+TbdJ 0 7
+0
+otGF 0 4
+0
+gRdO 1 8
+0
+qIWL 1 4
+0
+oEeb 1 0
+0
+sYvU 1 2
+0
+iyCO 1 7
+0
+XxAF 0 4
+0
+xwkT 1 1
+0
+ljAB 0 1
+0
+ERKs 0 5
+0
+NhOv 1 4
+0
+SUmb 1 4
+0
+rLlO 1 5
+0
+XMXb 0 8
+0
+aDrV 0 5
+0
+rBYH 0 4
+0
+Nixr 1 0
+0
+Xngp 0 0
+0
+IQdF 1 6
+0
+rNYF 0 8
+0
+cTmj 0 8
+0
+FQSg 1 0
+0
+tREw 0 2
+0
+cEan 0 6
+0
+IokD 0 0
+0
+obOi 1 4
+0
+moDF 0 1
+0
+GuzZ 1 7
+0
+dcIN 1 4
+0
+bfEl 0 0
+0
+BTBw 1 2
+0
+ygft 0 5
+0
+xwmP 0 5
+0
+Nclq 1 7
+0
+zPQb 0 2
+0
+kJDx 0 1
+0
+UWXo 0 3
+0
+SCsx 0 3
+0
+bLPM 0 8
+0
+Wlzn 1 8
+0
+UZVN 1 2
+0
+ibPT 0 0
+0
+Gxaa 1 2
+0
+fVhc 1 8
+0
+MlkJ 1 5
+0
+GFpo 1 7
+0
+VhLT 1 4
+0
+jSAr 0 4
+0
+rLTu 1 8
+0
+yWIr 1 6
+0
+dkDh 0 2
+0
+pYlE 1 7
+0
+CKUb 1 4
+0
+qmEE 1 5
+0
+hknB 1 7
+0
+DGjO 0 5
+0
+sZeb 0 1
+0
+ZwYF 1 4
+0
+dGxZ 0 8
+0
+ahrh 0 5
+0
+ZsRp 1 6
+0
+ABOG 1 7
+0
+Hfzw 0 1
+0
+NtZu 0 4
+0
+PlXH 0 6
+0
+Apjz 0 7
+0
+sNEz 1 5
+0
+osiy 1 1
+0
+NbuW 0 8
+0
+Sfkf 0 5
+0
+lVes 0 6
+0
+zKbh 0 3
+0
+VKJe 1 0
+0
+IcLc 1 4
+0
+gNgY 1 6
+0
+ySvw 1 1
+0
+Jokq 0 1
+0
+tIVF 1 8
+0
+ufIv 1 4
+0
+Bpvl 0 1
+0
+dNEo 0 0
+0
+njlE 1 3
+0
+HppP 0 7
+0
+EAiQ 1 6
+0
+KSNP 0 4
+0
+JvIp 1 3
+0
+mNnx 1 2
+0
+EIcs 0 4
+0
+zvRH 0 3
+0
+ATXU 1 3
+0
+OKIo 1 6
+0
+Zpvj 1 0
+0
+NZdW 1 6
+0
+TSrI 0 4
+0
+RRFZ 1 2
+0
+YnBb 1 3
+0
+awWM 0 6
+0
+HdLN 0 3
+0
+BKtE 1 1
+0
+haCV 0 5
+0
+krlJ 1 3
+0
+xdvd 1 0
+0
+JSBp 1 0
+0
+FtSE 1 1
+0
+IOHz 0 6
+0
+yxqW 0 4
+0
+qCtu 0 0
+0
+Tbjd 1 1
+0
+XVOX 1 5
+0
+taOq 0 6
+0
+XCnd 0 8
+0
+dygN 0 0
+0
+muJN 0 3
+0
+MDxA 0 6
+0
+vPLr 1 1
+0
+PJKU 0 5
+0
+LuEP 0 4
+0
+uzYw 1 5
+0
+CICA 0 4
+0
+YUlJ 0 6
+0
+LiEo 1 1
+0
+KqPe 1 1
+0
+SwUL 1 1
+0
+ffIX 1 4
+0
+usYb 0 6
+0
+UgZh 0 6
+0
+Fele 0 6
+0
+eFSU 0 8
+0
+edqT 1 0
+0
+wPdP 1 2
+0
+oSYt 1 4
+0
+inXP 0 8
+0
+oloS 0 8
+0
+gPyV 1 3
+0
+HQdr 1 3
+0
+IheR 1 6
+0
+OSAp 0 5
+0
+gJsZ 1 2
+0
+hWcu 1 5
+0
+sAqJ 0 3
+0
+VvEu 1 0
+0
+FBHo 0 8
+0
+OCDW 1 6
+0
+nVZE 0 0
+0
+qUqe 1 3
+0
+fYmG 0 4
+0
+QPEj 1 7
+0
+PqGV 0 8
+0
+GrMe 1 1
+0
+oFJb 1 5
+0
+KVjT 1 2
+0
+joKi 0 5
+0
+rSLR 0 8
+0
+RMds 1 4
+0
+JBQZ 1 4
+0
+ljBd 0 6
+0
+fZqR 0 3
+0
+kWMo 0 1
+0
+Jypm 1 5
+0
+UuHB 1 5
+0
+nIby 0 5
+0
+xoWy 1 5
+0
+nqAf 0 3
+0
+TKCJ 0 2
+0
+zBnx 1 8
+0
+OjSh 0 4
+0
+vBUH 1 3
+0
+gOVm 0 1
+0
+ZATO 1 2
+0
+udiP 1 0
+0
+EwmU 1 1
+0
+jMbp 1 8
+0
+NbLw 0 7
+0
+iWLB 0 6
+0
+pnDs 1 3
+0
+ufFa 0 0
+0
+qdFp 1 8
+0
+vijr 0 3
+0
+qAto 1 1
+0
+SVJc 1 2
+0
+XwWm 0 4
+0
+zjPk 0 3
+0
+boXo 0 3
+0
+gDra 0 7
+0
+TTHe 0 3
+0
+HiIi 1 3
+0
+GABn 1 0
+0
+SkTk 1 7
+0
+ebfE 1 3
+0
+vLWR 1 8
+0
+jhEf 1 3
+0
+CQqD 0 3
+0
+tRGz 0 2
+0
+MrYS 0 6
+0
+KhLi 1 6
+0
+ogTN 1 7
+0
+aslq 1 3
+0
+oMef 1 2
+0
+syYX 0 2
+0
+ssJm 1 7
+0
+PloE 1 6
+0
+cjLi 0 0
+0
+wtvj 1 4
+0
+bvaF 0 0
+0
+JYPx 0 5
+0
+zxbT 0 4
+0
+yMpA 1 0
+0
+Aqjd 0 3
+0
+IvIN 0 3
+0
+jHVa 1 7
+0
+KqNc 1 3
+0
+bDwb 1 2
+0
+hKeV 0 0
+0
+owle 0 6
+0
+rUok 0 2
+0
+NCMJ 1 7
+0
+AlrM 0 0
+0
+mKAP 0 4
+0
+NJXN 1 5
+0
+irlm 1 2
+0
+UHjP 1 2
+0
+sYRI 0 2
+0
+ZCyU 1 3
+0
+sDqS 1 8
+0
+xwSq 0 0
+0
+zFCq 0 2
+0
+grSF 1 1
+0
+elhY 0 4
+0
+pKQk 0 5
+0
+hpZN 1 7
+0
+gmco 1 1
+0
+WzMK 1 6
+0
+PVsW 0 0
+0
+qGoG 0 3
+0
+AzSI 1 5
+0
+ozdd 0 7
+0
+FsHo 0 3
+0
+ldLo 0 2
+0
+GvxC 0 0
+0
+PwNr 0 8
+0
+OpDH 0 0
+0
+pevR 1 4
+0
+HBdf 0 1
+0
+yvff 0 2
+0
+FRRo 1 1
+0
+jzpM 0 2
+0
+fqfL 1 3
+0
+wztg 0 0
+0
+IFDy 0 2
+0
+koaQ 1 6
+0
+mAtG 0 0
+0
+uMwV 0 8
+0
+coiI 0 0
+0
+neni 0 2
+0
+wKHk 0 1
+0
+VxiB 0 2
+0
+xFUd 0 4
+0
+lJln 1 6
+0
+VJco 1 5
+0
+YIpi 1 7
+0
+XanM 1 3
+0
+yYCm 0 7
+0
+dzIv 1 3
+0
+gwxs 0 6
+0
+JoKV 0 4
+0
+sfXp 0 7
+0
+UFsa 0 7
+0
+nCVx 0 4
+0
+PbNf 1 8
+0
+zcym 1 7
+0
+dilC 1 4
+0
+PUew 0 7
+0
+CGNZ 1 0
+0
+AUpt 0 0
+0
+tStk 1 0
+0
+kDRg 0 1
+0
+mLRW 0 3
+0
+nZpV 0 6
+0
+GGxC 0 3
+0
+uQXq 0 3
+0
+hpEY 1 2
+0
+bfAN 0 5
+0
+yOMy 1 2
+0
+BiQn 1 5
+0
+vyfR 1 7
+0
+JDuh 0 1
+0
+wZId 0 5
+0
+yjcQ 1 2
+0
+Lcju 1 5
+0
+OrPp 1 1
+0
+uOnA 1 2
+0
+SOub 0 8
+0
+BZxu 0 8
+0
+Ovqe 0 2
+0
+Jfli 0 5
+0
+Wdjg 1 6
+0
+xzXf 0 3
+0
+yMmN 0 3
+0
+JnZK 0 5
+0
+fEpd 0 2
+0
+AWgY 1 8
+0
+WNBI 0 8
+0
+faep 1 2
+0
+SOyn 0 2
+0
+aEKa 0 1
+0
+jfHh 1 7
+0
+xsVI 1 7
+0
+oPKW 1 6
+0
+ZPXl 1 1
+0
+wDui 0 1
+0
+SMxX 0 0
+0
+mPoQ 1 3
+0
+Gami 1 4
+0
+NrlN 1 2
+0
+xCDy 0 1
+0
+ruwS 0 7
+0
+ljUP 1 7
+0
+eQqz 1 3
+0
+lXTG 0 4
+0
+TCrA 0 8
+0
+yBQY 1 1
+0
+lYzH 0 4
+0
+OqIJ 0 0
+0
+ZuFD 0 8
+0
+CmEq 1 3
+0
+ifpy 0 8
+0
+GrpO 1 1
+0
+aEcx 0 7
+0
+EUaL 0 1
+0
+ExMK 0 2
+0
+eGEr 0 2
+0
+Anel 1 5
+0
+TxfQ 1 2
+0
+CnhX 1 3
+0
+kWpp 1 6
+0
+yKVM 0 2
+0
+JGzi 1 1
+0
+UjGD 0 0
+0
+LXgX 1 0
+0
+Whvt 1 2
+0
+Sjin 0 5
+0
+wfXc 1 3
+0
+yTbE 0 4
+0
+Wmpd 0 2
+0
+jsfZ 1 5
+0
+ZYud 0 0
+0
+OwfC 0 7
+0
+ccYH 0 0
+0
+JMXy 0 3
+0
+FZVn 1 6
+0
+KAmP 1 3
+0
+oFLQ 1 3
+0
+aJuz 0 6
+0
+ozdG 1 1
+0
+iBGy 0 4
+0
+HCxC 0 6
+0
+HqaE 0 1
+0
+GomQ 0 0
+0
+RfGQ 1 5
+0
+OYXf 0 6
+0
+wgMV 0 1
+0
+uNux 0 4
+0
+rUmq 0 3
+0
+LFHY 0 3
+0
+efPK 1 0
+0
+eQfJ 0 7
+0
+Dkdz 0 3
+0
+NYvQ 1 4
+0
+rXjN 1 2
+0
+WLFI 1 2
+0
+pQnr 0 5
+0
+yfco 1 3
+0
+BLUV 0 8
+0
+MSWc 1 2
+0
+FQnH 1 3
+0
+AEqV 1 8
+0
+wUtQ 1 0
+0
+qMQN 0 2
+0
+VUAZ 1 8
+0
+VLti 0 3
+0
+MUux 1 5
+0
+TSRh 0 8
+0
+pPEv 0 3
+0
+pwoM 0 6
+0
+jWFs 0 1
+0
+aUme 1 8
+0
+Rknk 1 8
+0
+Knvz 0 2
+0
+EcUv 1 8
+0
+kGbi 0 5
+0
+WXiO 1 6
+0
+IdgD 0 3
+0
+XcLa 0 1
+0
+NwmG 1 4
+0
+pgrv 0 7
+0
+KWpk 1 3
+0
+CcxY 1 7
+0
+SWGw 1 5
+0
+WCBo 0 1
+0
+FtUC 0 2
+0
+lpnQ 1 4
+0
+JnYv 0 3
+0
+eatD 1 7
+0
+BGkZ 0 3
+0
+FgUb 1 6
+0
+nIlU 1 4
+0
+VHhC 1 7
+0
+NRod 0 4
+0
+lUob 0 2
+0
+eAMU 1 4
+0
+LHmI 0 8
+0
+cMbL 0 4
+0
+KIrG 0 7
+0
+LTzt 1 2
+0
+FRRs 0 1
+0
+xXiB 0 8
+0
+mBKa 1 6
+0
+vgEW 0 3
+0
+fqgy 0 1
+0
+iEig 1 4
+0
+plSY 1 7
+0
+blCy 1 7
+0
+hOvq 0 8
+0
+lnPQ 0 5
+0
+YiuB 0 2
+0
+jHvJ 0 5
+0
+njiM 0 4
+0
+HofL 0 2
+0
+TlDU 1 6
+0
+XmJm 0 4
+0
+DlUu 0 2
+0
+acMH 0 1
+0
+VPqy 0 1
+0
+IPDd 0 4
+0
+PRDN 0 0
+0
+yNLf 1 0
+0
+ryts 0 6
+0
+eJlG 1 4
+0
+Ucqv 1 0
+0
+xmhx 1 8
+0
+SKzn 1 3
+0
+sOqj 1 3
+0
+LcMC 1 1
+0
+szpi 1 1
+0
+GvLH 1 5
+0
+mTfn 0 8
+0
+BylZ 1 5
+0
+pytC 0 6
+0
+duQh 1 1
+0
+XXtX 0 6
+0
+BXMk 0 0
+0
+Jnrf 0 8
+0
+FYUP 0 5
+0
+dBUy 1 6
+0
+WVUu 1 0
+0
+UnXu 1 6
+0
+Xrya 0 0
+0
+RJSx 1 8
+0
+mrUw 1 7
+0
+CVjb 0 8
+0
+QCyX 1 4
+0
+JMDh 1 8
+0
+QVzi 1 5
+0
+iUfu 1 1
+0
+tNIs 1 7
+0
+VkTi 0 4
+0
+uptR 0 1
+0
+dZjJ 0 5
+0
+SQxF 1 0
+0
+QMqV 1 3
+0
+UHxE 1 3
+0
+URmj 1 6
+0
+kEeP 0 1
+0
+vBAe 1 2
+0
+FnzX 1 4
+0
+CboX 0 5
+0
+dXGF 0 7
+0
+Xohn 1 1
+0
+SpkW 0 0
+0
+xJRI 1 7
+0
+Casq 0 3
+0
+lnxV 0 1
+0
+ekRU 1 2
+0
+hNGy 1 3
+0
+BOeo 1 0
+0
+fesK 0 5
+0
+AEpU 1 6
+0
+wPOW 1 5
+0
+cEJx 0 0
+0
+bOML 0 4
+0
+ZLVt 1 6
+0
+pFZy 0 2
+0
+iOaR 1 6
+0
+rpxY 0 8
+0
+XxLp 0 5
+0
+zfJD 1 1
+0
+UDmY 0 8
+0
+LKXm 0 5
+0
+OLek 1 4
+0
+DyJA 1 1
+0
+fPaP 1 0
+0
+CDoW 0 7
+0
+bnBr 0 8
+0
+lUgZ 0 6
+0
+ysyP 0 4
+0
+dCEM 0 2
+0
+yliZ 1 2
+0
+cdHq 1 4
+0
+vsQf 1 1
+0
+bNUW 1 5
+0
+poyn 1 2
+0
+Zhmm 1 5
+0
+ADZE 0 3
+0
+fvvT 0 7
+0
+Swwb 1 7
+0
+eRCT 1 3
+0
+YzoS 1 3
+0
+kzks 1 7
+0
+ljve 1 1
+0
+YxrL 1 5
+0
+PHnb 1 8
+0
+mrCL 1 1
+0
+ZToX 1 4
+0
+epWp 1 7
+0
+wZXN 1 2
+0
+pjbX 1 0
+0
+yaFR 0 5
+0
+KZuX 1 0
+0
+WIjc 0 3
+0
+SowI 0 8
+0
+MOjm 1 8
+0
+rvnB 1 8
+0
+uyyT 0 5
+0
+rduP 0 5
+0
+GNgm 0 5
+0
+xGlD 0 1
+0
+MAqH 1 6
+0
+dsRy 0 1
+0
+dFGJ 0 2
+0
+NZru 1 8
+0
+rHhP 1 1
+0
+tVdj 0 2
+0
+chwI 1 6
+0
+ApsU 0 0
+0
+LLvj 1 8
+0
+EMXu 0 0
+0
+CvkE 1 6
+0
+ywbf 1 3
+0
+jtyb 0 4
+0
+cKyt 1 7
+0
+UWQK 0 3
+0
+FUCy 0 2
+0
+xSjr 0 5
+0
+wbDc 1 8
+0
+dImL 0 5
+0
+cxOE 1 0
+0
+jJBc 1 3
+0
+UyEr 0 7
+0
+XkXc 0 0
+0
+nECF 0 3
+0
+TiYT 0 5
+0
+Wqwp 0 0
+0
+vOQG 1 8
+0
+JhdS 1 0
+0
+yuPY 0 0
+0
+Vtlt 0 2
+0
+VFlM 0 0
+0
+oPfQ 0 4
+0
+yazc 0 8
+0
+LvLb 1 2
+0
+bXTa 1 2
+0
+JerN 1 1
+0
+aXZj 0 1
+0
+qhMS 0 1
+0
+UxxV 0 2
+0
+bgHf 1 8
+0
+vgLD 0 0
+0
+wohC 1 5
+0
+CxKB 1 2
+0
+jKia 1 6
+0
+CDHB 0 2
+0
+sVHW 0 8
+0
+wAWn 0 0
+0
+bcPS 0 7
+0
+YQVS 1 0
+0
+ebEb 1 0
+0
+JcjN 0 6
+0
+cJUn 1 3
+0
+zPgL 0 7
+0
+wMOu 1 8
+0
+rLfA 1 6
+0
+iVhi 1 3
+0
+zcMC 0 3
+0
+XtNo 1 6
+0
+cMAE 0 7
+0
+RDuE 0 7
+0
+BaGt 1 7
+0
+Ugtl 0 2
+0
+gXRI 1 3
+0
+ursY 1 8
+0
+oocR 1 0
+0
+LEvN 0 2
+0
+jkUO 0 2
+0
+JRIV 1 7
+0
+UZwo 1 8
+0
+OmBb 0 7
+0
+hwhi 1 0
+0
+uRXX 1 5
+0
+dfoR 1 5
+0
+TTNS 1 0
+0
+JrqS 0 7
+0
+wjzU 0 4
+0
+svxQ 1 2
+0
+IJPW 0 0
+0
+bigw 0 8
+0
+RleA 0 4
+0
+OceG 1 3
+0
+xqsz 1 3
+0
+GJis 1 4
+0
+dYQq 0 3
+0
+AGLk 0 6
+0
+Qobe 0 4
+0
+erAr 1 1
+0
+SVrN 1 0
+0
+TGLs 1 0
+0
+VoOC 1 8
+0
+yKtW 0 8
+0
+UvLn 0 7
+0
+cXDV 1 1
+0
+lXCq 0 6
+0
+TaeU 1 6
+0
+CGCw 1 3
+0
+GAZC 1 7
+0
+Zrvh 1 7
+0
+ZaWp 0 4
+0
+AtNX 0 2
+0
+wFJu 1 1
+0
+sKgS 1 6
+0
+Pdsn 1 7
+0
+dtEi 0 3
+0
+rRvU 0 4
+0
+RbkP 0 5
+0
+PIjM 0 8
+0
+tyFl 1 8
+0
+npGS 1 2
+0
+DLeY 1 8
+0
+vwOX 1 4
+0
+xbbn 1 2
+0
+mgZl 0 5
+0
+vZrO 1 1
+0
+TXEt 0 4
+0
+rnnN 0 8
+0
+tfQT 0 3
+0
+dFEu 1 7
+0
+kvqA 1 4
+0
+sjUC 0 2
+0
+pgeZ 1 5
+0
+Uzkb 0 2
+0
+tnsh 1 6
+0
+lnwj 1 3
+0
+aQyl 1 2
+0
+YwzU 1 5
+0
+xUKb 1 3
+0
+RkTP 1 6
+0
+JwfE 1 8
+0
+ByKS 0 4
+0
+ajlU 1 6
+0
+qorU 1 8
+0
+nKis 0 3
+0
+ASsj 1 3
+0
+CeGo 1 7
+0
+sZLS 1 7
+0
+LcPE 1 5
+0
+jGRA 1 0
+0
+gIqy 1 7
+0
+bgct 0 7
+0
+kuUl 1 5
+0
+mdLS 1 1
+0
+ByYT 0 8
+0
+FTij 1 2
+0
+seKW 0 0
+0
+urZp 1 2
+0
+lwpb 0 2
+0
+CWtf 0 0
+0
+GllW 1 8
+0
+eRNS 1 0
+0
+IxGW 0 2
+0
+ATga 0 2
+0
+LKgV 0 1
+0
+gLhe 1 8
+0
+OEQD 0 1
+0
+Qfvb 1 0
+0
+BePd 1 5
+0
+gEuT 1 6
+0
+Azbc 1 1
+0
+cOdi 0 7
+0
+nGxJ 0 1
+0
+zvNe 1 7
+0
+avZy 1 2
+0
+rgdi 0 4
+0
+NcpY 0 4
+0
+TyeL 0 4
+0
+Klvm 0 6
+0
+Cien 1 6
+0
+wCMl 0 5
+0
+LUFj 0 3
+0
+NPPx 0 3
+0
+xMmA 1 7
+0
+eidf 1 7
+0
+wcDk 1 4
+0
+trWM 0 0
+0
+GETx 1 2
+0
+FkGO 1 2
+0
+Uwyz 1 8
+0
+biMT 1 1
+0
+qkdq 0 1
+0
+lWMj 0 8
+0
+ICdm 1 5
+0
+EryP 1 5
+0
+epIM 0 5
+0
+QYiB 1 0
+0
+KMDk 1 8
+0
+wTbQ 1 6
+0
+BEvN 0 1
+0
+yQpo 0 4
+0
+dzxb 0 3
+0
+vDnZ 0 7
+0
+EPbc 0 8
+0
+ydEH 1 8
+0
+Piqe 1 6
+0
+TQxw 1 2
+0
+YtsC 1 7
+0
+dJzE 1 4
+0
+dGqF 0 4
+0
+OXoP 0 3
+0
+YSKo 0 1
+0
+Oirk 0 3
+0
+Wgyp 0 1
+0
+mWtB 0 1
+0
+rXQC 1 8
+0
+bYim 1 4
+0
+uYmw 0 5
+0
+TkZi 0 1
+0
+cNHU 0 0
+0
+bxRb 0 4
+0
+DtHu 0 4
+0
+FNCs 1 5
+0
+wmQU 1 1
+0
+ceTv 0 5
+0
+SeBS 0 7
+0
+vmwq 1 6
+0
+iRyR 1 5
+0
+UGvs 0 5
+0
+MYmh 0 5
+0
+IyhD 1 8
+0
+Juig 0 7
+0
+MjSL 0 0
+0
+wNZp 0 1
+0
+ZCBx 0 0
+0
+UHkt 1 8
+0
+BZve 0 0
+0
+xakR 1 4
+0
+vkVO 0 6
+0
+EMII 1 2
+0
+Qepx 1 0
+0
+dNAk 0 5
+0
+cjkg 0 4
+0
+qXvF 1 8
+0
+tLjY 0 7
+0
+sjyt 1 4
+0
+KkNd 1 6
+0
+tJYK 1 0
+0
+DZPW 0 2
+0
+kZcQ 0 1
+0
+vpPg 1 1
+0
+GMIp 0 6
+0
+nFJz 1 4
+0
+BZvH 1 2
+0
+wDCf 1 7
+0
+zbJb 0 8
+0
+kqnO 1 2
+0
+FvVi 0 8
+0
+UZru 1 0
+0
+LTHg 1 0
+0
+fpnu 0 7
+0
+fZMM 0 1
+0
+JYsh 1 4
+0
+LxAr 1 1
+0
+IOEP 0 4
+0
+ZKBD 0 7
+0
+vWVQ 0 0
+0
+CWCa 0 1
+0
+Qhmc 0 7
+0
+BLjp 0 2
+0
+GeXD 0 6
+0
+nBUg 1 2
+0
+Spxe 1 7
+0
+wdfC 0 4
+0
+STLB 0 4
+0
+YoCn 1 1
+0
+JTRl 0 6
+0
+lvEh 1 0
+0
+BxHV 1 5
+0
+IFKW 0 3
+0
+kgQp 0 3
+0
+EmxK 1 0
+0
+BOKY 1 6
+0
+NRXT 0 5
+0
+mHkC 1 4
+0
+UATp 0 3
+0
+nWpz 1 1
+0
+kkVR 1 4
+0
+Ehkj 0 5
+0
+pKhT 1 3
+0
+VRCF 0 5
+0
+ikwF 1 0
+0
+yfPr 1 3
+0
+jXvS 0 4
+0
+gKGN 0 0
+0
+gUyA 1 3
+0
+KqBC 0 1
+0
+Dxrz 1 3
+0
+CdIu 1 5
+0
+AowC 1 2
+0
+ELCX 1 5
+0
+DCkn 1 1
+0
+Tbdn 1 8
+0
+qIsZ 0 6
+0
+yOoR 1 2
+0
+RZkL 0 8
+0
+SppL 0 8
+0
+mtll 0 2
+0
+vlcc 1 6
+0
+dXpW 1 6
+0
+sCiG 1 4
+0
+rARU 0 0
+0
+oOtZ 1 7
+0
+hVoQ 0 2
+0
+tfxp 1 7
+0
+lKIC 0 0
+0
+LhOa 1 4
+0
+jLit 1 8
+0
+DFzl 0 8
+0
+yprf 0 1
+0
+VQaI 0 5
+0
+kPRY 0 1
+0
+ozUi 1 5
+0
+nWHJ 1 4
+0
+rdGw 0 8
+0
+gZCf 0 5
+0
+vyfo 1 7
+0
+uQsh 0 2
+0
+Brrk 0 4
+0
+LIpc 1 6
+0
+klYP 0 4
+0
+gZBF 0 6
+0
+jWKS 0 1
+0
+fKdG 1 2
+0
+mVfI 0 7
+0
+cYdJ 0 3
+0
+VEas 0 1
+0
+AMXN 1 0
+0
+qKms 1 6
+0
+nWJE 1 7
+0
+RoZg 1 8
+0
+hMkU 1 2
+0
+WSLc 1 4
+0
+OaOR 1 7
+0
+oyub 1 3
+0
+ZhCB 1 2
+0
+qrgX 1 1
+0
+OQDz 1 0
+0
+iqGF 1 3
+0
+xavn 1 4
+0
+LAQI 1 0
+0
+pysh 0 8
+0
+Tzdb 1 1
+0
+tOAd 1 4
+0
+KcSZ 1 4
+0
+qjNj 0 8
+0
+Mbxg 1 8
+0
+fruO 0 2
+0
+hHhe 1 5
+0
+zkFf 1 7
+0
+yETb 0 0
+0
+oiMa 0 2
+0
+yunr 0 8
+0
+GazM 1 7
+0
+HKja 1 8
+0
+VQYs 1 4
+0
+gCjz 1 6
+0
+RiTD 1 7
+0
+GgbY 0 6
+0
+XTwd 1 3
+0
+DyWN 0 7
+0
+kMTX 1 7
+0
+pqvl 0 7
+0
+zEpC 1 2
+0
+HBuO 0 1
+0
+SexN 1 8
+0
+nFrP 1 0
+0
+QZDV 0 0
+0
+CXXe 1 2
+0
+koZF 0 1
+0
+TqgW 1 6
+0
+grNv 0 6
+0
+PIXh 1 6
+0
+ZGHn 0 2
+0
+ptpV 0 7
+0
+aLzS 0 8
+0
+rvpW 0 4
+0
+CeXQ 1 3
+0
+UlPr 0 4
+0
+SORs 0 6
+0
+vRJF 1 2
+0
+qyRO 1 8
+0
+dRux 1 1
+0
+rKIV 0 3
+0
+oSoK 1 3
+0
+YRFT 1 2
+0
+yvEq 1 6
+0
+STBG 0 8
+0
+sGfC 1 6
+0
+phVm 1 2
+0
+OhGd 0 6
+0
+Tjns 1 4
+0
+dNKr 1 8
+0
+VlVm 0 0
+0
+eyGQ 0 6
+0
+cjkU 0 1
+0
+MUql 1 5
+0
+alUw 0 4
+0
+aSjF 1 8
+0
+LLWY 0 3
+0
+vDzO 0 1
+0
+CxER 1 1
+0
+XpRt 1 1
+0
+HJFc 0 1
+0
+QglP 1 6
+0
+aaNp 1 5
+0
+IyaZ 1 1
+0
+Ximn 0 7
+0
+fTuV 1 4
+0
+UTvj 0 6
+0
+bIpS 1 3
+0
+mJNZ 1 4
+0
+fJGU 1 5
+0
+oMym 1 5
+0
+FrOX 1 2
+0
+XpIC 0 5
+0
+ernY 0 8
+0
+cIjh 0 8
+0
+uNma 1 3
+0
+snmT 1 0
+0
+qLXd 0 3
+0
+tuMv 0 6
+0
+loNv 0 1
+0
+zWTp 1 4
+0
+wKQw 0 7
+0
+JHxu 1 3
+0
+gwSn 1 3
+0
+tIGo 1 0
+0
+MNAY 1 0
+0
+qDeW 0 2
+0
+oiEs 1 5
+0
+CRZH 1 6
+0
+XLiX 1 5
+0
+eyFa 1 6
+0
+wHAb 1 8
+0
+lxhf 0 8
+0
+xwxP 1 8
+0
+lNFn 0 6
+0
+krbx 0 8
+0
+tCdQ 1 8
+0
+unfC 1 5
+0
+AjbJ 0 4
+0
+xSyk 0 4
+0
+URJQ 0 1
+0
+tymd 0 1
+0
+ECdL 1 8
+0
+ziYN 1 3
+0
+NAtn 1 0
+0
+QWMp 1 1
+0
+LCxS 1 1
+0
+aczG 1 4
+0
+AZdg 0 1
+0
+Xnlv 0 4
+0
+UZvT 0 8
+0
+XdbZ 0 8
+0
+gJVM 1 5
+0
+YCuB 0 8
+0
+GRRW 0 2
+0
+bvJI 1 5
+0
+AzNU 0 7
+0
+YSwU 1 2
+0
+Crhn 1 7
+0
+LIYJ 0 2
+0
+kYmt 0 6
+0
+QCeh 1 4
+0
+KuFQ 0 0
+0
+gEWP 1 3
+0
+wNIn 0 8
+0
+XNIR 0 0
+0
+RkAF 1 3
+0
+kUyD 1 0
+0
+UxUC 0 3
+0
+UUOI 1 2
+0
+icdQ 0 0
+0
+CYSd 0 3
+0
+GFyW 1 6
+0
+MYCs 0 6
+0
+uRIZ 1 6
+0
+HpMC 0 7
+0
+EJoe 1 2
+0
+JfTd 0 1
+0
+xjXC 1 7
+0
+rQKr 0 5
+0
+uMyx 1 6
+0
+vFHt 0 3
+0
+ipaQ 1 8
+0
+bKTA 1 3
+0
+tANR 0 7
+0
+NRnX 1 6
+0
+OTrn 1 1
+0
+sVgj 0 3
+0
+HkAt 1 8
+0
+XTNs 1 1
+0
+zixL 1 8
+0
+lRQg 0 1
+0
+xECp 1 7
+0
+HZic 1 4
+0
+Wiyk 1 2
+0
+yQml 1 1
+0
+vEXJ 1 3
+0
+lpKw 0 4
+0
+PrGi 0 3
+0
+hsdM 1 6
+0
+jZan 1 5
+0
+VmWV 0 5
+0
+qELn 1 2
+0
+fviV 0 7
+0
+Ktvz 0 8
+0
+gHua 1 3
+0
+Shvk 0 8
+0
+EdNg 0 7
+0
+ZxKu 0 7
+0
+bChw 0 7
+0
+eYtu 1 6
+0
+zdUA 0 2
+0
+LRfJ 1 2
+0
+oCRO 1 4
+0
+YXfP 1 5
+0
+yKjU 1 4
+0
+kzzI 0 2
+0
+vXHk 0 2
+0
+qNts 0 7
+0
+xJlK 1 0
+0
+oJUe 0 6
+0
+JyIx 0 5
+0
+QQjO 0 7
+0
+atBB 1 6
+0
+vlth 0 7
+0
+cYqR 1 4
+0
+sDGN 1 4
+0
+iHcy 0 4
+0
+qncp 1 2
+0
+QKbU 0 4
+0
+Jlus 0 2
+0
+TIWI 0 7
+0
+jYQp 0 6
+0
+RMwU 1 2
+0
+rWfT 1 2
+0
+ixFh 0 6
+0
+CyYK 1 3
+0
+mAZX 0 1
+0
+pNNn 1 3
+0
+nhth 1 4
+0
+PEWD 0 6
+0
+Aawy 0 3
+0
+truK 1 6
+0
+YrUx 0 3
+0
+pjel 1 3
+0
+NkRP 1 0
+0
+MzPg 0 4
+0
+HPBh 1 7
+0
+Byix 0 0
+0
+BXya 1 7
+0
+uoVp 0 8
+0
+gXLv 0 4
+0
+ZXzM 1 5
+0
+DZki 0 7
+0
+dorz 0 1
+0
+wfRI 1 3
+0
+rXuc 0 5
+0
+jziC 0 0
+0
+iSbo 0 2
+0
+MFtR 0 4
+0
+tJNq 0 5
+0
+awaf 0 7
+0
+BzIR 0 3
+0
+JHbH 1 5
+0
+DMuf 0 2
+0
+rsKG 1 5
+0
+mSjr 0 7
+0
+BALk 1 1
+0
+InlQ 1 8
+0
+NWwK 0 0
+0
+GXvQ 1 6
+0
+HWnG 1 7
+0
+rWHh 0 0
+0
+mwqr 0 3
+0
+fiwZ 1 1
+0
+cOjS 0 7
+0
+FKKh 0 7
+0
+rJxb 0 3
+0
+BZBD 1 3
+0
+vpOy 1 6
+0
+lpYx 0 4
+0
+NvhY 0 0
+0
+ZCOP 1 8
+0
+Mbnt 0 5
+0
+IwQT 1 3
+0
+xfnI 0 5
+0
+Xjgo 1 6
+0
+BDxc 0 6
+0
+zavD 1 3
+0
+YqOo 1 2
+0
+ZFPQ 1 3
+0
+cyAO 1 1
+0
+IPJx 1 7
+0
+mhni 1 8
+0
+bNJX 1 3
+0
+ISxY 1 1
+0
+QykV 1 1
+0
+hkpV 0 1
+0
+HYaQ 1 7
+0
+bOZK 1 0
+0
+mkzc 1 1
+0
+NZDQ 1 2
+0
+FMNt 0 7
+0
+Gnej 0 6
+0
+FTUU 0 5
+0
+PoiE 0 5
+0
+ULTD 1 3
+0
+JezA 1 2
+0
+kjfU 0 5
+0
+YIVL 1 6
+0
+oITI 1 2
+0
+ytaZ 0 4
+0
+tRWR 0 8
+0
+ectt 0 1
+0
+Aasn 1 5
+0
+tSdk 1 8
+0
+vLMH 0 6
+0
+guKg 0 8
+0
+dXWb 1 7
+0
+SNwl 0 6
+0
+xQKB 1 8
+0
+jztt 1 7
+0
+inbD 0 1
+0
+xpFr 1 5
+0
+Iejj 1 6
+0
+uURN 0 3
+0
+guEu 1 4
+0
+JyGH 1 2
+0
+oJvM 0 4
+0
+wiOt 0 4
+0
+jowI 0 4
+0
+muhY 1 6
+0
+ympu 1 0
+0
+wFtW 0 4
+0
+DGuX 0 5
+0
+xNfv 1 5
+0
+iLzZ 1 7
+0
+Gugw 1 2
+0
+GOOS 0 0
+0
+mhod 1 1
+0
+fDkB 0 2
+0
+JYdO 1 7
+0
+ZzRj 0 3
+0
+LtQg 0 5
+0
+LJmz 1 7
+0
+AoGI 0 5
+0
+hngm 1 6
+0
+mYrW 0 6
+0
+AWMK 0 2
+0
+yyjG 0 7
+0
+tfJV 0 2
+0
+sQof 1 1
+0
+nYZu 1 1
+0
+pzBJ 1 7
+0
+bVhs 1 3
+0
+ytZT 1 5
+0
+NkpO 1 8
+0
+Lopg 0 0
+0
+sStZ 0 7
+0
+qwgs 1 8
+0
+brVW 0 3
+0
+tMZZ 1 3
+0
+VDbK 1 7
+0
+qRSj 0 6
+0
+zQhF 0 1
+0
+SGiV 0 0
+0
+DatP 1 6
+0
+Eypg 0 2
+0
+ViFA 0 2
+0
+IXdv 1 1
+0
+eGiy 1 3
+0
+Ctvk 0 3
+0
+zEgB 0 7
+0
+icBN 0 8
+0
+TMRh 0 0
+0
+NxVv 1 8
+0
+iPCj 1 1
+0
+hoDp 0 8
+0
+llYD 1 8
+0
+CRHf 0 4
+0
+edIm 0 4
+0
+peqo 0 5
+0
+PpRs 0 0
+0
+ayax 1 1
+0
+hnDA 1 8
+0
+PtCQ 1 2
+0
+zGEL 1 7
+0
+Sexv 1 6
+0
+MhLC 0 2
+0
+ZlCA 1 7
+0
+yBRf 1 2
+0
+aChy 1 1
+0
+HuSe 1 7
+0
+XNqg 0 5
+0
+XOQi 0 2
+0
+ihLC 0 5
+0
+nDOm 1 0
+0
+eyvv 0 0
+0
+mure 0 7
+0
+Fong 1 0
+0
+iSPC 0 2
+0
+YESX 0 2
+0
+oAkZ 1 4
+0
+zwDl 0 6
+0
+vzdL 0 8
+0
+evtA 0 3
+0
+BSmM 0 6
+0
+FufB 0 4
+0
+UfOj 1 0
+0
+lXJI 0 3
+0
+fhCw 1 3
+0
+wOhv 1 3
+0
+JSPZ 0 6
+0
+TmOa 1 3
+0
+hwWg 1 7
+0
+OBaA 0 7
+0
+eaii 1 8
+0
+aCUC 0 3
+0
+fxWA 1 1
+0
+FUzV 0 1
+0
+tSNn 1 4
+0
+MfZO 0 0
+0
+RPzQ 1 5
+0
+fEha 0 8
+0
+jNqv 1 5
+0
+GZpE 0 8
+0
+ugtF 1 6
+0
+TEPe 0 6
+0
+mjoB 1 1
+0
+IYGY 0 5
+0
+hrtk 1 5
+0
+qTaP 0 5
+0
+sfEK 1 1
+0
+qCLw 0 6
+0
+PhIp 1 6
+0
+Gesv 1 1
+0
+jcYc 1 6
+0
+wKNO 0 1
+0
+ENeT 0 4
+0
+ANHE 0 8
+0
+LCOe 0 7
+0
+QnbW 1 6
+0
+IrYi 1 6
+0
+FPRs 1 4
+0
+BVpd 1 4
+0
+BKSh 0 0
+0
+Zidu 1 2
+0
+SXkv 0 0
+0
+Xbrh 0 1
+0
+VOUH 1 8
+0
+Tucz 0 5
+0
+YzDH 1 1
+0
+pzLZ 1 0
+0
+PCbd 0 5
+0
+bkvC 0 0
+0
+cZNA 0 0
+0
+jAtN 0 8
+0
+Huzk 0 2
+0
+emMz 0 1
+0
+NITq 1 3
+0
+EgTO 1 3
+0
+vbtu 1 8
+0
+LTyC 1 2
+0
+tmdo 1 1
+0
+IGCg 0 0
+0
+zcrm 0 6
+0
+szuU 0 8
+0
+GjGW 1 6
+0
+GGOA 0 1
+0
+enVz 0 6
+0
+WBrK 1 4
+0
+QZwy 1 4
+0
+hGUt 0 1
+0
+jVCx 0 6
+0
+fWcg 1 3
+0
+szCb 0 0
+0
+RYPI 1 4
+0
+naox 0 3
+0
+Vqeh 1 2
+0
+cQRz 1 4
+0
+rEOg 0 0
+0
+wAGq 0 7
+0
+uauY 1 0
+0
+HfzQ 1 5
+0
+ekVg 0 2
+0
+AHSi 1 0
+0
+rQKj 0 1
+0
+xJsk 1 1
+0
+srSF 1 3
+0
+haUr 0 0
+0
+ivTn 0 7
+0
+njzO 0 3
+0
+UdvN 1 5
+0
+UlvX 0 6
+0
+zsnL 0 8
+0
+sNRc 1 5
+0
+ZeaV 0 4
+0
+uHLY 1 0
+0
+XiRH 1 3
+0
+AXMG 1 6
+0
+VCSv 0 4
+0
+ykpc 0 6
+0
+xOpN 0 6
+0
+vGOg 1 6
+0
+SVRz 1 7
+0
+hcht 1 8
+0
+ZqnA 0 0
+0
+iYyB 1 7
+0
+rBDc 1 6
+0
+QfKF 1 4
+0
+zoXp 1 1
+0
+GTwo 1 1
+0
+qgyI 0 2
+0
+UJJx 0 6
+0
+RUwK 1 7
+0
+NEpB 0 6
+0
+EdXl 1 6
+0
+BRUw 0 4
+0
+mTDO 1 2
+0
+ekOZ 0 3
+0
+hTtv 0 5
+0
+gOra 0 7
+0
+PoHj 1 4
+0
+qvvq 0 2
+0
+gHJS 1 6
+0
+LdPL 1 0
+0
+fkmz 0 3
+0
+BckG 0 8
+0
+YbHp 1 6
+0
+LrCI 1 3
+0
+HRja 1 4
+0
+vynf 0 0
+0
+REoV 0 7
+0
+RYVM 0 0
+0
+QYTB 1 7
+0
+zZpV 1 5
+0
+hzEl 0 8
+0
+TFxw 0 6
+0
+yABc 0 2
+0
+DJTg 0 0
+0
+hJvz 0 6
+0
+GPex 1 1
+0
+mwOy 1 4
+0
+uARd 1 5
+0
+dscV 0 8
+0
+QVNi 1 1
+0
+oNOW 0 8
+0
+juWs 0 1
+0
+BVaS 1 8
+0
+nTHz 0 1
+0
+uafT 1 4
+0
+HvsL 1 6
+0
+XKgG 1 0
+0
+Jtge 1 3
+0
+RwIN 0 0
+0
+ldyO 0 6
+0
+WiPp 0 4
+0
+UEHV 1 0
+0
+Odqv 1 7
+0
+mQAU 0 4
+0
+vWzv 1 8
+0
+TgxI 1 1
+0
+RBeo 0 3
+0
+UTrq 1 8
+0
+AscT 1 8
+0
+vKJk 0 1
+0
+rAVN 0 7
+0
+JluG 1 3
+0
+mCvv 1 2
+0
+DURR 0 0
+0
+OIGJ 1 7
+0
+ORtm 1 1
+0
+RABH 1 6
+0
+jkXV 1 4
+0
+SiLV 1 3
+0
+qAZA 1 4
+0
+DSXt 1 2
+0
+InjP 0 8
+0
+GRkQ 1 8
+0
+wdKX 0 0
+0
+ExIA 1 3
+0
+VDJc 1 7
+0
+RblX 0 5
+0
+EesY 0 2
+0
+RzJX 0 4
+0
+jgMV 0 0
+0
+jgOO 0 5
+0
+tVxz 1 3
+0
+XyjW 0 8
+0
+qwWl 0 5
+0
+dBhS 1 1
+0
+hFYg 0 2
+0
+dijo 1 2
+0
+wpIx 1 8
+0
+FZTK 1 8
+0
+jUgJ 1 0
+0
+zuez 1 2
+0
+vVFf 0 4
+0
+OYIV 1 5
+0
+SLEj 0 5
+0
+iofI 1 4
+0
+XoeI 0 1
+0
+oNmr 1 5
+0
+LCiW 1 1
+0
+dqfv 1 7
+0
+oZIi 0 3
+0
+wSVh 1 0
+0
+girq 1 8
+0
+MYZr 0 6
+0
+QUjm 0 4
+0
+UDSg 1 7
+0
+pEdI 1 1
+0
+EBvL 0 4
+0
+RBRq 0 5
+0
+yzFp 0 1
+0
+xIsm 0 8
+0
+ArVZ 0 7
+0
+KvbU 1 1
+0
+mrBW 1 6
+0
+FLkf 0 1
+0
+ozEd 0 5
+0
+LbXs 1 3
+0
+eurI 0 7
+0
+FxRS 1 7
+0
+gfLT 1 8
+0
+cHur 0 6
+0
+mCrg 0 6
+0
+HPyy 1 3
+0
+aliu 1 4
+0
+XipN 1 0
+0
+ddbu 0 5
+0
+wybf 0 7
+0
+wwsk 1 8
+0
+OuMk 1 2
+0
+svRO 0 6
+0
+vugx 1 4
+0
+aGYa 0 8
+0
+AmLg 0 1
+0
+OEQS 0 6
+0
+aybK 1 7
+0
+tqDR 0 8
+0
+VDEY 1 2
+0
+hcEd 0 6
+0
+pBuF 0 1
+0
+zBuo 1 5
+0
+dHuu 0 5
+0
+sWwJ 1 2
+0
+KhwR 1 4
+0
+jcDF 1 6
+0
+ydwT 1 5
+0
+qmRA 1 5
+0
+Orzk 0 8
+0
+TwSK 1 3
+0
+tbkh 1 7
+0
+TGIp 0 3
+0
+BDKr 1 6
+0
+YNOx 0 2
+0
+PVbm 1 0
+0
+lAgm 0 6
+0
+tOcY 0 7
+0
+NSNU 0 6
+0
+VWZX 0 5
+0
+lfyv 0 4
+0
+NzXX 1 3
+0
+tOlQ 0 4
+0
+Fmpj 0 3
+0
+Egjt 0 0
+0
+KGZx 1 2
+0
+MJQK 1 7
+0
+Bcfi 0 2
+0
+uEpx 1 8
+0
+DtZC 0 8
+0
+hKYT 0 5
+0
+WurN 0 0
+0
+ezVY 1 0
+0
+VOXZ 1 0
+0
+XlJZ 1 0
+0
+WKqv 1 3
+0
+uEZc 1 3
+0
+niSv 1 7
+0
+Cpca 0 7
+0
+wPIi 1 0
+0
+OBlh 1 1
+0
+nYmx 1 4
+0
+hyxO 0 6
+0
+ROwh 0 1
+0
+afVW 0 4
+0
+vMnr 0 3
+0
+lNpB 1 1
+0
+XgIK 0 3
+0
+hifw 1 4
+0
+Mfnz 1 1
+0
+UZKK 1 1
+0
+Oapw 0 4
+0
+JCSc 0 7
+0
+YYhr 0 5
+0
+ofro 1 2
+0
+LHAH 1 6
+0
+OlXd 1 2
+0
+zPvf 1 7
+0
+vHMi 0 3
+0
+lhUc 1 5
+0
+nrnh 0 4
+0
+bjey 1 7
+0
+dqeO 0 3
+0
+DHzh 1 3
+0
+LpXt 0 3
+0
+lEWg 0 6
+0
+WIAD 0 0
+0
+Eroe 1 8
+0
+dWlM 1 4
+0
+cqgO 1 4
+0
+mmcd 1 7
+0
+zhWl 1 3
+0
+HGvi 1 6
+0
+ZwAu 1 0
+0
+qFmD 0 0
+0
+Sfne 1 2
+0
+dMmS 0 1
+0
+aqYO 1 4
+0
+EeTA 1 7
+0
+OkgD 0 7
+0
+bsMh 0 3
+0
+UXjL 1 1
+0
+Duom 1 8
+0
+hgGx 1 3
+0
+Urrl 0 2
+0
+AgEi 1 8
+0
+dqVj 1 8
+0
+ciPF 0 5
+0
+LErO 0 3
+0
+XjiU 0 7
+0
+DAam 1 4
+0
+FzOf 1 1
+0
+dHfG 0 0
+0
+NChs 1 4
+0
+EFyW 1 1
+0
+xOJc 1 5
+0
+IlEc 1 2
+0
+Hfwr 1 6
+0
+WrIT 1 0
+0
+aJbm 1 8
+0
+SWHj 1 5
+0
+Jhte 0 3
+0
+esel 1 2
+0
+vWfv 1 8
+0
+McVc 0 4
+0
+kZCb 1 6
+0
+eNbS 1 3
+0
+CKpD 1 1
+0
+XkhJ 1 0
+0
+KdKD 0 3
+0
+Yglx 1 2
+0
+zckZ 1 5
+0
+PzrK 0 8
+0
+TTgN 0 7
+0
+uQNG 1 0
+0
+wayN 0 2
+0
+Mcfj 1 2
+0
+rMRR 1 5
+0
+VvhV 1 2
+0
+YLHR 0 3
+0
+ahBM 1 1
+0
+dvIP 0 1
+0
+IHsR 1 6
+0
+ddVO 1 4
+0
+oNEU 1 2
+0
+TQeW 1 5
+0
+Lrvq 0 2
+0
+icAS 1 4
+0
+kfZd 0 0
+0
+uEQY 0 6
+0
+oenH 1 3
+0
+egdn 0 0
+0
+Clzl 0 8
+0
+Gkqo 0 2
+0
+GJnf 1 8
+0
+UTaa 0 2
+0
+mhlO 0 6
+0
+XtIJ 0 0
+0
+cNec 0 7
+0
+rAam 0 7
+0
+kRUY 0 8
+0
+GUor 1 3
+0
+mAjx 0 0
+0
+XlcA 0 1
+0
+hbTv 1 3
+0
+iplP 0 4
+0
+wgdg 0 7
+0
+ZrmZ 1 7
+0
+hmBJ 1 1
+0
+UGKj 0 1
+0
+Lrkv 1 8
+0
+IVTT 0 5
+0
+QnbD 0 7
+0
+CDLk 1 8
+0
+hedt 1 8
+0
+ovgN 1 3
+0
+cxao 1 3
+0
+MJmY 0 2
+0
+FdrX 0 7
+0
+UhRq 0 8
+0
+MJnf 0 7
+0
+kRoF 1 6
+0
+oMzN 1 8
+0
+icph 1 4
+0
+ncGc 1 5
+0
+XiSY 1 4
+0
+fsXW 0 8
+0
+DsQs 0 0
+0
+NJVK 0 0
+0
+aeOa 1 6
+0
+eiWX 1 3
+0
+KTyv 0 8
+0
+VODR 1 4
+0
+AbKB 0 2
+0
+xJoX 1 7
+0
+ELPg 0 7
+0
+oPmA 0 4
+0
+rubn 1 2
+0
+remO 0 5
+0
+hrWw 0 3
+0
+xyiz 0 2
+0
+mKZu 0 4
+0
+URlh 0 3
+0
+TZvz 0 1
+0
+hbju 1 5
+0
+Nqoj 1 6
+0
+IDVt 1 5
+0
+sVFx 0 6
+0
+tLKV 0 5
+0
+cgkE 1 4
+0
+WGfM 0 4
+0
+PFfa 0 8
+0
+XtMP 1 2
+0
+ROOp 0 5
+0
+iTfn 1 7
+0
+TFLG 1 3
+0
+LVHW 0 3
+0
+FgtW 1 4
+0
+paBf 1 8
+0
+nIoH 1 8
+0
+BOeu 0 4
+0
+Wxnw 0 2
+0
+KcvQ 1 2
+0
+iVJO 0 5
+0
+onRa 0 3
+0
+Xmcu 0 2
+0
+qnGs 0 7
+0
+kNCY 1 0
+0
+JbPl 1 3
+0
+Ghjo 0 6
+0
+JuJS 0 0
+0
+UHvy 1 1
+0
+FusG 0 8
+0
+zzNE 0 1
+0
+flaG 1 7
+0
+pLgx 1 7
+0
+olWG 0 8
+0
+zWrc 1 7
+0
+IbYR 1 2
+0
+bnrN 1 2
+0
+gMDL 0 2
+0
+PdAc 1 7
+0
+Daim 1 5
+0
+xjvQ 1 2
+0
+ezlh 0 6
+0
+GlLs 1 3
+0
+GZDz 1 4
+0
+YvrL 0 5
+0
+ZCPy 1 5
+0
+mpjx 0 8
+0
+SVGC 0 2
+0
+sUTx 1 2
+0
+RRNA 0 1
+0
+bTQG 1 1
+0
+ubtE 0 4
+0
+FljY 1 3
+0
+vzaT 1 8
+0
+PnHO 0 3
+0
+EGCc 0 1
+0
+TosB 0 1
+0
+LMNd 0 4
+0
+LYya 0 1
+0
+jkLO 0 4
+0
+xBDk 1 3
+0
+iYCN 1 5
+0
+qJvV 0 6
+0
+pzMb 1 5
+0
+OSmx 0 8
+0
+KzMr 1 8
+0
+jWAo 0 3
+0
+UxuV 0 5
+0
+edOa 0 1
+0
+YGGe 1 4
+0
+QteQ 1 0
+0
+HOiw 0 5
+0
+YcRW 1 0
+0
+pcSZ 1 8
+0
+bNWi 0 0
+0
+UjXH 1 5
+0
+XLha 0 7
+0
+tRpF 1 6
+0
+bpBO 0 4
+0
+YsOC 0 5
+0
+jERb 1 1
+0
+mwME 0 1
+0
+weGE 0 0
+0
+Mqth 1 1
+0
+xXcF 0 0
+0
+tMnG 0 8
+0
+EHiQ 0 1
+0
+bvjC 0 5
+0
+jYGM 0 3
+0
+zKRp 0 8
+0
+MGLB 0 3
+0
+JHPM 1 1
+0
+Wzch 0 5
+0
+nmJk 0 3
+0
+btBC 0 8
+0
+Ismn 1 1
+0
+jnsr 1 0
+0
+zYBN 0 4
+0
+Gtyt 0 5
+0
+hrMF 0 5
+0
+kYmf 0 8
+0
+RCqr 1 6
+0
+ZrzR 1 1
+0
+fJUH 0 5
+0
+IvIa 0 6
+0
+UDnq 1 6
+0
+jidP 0 2
+0
+LlUF 1 8
+0
+CEoa 0 7
+0
+Qbpm 1 0
+0
+sVqR 1 2
+0
+HXob 1 2
+0
+XLle 1 1
+0
+HrjE 1 4
+0
+pnCa 1 3
+0
+RXJx 1 4
+0
+XDsD 0 7
+0
+mBbl 0 4
+0
+qsdm 0 7
+0
+cFvm 1 6
+0
+moHP 1 4
+0
+NcMZ 1 7
+0
+EWUx 1 7
+0
+soNi 1 6
+0
+RoQN 0 1
+0
+DuAP 1 6
+0
+dWlr 1 0
+0
+Hutn 0 2
+0
+baLC 1 0
+0
+SatX 1 6
+0
+TNOl 1 1
+0
+nfEt 0 4
+0
+XXsg 0 2
+0
+DVjp 1 3
+0
+RAiX 1 8
+0
+qLPu 0 0
+0
+XRwl 0 4
+0
+qRzq 0 1
+0
+jjmj 0 4
+0
+JKoA 0 1
+0
+yCqw 1 3
+0
+EZIh 1 4
+0
+CZeN 0 4
+0
+CKBy 0 1
+0
+MujM 0 4
+0
+NhUu 1 8
+0
+cOnR 0 4
+0
+Sgza 0 3
+0
+TVDB 1 5
+0
+eqXs 1 2
+0
+BtFt 0 4
+0
+qEfR 0 7
+0
+Xdwr 1 5
+0
+IbQV 1 6
+0
+hCyz 0 2
+0
+uPNb 1 2
+0
+HAIl 0 4
+0
+QKED 1 7
+0
+ewzQ 1 8
+0
+rsJG 1 2
+0
+OyyI 1 2
+0
+glYW 1 4
+0
+TsMz 1 7
+0
+fakx 0 5
+0
+lBaa 0 2
+0
+iRSB 1 2
+0
+wrrO 0 4
+0
+sQUu 0 8
+0
+TKiT 0 2
+0
+MyQL 0 1
+0
+SCyH 1 1
+0
+MQhX 0 8
+0
+bpuH 1 6
+0
+DmKS 0 2
+0
+zfZD 0 3
+0
+hmNP 1 4
+0
+TsAa 1 7
+0
+srGX 1 8
+0
+KuvP 1 8
+0
+xCyS 1 7
+0
+tqlI 1 4
+0
+BHqd 1 1
+0
+FTlY 1 0
+0
+SQKD 0 4
+0
+SvQc 0 1
+0
+WiKw 0 7
+0
+ToNC 0 0
+0
+ksnS 0 5
+0
+cLBA 1 7
+0
+OIUj 1 2
+0
+BwhU 0 5
+0
+WvyZ 1 0
+0
+hgaP 1 3
+0
+Nqum 0 1
+0
+NTYT 1 3
+0
+PIbF 0 7
+0
+LMdV 0 5
+0
+uoeR 0 4
+0
+Ckrd 0 4
+0
+edXa 1 8
+0
+bRyg 1 0
+0
+NFFy 0 2
+0
+BlJC 1 5
+0
+itGc 0 8
+0
+lVQI 1 2
+0
+AFBG 0 4
+0
+pxUu 0 5
+0
+ZafZ 1 1
+0
+WLcD 1 3
+0
+IAJb 0 2
+0
+JxHq 1 2
+0
+fIqL 0 0
+0
+gYGC 1 6
+0
+cAQm 0 2
+0
+yxdl 0 6
+0
+XupP 0 2
+0
+EBwu 1 0
+0
+QCKX 0 2
+0
+PiFd 0 8
+0
+xqbV 0 0
+0
+Lxhn 1 4
+0
+fWcL 1 8
+0
+GNVY 1 6
+0
+QpXf 0 6
+0
+Hvmp 1 3
+0
+ENif 1 0
+0
+eCmR 0 0
+0
+QIxV 1 5
+0
+RwJf 0 1
+0
+kcIL 1 6
+0
+PYxJ 1 7
+0
+LBXj 0 4
+0
+bgrc 0 6
+0
+eKtu 1 7
+0
+rlHA 0 0
+0
+ZaPu 1 6
+0
+fmZG 0 3
+0
+PQjL 1 3
+0
+qXOU 0 5
+0
+ljcV 1 3
+0
+rBmJ 0 8
+0
+cNgq 0 8
+0
+Zink 1 7
+0
+YMXL 0 7
+0
+hRyr 0 8
+0
+lRSu 0 5
+0
+EjCd 1 5
+0
+NpMK 1 2
+0
+kQDt 0 1
+0
+hacK 0 2
+0
+cCeq 1 2
+0
+HnSL 0 4
+0
+ReCR 1 4
+0
+BGZj 1 3
+0
+xYez 0 7
+0
+kdkt 1 1
+0
+Qxfk 0 8
+0
+WByt 1 6
+0
+KtVm 0 0
+0
+JwWx 0 8
+0
+WLCv 1 6
+0
+DHzi 1 4
+0
+AiFK 0 0
+0
+sgBk 0 1
+0
+kMdD 1 6
+0
+XGhF 1 6
+0
+paDd 1 6
+0
+WiUZ 0 4
+0
+WRbZ 0 7
+0
+spsg 1 0
+0
+cQLW 1 8
+0
+CTHy 1 1
+0
+qqiv 0 4
+0
+ZNNb 1 8
+0
+lEDf 1 7
+0
+vkRZ 1 2
+0
+UchB 0 4
+0
+KaQp 1 8
+0
+Lqib 0 6
+0
+BWWL 0 0
+0
+yvaR 1 0
+0
+fncJ 0 4
+0
+ntbh 1 5
+0
+RlPo 0 5
+0
+ejvP 0 1
+0
+KnuQ 1 6
+0
+OoVT 0 4
+0
+OPPP 0 5
+0
+AARh 1 0
+0
+DqAz 0 8
+0
+MECw 1 0
+0
+ACPR 1 6
+0
+AuwO 1 4
+0
+WbzP 1 7
+0
+rPrn 1 4
+0
+UDti 0 4
+0
+JUBd 0 3
+0
+fpWh 1 7
+0
+SQyZ 1 1
+0
+VPdM 0 5
+0
+ekrm 0 3
+0
+bWrK 0 4
+0
+hIwf 1 2
+0
+XgaB 1 4
+0
+BHKE 1 1
+0
+SRuI 1 2
+0
+itrX 1 3
+0
+KxVQ 0 8
+0
+hpUL 0 2
+0
+SjwA 1 2
+0
+DCrw 1 1
+0
+ezYT 1 2
+0
+zIoe 1 7
+0
+rUtM 1 0
+0
+wXtA 0 2
+0
+KVav 1 3
+0
+qDfw 0 3
+0
+wYcx 1 3
+0
+lKst 1 0
+0
+jYyk 1 4
+0
+YYeU 1 7
+0
+KZZC 0 0
+0
+oLRN 1 8
+0
+gniG 0 1
+0
+dOEC 0 8
+0
+jGdp 1 1
+0
+tSkt 1 8
+0
+zsSF 1 5
+0
+aaLN 0 6
+0
+nyqj 1 4
+0
+fvkU 1 1
+0
+CjPl 0 8
+0
+PlFY 1 6
+0
+kWUn 0 3
+0
+vUIp 0 5
+0
+YWSd 0 0
+0
+GUnG 1 0
+0
+gUoD 0 3
+0
+Xvey 0 1
+0
+ofFe 0 1
+0
+EMNa 1 8
+0
+tIQu 0 4
+0
+sVNs 0 1
+0
+VKml 1 0
+0
+SleL 1 1
+0
+MyJK 1 2
+0
+KAAE 1 2
+0
+QWzC 1 4
+0
+ZSII 1 4
+0
+SPSz 0 3
+0
+OBhc 1 4
+0
+iXaI 1 1
+0
+ruRp 1 1
+0
+kGmW 0 6
+0
+IGWQ 0 6
+0
+QqJa 0 1
+0
+KmQW 1 4
+0
+yKUU 0 1
+0
+Sjvj 0 0
+0
+mtRk 0 5
+0
+Tbmx 0 2
+0
+XVCC 1 1
+0
+XzZj 1 2
+0
+VjID 1 6
+0
+EzBT 1 7
+0
+wtEe 0 4
+0
+Anbx 1 0
+0
+urWD 0 4
+0
+slcb 0 0
+0
+jvsZ 0 1
+0
+VnlJ 0 4
+0
+YxrC 0 3
+0
+IaZw 1 7
+0
+zREz 0 0
+0
+qRqu 0 4
+0
+dWPy 1 4
+0
+HWUO 1 5
+0
+PJnk 1 4
+0
+KkIC 0 2
+0
+dCiM 1 1
+0
+OkRg 0 4
+0
+sPYI 1 2
+0
+JJYm 1 0
+0
+PcuU 1 1
+0
+ByEw 1 4
+0
+EcNP 1 5
+0
+ZJsF 1 2
+0
+mlzq 1 0
+0
+vCBf 1 7
+0
+xZFY 1 5
+0
+aboi 0 6
+0
+gySj 0 4
+0
+ZyXX 1 8
+0
+KUeY 1 1
+0
+nsgI 1 3
+0
+WDia 1 1
+0
+HyPY 1 8
+0
+eaqH 0 0
+0
+yiJu 0 1
+0
+UBcu 0 3
+0
+sJad 0 0
+0
+uukR 1 2
+0
+chgN 1 2
+0
+QZiT 1 2
+0
+yNlN 1 7
+0
+xuzL 0 0
+0
+qWgn 0 0
+0
+WEYt 0 5
+0
+OcRx 1 1
+0
+gziq 1 3
+0
+vSgJ 1 0
+0
+mPfZ 0 6
+0
+iJVf 1 1
+0
+PwbO 0 8
+0
+KnHg 1 0
+0
+PzzQ 1 6
+0
+jALl 1 0
+0
+Ugrs 1 4
+0
+VPIQ 1 8
+0
+cqYK 0 0
+0
+fiQA 0 7
+0
+tGPK 0 0
+0
+pdLC 0 1
+0
+iNsr 1 6
+0
+LsNF 0 1
+0
+lkKH 1 5
+0
+auPJ 1 3
+0
+xSAW 1 8
+0
+mCHj 1 8
+0
+lLXv 1 2
+0
+DsvF 1 2
+0
+nzRf 1 3
+0
+YBQC 1 3
+0
+aMpt 0 6
+0
+DpeJ 0 7
+0
+uxyL 1 2
+0
+yjfA 0 0
+0
+BEpD 0 0
+0
+yvWD 0 3
+0
+FblX 1 1
+0
+cfRp 0 8
+0
+ePnY 1 4
+0
+KUBF 1 8
+0
+QuPB 1 2
+0
+phae 0 2
+0
+BdKw 0 7
+0
+BaUJ 0 8
+0
+aRpH 0 6
+0
+gfTn 0 5
+0
+xdkb 1 8
+0
+QCCJ 0 1
+0
+HaUT 0 2
+0
+DGXK 0 6
+0
+rBKd 0 5
+0
+YWRb 0 7
+0
+vQMY 0 2
+0
+ZJJV 1 6
+0
+MYCY 1 5
+0
+tgIl 1 2
+0
+JGiD 1 2
+0
+mEKj 0 7
+0
+cPuU 0 0
+0
+ttga 0 4
+0
+allN 0 7
+0
+WAzn 1 3
+0
+jNrX 1 3
+0
+Czlw 1 5
+0
+fKTd 1 2
+0
+Ivcl 0 6
+0
+FZmm 1 5
+0
+vIpB 0 8
+0
+lfNL 1 6
+0
+oTxX 0 8
+0
+GPvJ 0 6
+0
+ydDW 0 5
+0
+xuMU 1 7
+0
+PVPQ 1 8
+0
+Uouz 1 0
+0
+nfWC 0 8
+0
+yNru 0 7
+0
+sUUQ 1 2
+0
+qQgG 1 5
+0
+tIKJ 0 4
+0
+EJHX 0 4
+0
+bvPk 0 8
+0
+CJTV 1 8
+0
+ZtZQ 1 6
+0
+Lemh 1 8
+0
+swuM 0 1
+0
+udpH 1 8
+0
+oIIs 1 4
+0
+QVMZ 0 2
+0
+imOc 1 7
+0
+UuvA 1 8
+0
+vesh 0 8
+0
+NEbF 0 1
+0
+GDqs 1 6
+0
+sWBA 0 3
+0
+yLzV 0 4
+0
+nIKN 1 0
+0
+nRBh 0 6
+0
+UucV 0 4
+0
+KWXO 1 6
+0
+Lwde 1 8
+0
+abpl 1 4
+0
+ojkP 0 5
+0
+rACU 1 0
+0
+aFEy 0 3
+0
+Ujsx 1 2
+0
+KMSK 1 1
+0
+KBWz 1 7
+0
+Vfak 0 6
+0
+fGtW 0 8
+0
+pEqF 1 3
+0
+NCci 0 1
+0
+Fyyz 1 0
+0
+LTdy 1 1
+0
+esGq 1 2
+0
+Fufu 1 5
+0
+nQpr 0 1
+0
+jKNO 0 8
+0
+kmpE 1 5
+0
+CYCT 1 7
+0
+kAbQ 0 2
+0
+kqQu 0 8
+0
+aQjn 0 1
+0
+wSTN 0 4
+0
+RnUe 0 2
+0
+iKPF 0 4
+0
+mvBD 1 7
+0
+rJFB 0 1
+0
+Oetb 0 5
+0
+Idcb 1 5
+0
+OHsq 0 2
+0
+dcWm 1 3
+0
+arxc 1 4
+0
+qEAM 1 4
+0
+fdnE 0 4
+0
+HmVb 0 3
+0
+bpOD 1 3
+0
+rlRe 0 4
+0
+Flrx 0 7
+0
+vMCU 0 2
+0
+jYKB 0 1
+0
+OiXb 0 5
+0
+reYe 1 6
+0
+vpXe 0 0
+0
+rPHk 0 0
+0
+LwzJ 0 8
+0
+zRZd 0 5
+0
+deAM 0 5
+0
+qpqx 0 5
+0
+KvmD 0 2
+0
+ONIu 1 0
+0
+ntkU 1 5
+0
+XaJY 1 6
+0
+iXtC 0 5
+0
+bVhU 0 7
+0
+yhKq 0 0
+0
+VGTF 1 0
+0
+ApWS 1 1
+0
+VjWq 0 5
+0
+YcnV 1 6
+0
+oZaT 0 3
+0
+fLXT 1 8
+0
+rdQz 0 2
+0
+Bblw 0 2
+0
+zKAA 0 4
+0
+dpfU 1 0
+0
+cGEg 0 7
+0
+YcCo 1 7
+0
+fXKD 0 0
+0
+hqBW 1 1
+0
+ILsU 0 6
+0
+yFAs 1 6
+0
+fKKb 1 3
+0
+kohF 0 7
+0
+bFlL 1 4
+0
+EzAM 0 6
+0
+OWwg 0 1
+0
+ahjE 0 2
+0
+lUid 0 4
+0
+jgTv 1 2
+0
+VNhM 0 0
+0
+RGMv 0 4
+0
+rCwK 0 5
+0
+AQoJ 1 4
+0
+ftAR 1 4
+0
+RpLo 1 3
+0
+FVtj 0 5
+0
+wUQa 0 2
+0
+SiNS 0 1
+0
+LrAW 0 0
+0
+Yazv 1 8
+0
+NKMe 0 2
+0
+xJcR 0 2
+0
+UQYy 0 2
+0
+Lynj 0 1
+0
+LSRt 1 3
+0
+cgby 1 7
+0
+CLZE 0 1
+0
+PUzN 1 0
+0
+mcXB 1 3
+0
+IrVy 1 7
+0
+OeKa 1 4
+0
+sGFk 0 2
+0
+EzjX 0 1
+0
+tsDn 0 1
+0
+RrgR 0 0
+0
+TaIe 1 0
+0
+XxTA 1 1
+0
+NgkN 1 8
+0
+yezw 1 3
+0
+cpBm 0 6
+0
+ttEL 0 5
+0
+XMJX 0 6
+0
+VkbO 1 0
+0
+IaHw 0 8
+0
+lzrw 0 1
+0
+lvHT 1 0
+0
+BMIj 0 1
+0
+WgMM 0 3
+0
+GfCf 0 3
+0
+ThWo 1 7
+0
+XYgX 1 7
+0
+Mmaj 0 6
+0
+nZie 1 6
+0
+RKzh 1 6
+0
+TOFj 1 8
+0
+DnCP 1 7
+0
+NZdk 0 4
+0
+sWJz 1 7
+0
+auzK 0 4
+0
+nrUJ 1 7
+0
+SPZU 0 0
+0
+hJVQ 1 6
+0
+WWfJ 1 2
+0
+DqSb 0 5
+0
+PeMb 0 0
+0
+WrpY 0 7
+0
+Ckjz 1 5
+0
+gxiI 1 0
+0
+dfcu 1 1
+0
+mJXN 0 8
+0
+VbxU 1 6
+0
+VXVp 0 3
+0
+lAAY 1 1
+0
+Jrrj 1 2
+0
+tJMc 0 0
+0
+hcmE 1 8
+0
+lbBv 1 5
+0
+xtGq 1 4
+0
+hlev 0 0
+0
+JWeD 1 6
+0
+sdGa 1 2
+0
+hFdH 1 1
+0
+hmXU 1 6
+0
+JANi 1 4
+0
+mbzP 0 5
+0
+AQbL 1 3
+0
+HvoT 1 3
+0
+BBoF 1 6
+0
+hplv 1 1
+0
+Imcn 1 7
+0
+fWYB 1 7
+0
+Jiyt 0 2
+0
+npzE 0 4
+0
+JYER 1 0
+0
+MQYz 1 1
+0
+XjZM 1 2
+0
+QfOi 1 6
+0
+NVzb 0 4
+0
+uXfn 0 8
+0
+xlMg 0 3
+0
+iZCH 1 1
+0
+UYFG 0 2
+0
+PIcQ 1 3
+0
+DYKV 1 8
+0
+JWdd 0 5
+0
+iwGL 1 3
+0
+FEXc 1 8
+0
+RNeW 1 4
+0
+dcJZ 1 4
+0
+vzZW 1 0
+0
+jmjY 1 6
+0
+abqd 1 7
+0
+SuSG 0 4
+0
+mSnI 1 0
+0
+wXRs 1 5
+0
+eDNQ 1 5
+0
+xKQA 0 8
+0
+dChn 1 6
+0
+RGbV 1 5
+0
+zaCf 1 0
+0
+tBBA 1 6
+0
+TXRZ 0 0
+0
+vWhc 1 6
+0
+cenl 0 1
+0
+iKvh 0 1
+0
+WdUx 0 1
+0
+hKtt 1 4
+0
+mFHM 0 3
+0
+EaNF 1 7
+0
+XhCL 0 1
+0
+JgDV 1 8
+0
+AGUt 0 2
+0
+BqLV 1 0
+0
+aGTe 0 0
+0
+euHN 0 1
+0
+KDRa 0 3
+0
+TlBG 0 3
+0
+qGIU 1 5
+0
+KyrE 0 4
+0
+FNdR 0 8
+0
+kSJP 0 6
+0
+bkAP 1 0
+0
+pNJP 0 8
+0
+BDIV 0 7
+0
+nCyQ 1 2
+0
+dSsj 0 2
+0
+gMJg 1 0
+0
+UsCM 0 1
+0
+xfQp 1 8
+0
+uZjh 1 0
+0
+NLNu 1 8
+0
+IYqB 1 2
+0
+jGOH 1 0
+0
+aNzF 1 4
+0
+ZDBt 1 8
+0
+CGBR 1 7
+0
+aans 1 6
+0
+awfR 1 8
+0
+VOSq 1 6
+0
+WUyh 1 7
+0
+VeJX 1 1
+0
+HbZO 1 7
+0
+niQh 1 5
+0
+aZLi 0 8
+0
+iotO 1 4
+0
+qbnv 1 1
+0
+McMi 1 7
+0
+aYNU 1 3
+0
+tQYt 0 6
+0
+GqOd 1 1
+0
+Oaca 0 5
+0
+djgK 1 4
+0
+fgLj 0 7
+0
+dWUa 0 8
+0
+EByI 0 2
+0
+bCgo 0 1
+0
+dKYM 0 1
+0
+TLsf 1 2
+0
+CooF 0 2
+0
+Taof 0 1
+0
+JSVH 0 7
+0
+FhDl 0 5
+0
+TyNV 1 0
+0
+cZvl 0 5
+0
+RrTd 1 1
+0
+XRcM 1 2
+0
+awhG 1 0
+0
+wfKB 0 6
+0
+cAsv 1 8
+0
+GVUn 0 8
+0
+EGHL 1 6
+0
+GQJe 0 6
+0
+hjPx 1 4
+0
+dLyI 1 0
+0
+tdBH 0 7
+0
+CKFY 1 3
+0
+SZRd 0 8
+0
+Crzk 0 8
+0
+KdCE 0 4
+0
+vjeg 0 2
+0
+FAYw 0 1
+0
+VCbD 0 3
+0
+YWDQ 0 0
+0
+MPCZ 1 7
+0
+Vssb 0 4
+0
+UjDZ 1 6
+0
+bGsG 1 7
+0
+CMfg 1 7
+0
+XOCh 1 4
+0
+KEWt 1 2
+0
+xsxl 1 5
+0
+emLh 1 3
+0
+uzdY 1 7
+0
+zqnj 0 1
+0
+uAJu 1 4
+0
+cfTR 0 7
+0
+xwMS 1 7
+0
+tGBe 1 2
+0
+EKUN 1 6
+0
+dswg 0 3
+0
+Yuew 0 7
+0
+acIQ 1 6
+0
+adEf 1 1
+0
+qiNn 1 4
+0
+OSiH 0 4
+0
+KGam 0 1
+0
+SHbu 1 8
+0
+BAij 1 5
+0
+xrSG 0 1
+0
+TaCw 0 2
+0
+ozoe 1 6
+0
+NsxR 1 6
+0
+REXI 0 8
+0
+LJFm 1 4
+0
+JcoI 1 3
+0
+vyhy 0 2
+0
+DkrV 1 3
+0
+qcbd 1 2
+0
+YMRV 0 5
+0
+cBNn 1 2
+0
+ldDo 0 0
+0
+SWKw 1 6
+0
+FUQZ 0 0
+0
+OjHW 1 5
+0
+DmJS 0 0
+0
+FjZP 0 6
+0
+MHQq 1 2
+0
+KIWU 0 1
+0
+OyOi 1 4
+0
+NwyG 1 6
+0
+Ztbk 0 1
+0
+DuwP 1 3
+0
+JKgS 0 8
+0
+KIxh 1 5
+0
+icGa 0 5
+0
+fkNl 0 4
+0
+qaKY 0 5
+0
+pzQD 1 3
+0
+miRo 1 3
+0
+rPOP 0 2
+0
+SwSx 1 2
+0
+xbYZ 1 2
+0
+Ceok 0 5
+0
+BnCv 0 7
+0
+MBEY 1 5
+0
+tHtV 0 3
+0
+TIyT 0 6
+0
+lEMI 1 3
+0
+sSyL 0 4
+0
+SdrX 1 3
+0
+FDHe 0 2
+0
+keZE 0 6
+0
+fnLh 0 2
+0
+SPeZ 1 3
+0
+qLGt 0 6
+0
+DXoh 0 2
+0
+pTNT 0 3
+0
+Zehu 1 8
+0
+vteM 1 5
+0
+seID 0 3
+0
+XsTI 0 3
+0
+yfqJ 0 7
+0
+hwlM 0 5
+0
+TgKG 0 1
+0
+kmwE 1 8
+0
+iyoE 0 5
+0
+pxTN 1 7
+0
+XvKn 0 7
+0
+fPjN 1 8
+0
+ffqY 1 4
+0
+hPUb 0 5
+0
+gBhj 1 1
+0
+VeTX 0 4
+0
+pLlC 0 3
+0
+TYNP 1 4
+0
+RxAb 0 8
+0
+xtEJ 1 8
+0
+CBqE 0 4
+0
+VXKJ 1 8
+0
+zMSA 0 5
+0
+FIXw 1 8
+0
+jFjF 1 1
+0
+TkMM 1 3
+0
+KtzM 0 0
+0
+BsTn 0 5
+0
+yNUn 0 7
+0
+lqDd 0 2
+0
+wuaM 0 3
+0
+Xyst 1 2
+0
+YNRC 0 1
+0
+IBSg 1 1
+0
+AIKk 1 8
+0
+SLFJ 0 3
+0
+hEeC 1 0
+0
+CkjJ 0 7
+0
+xrGg 1 2
+0
+AUQV 0 5
+0
+aaae 1 0
+0
+jOAv 1 1
+0
+UHzF 0 5
+0
+Teye 0 7
+0
+fAth 0 3
+0
+AlIh 1 5
+0
+DLys 1 2
+0
+rfiS 1 3
+0
+QWGS 1 3
+0
+UOTS 0 7
+0
+XsXU 1 2
+0
+SLZL 0 0
+0
+XVqc 1 1
+0
+blbK 0 7
+0
+ZzpC 1 7
+0
+dUrw 0 1
+0
+aBYQ 1 4
+0
+OpTP 0 8
+0
+CTbu 0 7
+0
+AKGX 0 8
+0
+Hwpr 1 4
+0
+FdOd 0 2
+0
+adYd 0 4
+0
+KbkX 1 1
+0
+iteg 0 5
+0
+uLWP 1 4
+0
+ghkd 1 1
+0
+WWIk 1 7
+0
+lKhe 1 1
+0
+exdj 1 3
+0
+AjML 0 4
+0
+RZpW 0 6
+0
+qISI 1 1
+0
+sBhB 0 7
+0
+lFwT 0 1
+0
+oemC 1 7
+0
+lAVt 0 4
+0
+WBgE 0 2
+0
+wEfq 0 2
+0
+cAuY 0 8
+0
+RcpP 0 5
+0
+lhai 1 8
+0
+uBji 0 5
+0
+KkBx 1 1
+0
+HumZ 0 2
+0
+pSuq 0 0
+0
+bcHC 0 4
+0
+FIqM 1 5
+0
+oGcp 0 8
+0
+pQYc 1 5
+0
+ZoCK 0 0
+0
+GaoF 0 8
+0
+AqIc 1 0
+0
+qzYg 1 1
+0
+RPQp 0 3
+0
+dtDG 0 8
+0
+atpA 1 0
+0
+nTRd 1 2
+0
+rHMx 1 8
+0
+WVmv 0 5
+0
+qpcM 1 0
+0
+wCOm 1 5
+0
+hTcd 1 6
+0
+hlvI 1 1
+0
+ibUM 0 6
+0
+HIOG 1 3
+0
+mfCO 1 6
+0
+AkAe 1 0
+0
+KWpl 0 4
+0
+ojkB 0 4
+0
+pNaR 1 7
+0
+LpNk 0 0
+0
+vtYE 0 1
+0
+CMdm 0 7
+0
+iMtV 1 5
+0
+IDkE 0 3
+0
+HhNq 1 1
+0
+ARml 0 2
+0
+EMKE 1 1
+0
+gVbK 0 3
+0
+XFpS 0 8
+0
+ekKy 1 7
+0
+tZwQ 1 1
+0
+Yytk 1 5
+0
+qteP 1 7
+0
+YNsI 0 4
+0
+kVUP 0 4
+0
+dJqQ 1 7
+0
+CbBf 0 8
+0
+pFfg 0 3
+0
+xBkF 1 2
+0
+cRBn 1 4
+0
+VOnV 0 7
+0
+BoPl 1 3
+0
+bnGL 0 2
+0
+ZYNQ 1 8
+0
+ZkMM 0 6
+0
+dKMf 0 8
+0
+bCEB 1 7
+0
+Kzuh 0 6
+0
+pvmg 0 7
+0
+ASZQ 0 6
+0
+AJto 0 3
+0
+BWxC 0 7
+0
+KUKx 0 4
+0
+vjuO 1 0
+0
+Lhpm 1 3
+0
+WZEw 1 5
+0
+GwxP 1 6
+0
+XfIK 0 2
+0
+NaIT 0 4
+0
+DLgo 1 8
+0
+MhFh 0 5
+0
+bVDi 1 1
+0
+oMQZ 0 0
+0
+qRuN 1 2
+0
+zgzz 0 8
+0
+cjfI 1 0
+0
+MDuB 1 4
+0
+iIkj 1 1
+0
+xNOD 1 2
+0
+VCMm 1 0
+0
+POMc 1 3
+0
+HNFT 1 0
+0
+lPdN 1 0
+0
+ojnW 0 0
+0
+fMeh 0 8
+0
+TSIs 0 8
+0
+Vbbq 0 5
+0
+mvZn 0 0
+0
+knSU 0 4
+0
+hbmN 0 8
+0
+zODK 1 2
+0
+UbnV 1 1
+0
+mVyl 1 6
+0
+luza 0 2
+0
+laLO 1 4
+0
+Tykf 1 6
+0
+KZxM 0 3
+0
+fJvw 1 0
+0
+sKba 1 5
+0
+SDbz 1 4
+0
+tnKU 0 3
+0
+SenN 0 6
+0
+PsKs 1 7
+0
+JzuH 1 0
+0
+VKCb 1 3
+0
+gAys 0 8
+0
+eUCZ 1 3
+0
+VsdP 0 0
+0
+gYYh 1 0
+0
+TgXV 0 4
+0
+mYUt 1 8
+0
+qBcX 1 8
+0
+XsjW 1 3
+0
+vWox 0 2
+0
+inQT 0 8
+0
+MOyj 1 5
+0
+FKbu 1 8
+0
+TjQu 1 8
+0
+oMfU 0 8
+0
+SIOG 0 3
+0
+JARE 0 3
+0
+rdLY 0 7
+0
+zTBl 1 6
+0
+jBlM 1 6
+0
+aQeO 0 3
+0
+Qnzg 0 8
+0
+ynDr 0 8
+0
+bNvs 1 6
+0
+xKsf 1 1
+0
+nvod 0 5
+0
+uzOY 0 8
+0
+CbUe 0 0
+0
+hKAX 1 2
+0
+UKpM 1 8
+0
+zcnt 0 5
+0
+PbTS 0 6
+0
+QknV 0 8
+0
+iKZE 1 5
+0
+lbYV 1 7
+0
+LJBq 0 0
+0
+JlbI 0 8
+0
+sKBM 0 0
+0
+noTi 0 5
+0
+aFni 0 7
+0
+bahP 1 2
+0
+EzUC 0 7
+0
+ZzlX 0 4
+0
+Umtm 0 2
+0
+pYvs 0 8
+0
+VDpZ 1 2
+0
+jHSA 1 6
+0
+dLch 0 0
+0
+TuRT 1 4
+0
+vYiK 0 1
+0
+ZWgm 0 4
+0
+OygN 0 3
+0
+xHxA 1 6
+0
+NgtU 0 4
+0
+rnCU 1 2
+0
+LwjK 0 0
+0
+eJXT 0 2
+0
+asUS 0 2
+0
+jzzo 1 4
+0
+Kkzt 1 0
+0
+NwSI 0 7
+0
+ZOqQ 0 3
+0
+anUS 0 3
+0
+jjiN 0 1
+0
+RYGo 0 8
+0
+Nzka 0 8
+0
+InZe 1 3
+0
+XGnG 0 0
+0
+fRri 0 3
+0
+fqTL 0 8
+0
+CQbg 1 7
+0
+bEJr 1 0
+0
+uYLs 0 1
+0
+OAEJ 0 7
+0
+aJfa 0 6
+0
+VbQR 1 3
+0
+SLwV 0 5
+0
+nOri 0 2
+0
+fzqM 0 7
+0
+Walz 1 0
+0
+deIH 0 5
+0
+xFpl 0 1
+0
+msgo 1 2
+0
+AMDL 1 6
+0
+bhrC 0 6
+0
+FcMb 0 7
+0
+mBdh 0 5
+0
+DccY 0 3
+0
+AfIt 0 1
+0
+UnRR 0 2
+0
+szmP 1 7
+0
+GpDq 1 5
+0
+ZMoC 0 4
+0
+Lola 0 8
+0
+Pxap 1 7
+0
+DlTv 0 0
+0
+AEfi 0 4
+0
+DoeB 0 5
+0
+LckQ 1 8
+0
+MmQN 1 6
+0
+akYS 0 6
+0
+xkVe 0 8
+0
+AGNB 1 3
+0
+qqir 0 2
+0
+Emck 1 5
+0
+RCcj 0 8
+0
+cIkE 1 8
+0
+tMKR 1 2
+0
+Bafu 1 5
+0
+QDln 0 5
+0
+KFhu 1 1
+0
+OcbM 1 1
+0
+DyZY 1 4
+0
+VLWO 0 2
+0
+toYE 1 2
+0
+tfTg 1 5
+0
+zIIm 1 3
+0
+DxZY 0 0
+0
+RqWy 1 1
+0
+ysKL 1 2
+0
+zOfc 1 7
+0
+VIZw 1 0
+0
+gybo 1 7
+0
+PYsG 1 8
+0
+MbFP 1 0
+0
+PCTP 0 4
+0
+xQTR 0 0
+0
+QAKB 1 1
+0
+iKDO 0 0
+0
+pFbS 1 8
+0
+ToCU 0 3
+0
+aSfw 0 5
+0
+dEqS 0 4
+0
+Esuq 0 3
+0
+Bgfb 0 6
+0
+nVet 1 3
+0
+FwpL 0 4
+0
+xwls 1 5
+0
+XQFo 0 4
+0
+bewf 1 7
+0
+NedS 1 6
+0
+Kggl 1 1
+0
+llqI 0 2
+0
+BlAV 1 6
+0
+FINU 1 6
+0
+qfps 1 4
+0
+jeAd 0 7
+0
+twLS 1 3
+0
+WUIa 1 4
+0
+QFUD 0 5
+0
+tmrX 1 1
+0
+KwKG 0 4
+0
+Prix 0 3
+0
+dAnP 1 6
+0
+XJVM 1 1
+0
+DObx 1 0
+0
+Xpnx 1 5
+0
+XyYI 1 8
+0
+aOlZ 1 8
+0
+yQba 1 7
+0
+JoNk 1 1
+0
+MEQV 1 5
+0
+gFWe 1 1
+0
+WNJz 1 2
+0
+lSsk 0 4
+0
+gisN 1 6
+0
+CHbM 1 1
+0
+uOZC 0 6
+0
+RqBe 0 3
+0
+WTaQ 1 5
+0
+Tlpe 0 1
+0
+EJtV 0 6
+0
+XCYb 0 7
+0
+JTUh 1 6
+0
+srml 1 2
+0
+TRKF 0 8
+0
+HTiJ 1 7
+0
+uIsN 0 3
+0
+rCGB 0 3
+0
+YTIn 1 6
+0
+TeGj 0 0
+0
+cNhQ 1 1
+0
+qxLc 0 8
+0
+xACp 0 2
+0
+xfgi 1 2
+0
+AHkL 0 6
+0
+qCsi 0 3
+0
+oCoz 0 0
+0
+dVlZ 0 1
+0
+TOoE 1 7
+0
+oAfL 1 6
+0
+FdeL 1 6
+0
+zdCl 1 4
+0
+uPTW 1 5
+0
+AumR 1 0
+0
+atmq 0 7
+0
+Vdwh 1 8
+0
+wmFV 1 1
+0
+FeYi 0 6
+0
+uqfB 0 0
+0
+dMQn 1 3
+0
+Eynm 0 3
+0
+hMVD 0 7
+0
+yQGk 0 7
+0
+fzxP 0 1
+0
+yBdq 1 7
+0
+OubE 0 3
+0
+jQLV 0 8
+0
+FycT 1 4
+0
+gyNu 1 2
+0
+mJcI 0 2
+0
+fcZZ 0 2
+0
+MagJ 0 5
+0
+ixUL 0 3
+0
+wfqZ 0 8
+0
+zoTR 1 7
+0
+zcWZ 1 0
+0
+uAHU 1 5
+0
+MjWY 1 5
+0
+mFeY 1 2
+0
+XfmG 0 6
+0
+mXDe 0 7
+0
+VWVa 0 5
+0
+IYPy 0 6
+0
+LcRo 0 5
+0
+NOKc 1 5
+0
+mnkW 1 0
+0
+EUVo 0 4
+0
+uKtc 1 5
+0
+ZLyx 0 5
+0
+OfaH 0 0
+0
+MYJW 1 4
+0
+fSrU 1 7
+0
+Dyce 1 8
+0
+hMVb 1 4
+0
+DYTL 1 8
+0
+oQkr 0 7
+0
+cvvo 0 0
+0
+xAHj 0 8
+0
+zexQ 0 2
+0
+grtQ 1 8
+0
+cKvT 0 4
+0
+Kybn 0 2
+0
+ZuHl 1 3
+0
+Hvhz 1 5
+0
+OecA 0 8
+0
+jHcS 1 0
+0
+egRJ 0 8
+0
+rUqF 1 4
+0
+fTUW 0 8
+0
+WDxi 1 4
+0
+LPxI 0 2
+0
+pAzm 0 4
+0
+VeoB 1 8
+0
+PQjp 1 4
+0
+ILOy 0 1
+0
+Nbzp 0 8
+0
+zUVc 1 2
+0
+bRUc 0 4
+0
+kibX 0 0
+0
+kICP 0 8
+0
+qzPd 1 5
+0
+LcyO 1 2
+0
+wIhK 1 3
+0
+FcOp 0 1
+0
+faCa 0 8
+0
+iCQV 0 8
+0
+fBKQ 1 6
+0
+viED 1 8
+0
+EHFD 0 4
+0
+IHQR 1 6
+0
+NEiL 1 4
+0
+eZka 1 4
+0
+KnnT 0 0
+0
+CpeR 1 0
+0
+vqpA 0 5
+0
+kpcf 1 8
+0
+NFGg 1 7
+0
+SaiH 0 6
+0
+YtMZ 0 7
+0
+kZgT 0 8
+0
+fkLU 1 0
+0
+rLlx 1 4
+0
+FAWz 1 0
+0
+KsdH 0 5
+0
+rtwS 1 4
+0
+PBli 1 1
+0
+hgHc 0 6
+0
+Ogvk 1 4
+0
+upqt 0 3
+0
+lXfA 1 0
+0
+osXq 0 5
+0
+CoUk 0 1
+0
+wEHR 1 3
+0
+TOeC 0 1
+0
+SWgM 1 4
+0
+WqTo 0 3
+0
+MOMQ 1 2
+0
+Ywve 1 1
+0
+keeG 0 6
+0
+ogfW 1 0
+0
+eycX 1 2
+0
+ygsK 0 2
+0
+mdIx 1 8
+0
+JrGU 1 2
+0
+SJvP 1 3
+0
+nDKn 0 7
+0
+EIsE 1 3
+0
+lVmP 0 8
+0
+TJeW 0 3
+0
+LYig 1 6
+0
+DVRK 0 8
+0
+iFPS 1 3
+0
+yQpb 0 8
+0
+bKoJ 0 3
+0
+bvdk 1 2
+0
+LWyK 1 0
+0
+BBnG 1 3
+0
+JCsA 1 0
+0
+fNqb 1 8
+0
+Ehpm 1 2
+0
+ciXx 1 0
+0
+LtJF 0 3
+0
+OGKY 1 4
+0
+dFkM 1 3
+0
+mTLt 1 7
+0
+ehYp 0 1
+0
+iuGF 0 8
+0
+assj 0 6
+0
+SXic 1 1
+0
+XIGR 1 5
+0
+wwhl 0 6
+0
+WHse 1 0
+0
+hEwR 0 8
+0
+hCiO 1 7
+0
+ZhGu 1 1
+0
+wPFW 0 5
+0
+sdNC 1 3
+0
+EDfl 0 5
+0
+ULYu 1 6
+0
+bnPQ 0 0
+0
+PhYZ 1 4
+0
+FBWh 1 0
+0
+YaKk 0 7
+0
+FDLq 0 5
+0
+sjBT 0 6
+0
+DMUJ 1 5
+0
+iMZt 1 8
+0
+IHDm 1 5
+0
+mplC 1 6
+0
+ZDCD 0 0
+0
+NkDk 1 2
+0
+VJGa 1 7
+0
+ryPh 1 0
+0
+CYmw 0 2
+0
+VAnm 0 0
+0
+RJYf 0 2
+0
+dpAF 1 8
+0
+rETC 0 2
+0
+XEUQ 0 7
+0
+lulh 0 3
+0
+tcFU 0 7
+0
+MJkf 1 2
+0
+yKXs 1 3
+0
+yeCd 1 1
+0
+eFET 1 6
+0
+bXzk 0 0
+0
+AMrn 1 8
+0
+vMJB 1 7
+0
+YHRV 1 1
+0
+yVQO 0 8
+0
+jQMx 1 7
+0
+ZSwq 0 4
+0
+hRXv 0 2
+0
+nUtP 0 7
+0
+SbIB 0 7
+0
+Bigz 0 4
+0
+CcXH 1 7
+0
+SBJB 0 4
+0
+JtnM 0 5
+0
+wOwp 1 1
+0
+jXWc 1 7
+0
+XApD 0 7
+0
+ldqa 1 4
+0
+rEtM 1 7
+0
+BCmI 0 7
+0
+pvxc 1 7
+0
+ShPZ 1 7
+0
+mIBo 0 5
+0
+oQHm 1 1
+0
+rpyR 1 4
+0
+SRcq 0 6
+0
+kAxb 1 3
+0
+qFkW 0 7
+0
+jECL 0 2
+0
+SSBI 1 0
+0
+Qevs 1 0
+0
+YgST 0 0
+0
+xRBy 0 4
+0
+NmJH 0 2
+0
+rREE 0 3
+0
+yhtk 1 7
+0
+PJaG 1 5
+0
+ZWoj 0 3
+0
+Bbrk 1 5
+0
+Hgcw 0 6
+0
+PuvU 1 4
+0
+Egcj 1 8
+0
+HAvC 1 8
+0
+ObrY 1 5
+0
+dWpC 0 4
+0
+sgen 0 2
+0
+QoFV 1 7
+0
+cClO 1 8
+0
+mdog 0 3
+0
+VaIl 1 1
+0
+gmSF 0 8
+0
+EUhM 0 3
+0
+JGra 1 3
+0
+vmdT 0 3
+0
+DTLN 1 1
+0
+ohbr 1 4
+0
+LqUV 1 3
+0
+HPjd 0 3
+0
+dWsQ 0 5
+0
+fDHC 0 4
+0
+zMAC 1 1
+0
+tVXS 0 3
+0
+HLZy 1 7
+0
+kbIY 0 7
+0
+MFdD 0 5
+0
+ZrPf 1 1
+0
+qIdj 0 4
+0
+XFLK 1 2
+0
+CQli 0 8
+0
+nuBD 0 8
+0
+whRD 1 8
+0
+iIzW 1 1
+0
+bbod 1 3
+0
+BdIa 0 4
+0
+BIgS 1 8
+0
+RYOB 0 4
+0
+zKaM 1 4
+0
+rJPw 1 5
+0
+QESv 1 5
+0
+AyPn 1 7
+0
+wdTW 1 1
+0
+BEDa 0 1
+0
+PGSY 1 2
+0
+rDPe 1 0
+0
+dZHh 1 2
+0
+qeSt 0 7
+0
+kKOw 0 5
+0
+pceg 1 7
+0
+xQCg 1 0
+0
+OIGQ 1 1
+0
+yJek 1 3
+0
+NhOm 0 7
+0
+oBNf 1 2
+0
+OqgI 1 0
+0
+oQhJ 1 3
+0
+lIjm 1 4
+0
+yqcD 0 1
+0
+XoVG 0 3
+0
+CwxH 1 2
+0
+pTKV 0 5
+0
+UZUy 1 2
+0
+IgTk 1 0
+0
+ORFf 1 8
+0
+gXMy 1 6
+0
+Ynkb 1 3
+0
+ebRF 0 6
+0
+RFeL 0 4
+0
+ThXz 0 3
+0
+EJcq 1 4
+0
+KuVg 1 5
+0
+vfar 0 2
+0
+byAD 1 1
+0
+wNuR 0 2
+0
+ngIY 1 8
+0
+YSBh 0 0
+0
+hpER 1 4
+0
+yROW 0 7
+0
+Cqdn 0 2
+0
+vwWa 1 3
+0
+qlCB 0 1
+0
+ySRF 1 5
+0
+mrLM 0 7
+0
+aTxT 0 4
+0
+EEyk 1 1
+0
+fben 1 6
+0
+ljkT 1 4
+0
+bRrL 0 7
+0
+jdLJ 0 4
+0
+cSdW 0 8
+0
+xrWM 0 5
+0
+aFaG 1 1
+0
+ReKy 1 8
+0
+EMMZ 1 0
+0
+hUdo 1 4
+0
+Kudo 1 4
+0
+trjB 0 6
+0
+ySEk 0 0
+0
+zgkY 1 4
+0
+WdhZ 0 4
+0
+BXTe 0 5
+0
+NXpB 1 4
+0
+yBlP 1 3
+0
+eQHN 0 5
+0
+mPAm 1 6
+0
+FlSt 0 1
+0
+SRUQ 0 1
+0
+QRtk 1 3
+0
+Ampq 1 3
+0
+aVgQ 0 4
+0
+cuPR 1 8
+0
+yVaH 0 2
+0
+DTJm 0 8
+0
+aCOg 0 4
+0
+cEkj 1 7
+0
+ZNCS 1 7
+0
+hvqM 1 4
+0
+vHTC 1 7
+0
+vNhH 1 8
+0
+TrzJ 0 7
+0
+IkrK 1 6
+0
+KnMA 1 7
+0
+VeQa 0 2
+0
+hvgi 0 0
+0
+zKog 0 5
+0
+LGts 1 8
+0
+NhrV 0 0
+0
+BZAC 1 3
+0
+VKfK 1 3
+0
+Zfet 1 0
+0
+sCvg 0 1
+0
+oryt 1 3
+0
+VYQV 1 7
+0
+BhPM 0 4
+0
+ayHR 1 6
+0
+FkvY 0 3
+0
+RWGp 1 0
+0
+MRtC 0 2
+0
+FTBp 0 5
+0
+dPVq 1 2
+0
+LGNx 1 8
+0
+cllU 1 7
+0
+LKzb 0 3
+0
+lqsu 1 4
+0
+JwTj 1 2
+0
+JCHB 0 5
+0
+Ukbd 1 2
+0
+zTLv 0 8
+0
+mDak 0 3
+0
+YTnb 0 2
+0
+eEQQ 1 2
+0
+VqFr 0 5
+0
+KSNT 0 7
+0
+XCVN 1 1
+0
+YUKv 0 3
+0
+iWSH 0 5
+0
+fInN 1 0
+0
+cmWe 0 3
+0
+MnzU 0 1
+0
+mhZE 1 7
+0
+iFld 1 1
+0
+xrMP 1 6
+0
+gcgU 1 3
+0
+vzYi 1 7
+0
+JPsm 0 3
+0
+dOev 1 2
+0
+rvuG 1 2
+0
+naQl 1 4
+0
+Phbn 1 1
+0
+qMJg 1 6
+0
+pWkr 1 4
+0
+RsOy 1 6
+0
+SqIt 1 0
+0
+dhEa 0 0
+0
+DVWx 1 5
+0
+azTI 0 4
+0
+UXGN 1 3
+0
+zjOo 0 8
+0
+alCh 1 5
+0
+gODF 1 2
+0
+FLnO 1 3
+0
+HCTu 1 4
+0
+IPfC 1 3
+0
+hllx 1 1
+0
+RUfC 0 5
+0
+RvAR 1 2
+0
+CtoA 0 0
+0
+aeUH 0 7
+0
+OzXO 0 0
+0
+TMQY 1 6
+0
+iwGO 1 5
+0
+yruz 1 7
+0
+zYBe 0 2
+0
+CGto 0 8
+0
+UqVZ 1 5
+0
+IdvE 0 0
+0
+jtOC 1 0
+0
+smLo 1 6
+0
+kaea 1 0
+0
+hPAU 1 8
+0
+wFzr 0 3
+0
+dwBb 0 8
+0
+RKuz 0 6
+0
+PcOI 1 7
+0
+QmCE 1 5
+0
+TKiZ 1 7
+0
+MUQa 0 3
+0
+jrCl 1 1
+0
+brMq 1 4
+0
+ABSJ 1 3
+0
+ONXP 0 5
+0
+BUHl 0 1
+0
+gbMK 0 5
+0
+rhyI 1 6
+0
+lGCt 0 6
+0
+GVzy 1 6
+0
+uEaG 1 0
+0
+vSmN 0 5
+0
+rmOg 0 5
+0
+yTHE 0 2
+0
+mkRi 1 6
+0
+BIfh 1 1
+0
+jqnx 1 5
+0
+dPdL 0 0
+0
+SDjB 0 1
+0
+PANK 1 3
+0
+sQIm 1 2
+0
+xBAE 0 6
+0
+ABvY 0 2
+0
+TKmQ 0 0
+0
+BvoV 0 2
+0
+nOcl 1 1
+0
+RqCv 1 6
+0
+mTFX 0 0
+0
+TXRs 0 6
+0
+TXsE 0 8
+0
+bVsP 0 0
+0
+Wvux 1 4
+0
+veYM 0 3
+0
+knal 1 7
+0
+Ppqo 0 8
+0
+PoAQ 1 7
+0
+nLAk 0 5
+0
+ULqZ 0 4
+0
+NYxS 0 2
+0
+tyyl 1 0
+0
+rzUM 1 7
+0
+dRTP 0 7
+0
+QnJj 0 7
+0
+kGdP 1 0
+0
+atkf 0 0
+0
+jxut 1 0
+0
+kyEG 1 1
+0
+lnGm 1 4
+0
+cObS 0 3
+0
+vUUQ 0 0
+0
+veeP 1 0
+0
+Cwoz 1 1
+0
+cHXr 1 5
+0
+Qazh 0 3
+0
+Vnqu 0 1
+0
+xlXe 0 3
+0
+KQEa 0 8
+0
+gMdk 0 5
+0
+yosG 1 2
+0
+FhZA 1 6
+0
+luDj 1 0
+0
+hddT 0 3
+0
+enhV 0 0
+0
+ZYNz 0 1
+0
+nEmh 0 8
+0
+bqsY 0 0
+0
+Lycm 0 5
+0
+yDap 0 6
+0
+uvLj 1 7
+0
+TJZI 1 1
+0
+upub 1 5
+0
+ooxs 0 2
+0
+kQuV 1 6
+0
+uCUI 0 6
+0
+wtOV 1 6
+0
+Opnw 1 0
+0
+dweq 0 8
+0
+nMJr 0 5
+0
+FFAa 1 4
+0
+noqO 0 1
+0
+gbFB 1 2
+0
+HCpm 0 8
+0
+XkUe 0 4
+0
+eMrJ 1 1
+0
+nBUx 0 0
+0
+saWH 0 0
+0
+QoXl 1 8
+0
+WvRI 1 0
+0
+PDRD 1 6
+0
+JRBc 1 0
+0
+KTIp 0 2
+0
+yoJy 0 0
+0
+oRur 0 6
+0
+hWAA 1 0
+0
+RABI 1 8
+0
+IqrX 0 4
+0
+IyHL 1 2
+0
+iFOh 1 8
+0
+MgKE 1 8
+0
+LHBM 1 8
+0
+Phic 0 2
+0
+FPqq 1 5
+0
+djgY 1 5
+0
+tnDa 1 1
+0
+LCHm 0 2
+0
+gTMZ 1 3
+0
+FRDA 0 8
+0
+LkjY 1 5
+0
+GJoE 0 7
+0
+UQxF 1 4
+0
+LahF 1 0
+0
+wvDa 1 5
+0
+saSB 1 3
+0
+uShU 1 8
+0
+ZrPQ 1 6
+0
+OmIv 0 0
+0
+PIiz 0 5
+0
+tsbu 0 6
+0
+LjuE 1 6
+0
+DwBm 0 2
+0
+lwLO 1 4
+0
+OMFy 1 3
+0
+eXri 0 0
+0
+MOCm 0 2
+0
+cawc 0 6
+0
+Qiig 1 6
+0
+YpkQ 0 3
+0
+sYrk 1 0
+0
+jTHs 1 7
+0
+JHxi 1 7
+0
+ZUbf 1 4
+0
+UYOB 0 3
+0
+idQc 0 8
+0
+uyko 0 1
+0
+khKL 1 0
+0
+ikBC 1 1
+0
+NEEx 0 4
+0
+cBpR 1 1
+0
+sNFl 0 5
+0
+kmBf 0 3
+0
+dSmS 0 0
+0
+pBJn 0 8
+0
+sAMY 1 1
+0
+kpoO 0 7
+0
+OPRg 1 2
+0
+HIwD 1 1
+0
+yKsY 0 4
+0
+fXhA 1 7
+0
+KDwO 0 6
+0
+rECv 0 0
+0
+dlfc 1 8
+0
+jFXF 0 4
+0
+zcbo 1 0
+0
+mSoa 0 0
+0
+dvla 0 2
+0
+FVHK 0 0
+0
+VIHb 1 4
+0
+stmF 0 7
+0
+DiHr 0 7
+0
+QaWb 1 3
+0
+DYpl 0 2
+0
+Kpdw 0 7
+0
+yywh 1 4
+0
+ruEw 0 2
+0
+KPEL 1 8
+0
+GQBk 0 0
+0
+JXIV 1 0
+0
+qKPI 0 8
+0
+VvxE 1 2
+0
+yXlx 0 3
+0
+xkki 1 7
+0
+JGNC 0 7
+0
+MaYT 0 2
+0
+yjSB 1 1
+0
+CMkj 1 7
+0
+KAqd 0 1
+0
+ExAJ 1 4
+0
+fXmL 0 0
+0
+GoOu 1 6
+0
+Gilu 1 6
+0
+Bash 1 7
+0
+TSWR 0 4
+0
+pJnV 1 5
+0
+mteg 0 2
+0
+qXpC 0 1
+0
+qCsE 1 8
+0
+MJmq 1 4
+0
+gbTf 1 6
+0
+WvRn 0 8
+0
+XEER 0 5
+0
+KSZX 1 7
+0
+IkUr 1 2
+0
+gBmO 0 5
+0
+numi 0 6
+0
+lKZI 1 6
+0
+VgfF 0 7
+0
+Rwkv 0 2
+0
+CrpR 1 8
+0
+CuyO 1 2
+0
+epNu 1 8
+0
+XjxM 1 2
+0
+lCGS 1 5
+0
+vxjR 1 3
+0
+iHUP 0 5
+0
+FqyH 0 7
+0
+sfrj 0 5
+0
+jBRZ 0 2
+0
+OOAX 0 8
+0
+VVvH 1 8
+0
+abTL 0 4
+0
+AqzW 0 4
+0
+dZUY 0 4
+0
+bhlU 1 4
+0
+PXLc 1 0
+0
+dEdK 0 3
+0
+RsHE 1 8
+0
+IlUi 1 2
+0
+JcML 0 5
+0
+OzdN 0 6
+0
+IIcd 0 0
+0
+lMJR 0 8
+0
+EZpk 1 5
+0
+FdzU 1 7
+0
+FXFJ 0 5
+0
+GtBP 1 1
+0
+gHzD 0 5
+0
+Moir 1 0
+0
+WQvx 1 2
+0
+NLTO 0 8
+0
+MSgw 1 5
+0
+FZtR 0 3
+0
+Jled 0 8
+0
+LAgZ 0 5
+0
+Kxxl 0 8
+0
+jewR 0 4
+0
+jSAb 1 5
+0
+FEMH 0 6
+0
+FjZW 0 1
+0
+VjTn 1 2
+0
+onot 1 1
+0
+uLzU 0 8
+0
+HSWt 1 0
+0
+wJpk 0 6
+0
+xiWB 1 6
+0
+WYTM 1 1
+0
+BFmF 0 8
+0
+khWE 0 8
+0
+bvNd 1 6
+0
+PFZt 0 8
+0
+JtcJ 1 1
+0
+YnPT 1 4
+0
+naxV 0 3
+0
+AJuw 1 0
+0
+PxcA 1 3
+0
+czDs 1 5
+0
+GyoY 0 4
+0
+WZuo 1 5
+0
+OEai 1 1
+0
+Tzvx 0 6
+0
+KAgG 0 6
+0
+nkxw 1 5
+0
+ukvj 1 5
+0
+NpMT 0 1
+0
+cHjY 1 8
+0
+SRff 0 5
+0
+gNyZ 1 3
+0
+AZVC 1 5
+0
+AXLX 0 0
+0
+wOLG 0 8
+0
+LUHN 0 4
+0
+unbJ 0 5
+0
+hOTD 0 0
+0
+eCfK 1 5
+0
+PJlP 0 5
+0
+AfZt 0 0
+0
+WqcT 0 1
+0
+Uwqg 0 1
+0
+jBaj 1 6
+0
+Jgdf 1 1
+0
+pZdS 0 7
+0
+yQrz 1 4
+0
+DVDo 0 1
+0
+qLUI 0 4
+0
+DPXx 1 2
+0
+TIih 0 5
+0
+owKn 1 1
+0
+TqrF 1 8
+0
+sRtV 0 7
+0
+fhbR 0 0
+0
+Vrag 1 5
+0
+rtjp 1 5
+0
+FFzN 0 4
+0
+iTGc 0 2
+0
+znuB 1 6
+0
+adsr 1 2
+0
+dmLw 1 8
+0
+qKhq 1 3
+0
+omRk 0 8
+0
+Onjg 1 8
+0
+dekl 0 4
+0
+Kihl 1 4
+0
+JitV 0 5
+0
+oBsm 1 2
+0
+NyEw 1 7
+0
+Jjoi 1 6
+0
+OHjO 0 1
+0
+ZdfH 1 7
+0
+AUoJ 0 7
+0
+qHdx 0 5
+0
+PvIm 1 7
+0
+SqeG 0 3
+0
+mKTb 1 6
+0
+Kyjo 1 0
+0
+Crqs 1 5
+0
+DcUZ 1 7
+0
+lMcD 0 4
+0
+YAMi 1 5
+0
+fjaM 1 6
+0
+GrSf 1 4
+0
+uFeb 0 6
+0
+hwxe 0 4
+0
+drGp 1 4
+0
+Hdfs 0 4
+0
+zCuO 0 7
+0
+QgKq 0 3
+0
+bODy 0 4
+0
+ThLy 0 0
+0
+XOrA 1 0
+0
+itDi 1 0
+0
+KruE 1 1
+0
+XItk 0 6
+0
+uWna 0 4
+0
+WinT 0 3
+0
+rSUQ 1 5
+0
+xzGr 0 7
+0
+XClU 1 5
+0
+veCV 0 8
+0
+sNLS 1 2
+0
+tLeY 1 2
+0
+WaIP 1 3
+0
+YTeO 0 5
+0
+dnvy 0 3
+0
+WitK 1 0
+0
+bmqa 0 6
+0
+OiYj 1 3
+0
+sECP 0 3
+0
+bqXU 0 1
+0
+Zxap 1 2
+0
+RYfm 1 0
+0
+xchX 0 2
+0
+pkRs 0 0
+0
+dZpX 0 7
+0
+YPDC 1 3
+0
+JSIp 1 2
+0
+MmPf 1 5
+0
+IVHu 1 7
+0
+bvgz 1 1
+0
+iEkC 1 4
+0
+qKTc 0 1
+0
+TofO 1 6
+0
+rMNT 1 8
+0
+KghH 0 0
+0
+kcdE 0 6
+0
+SZcn 1 3
+0
+WNBl 1 4
+0
+ZWDs 1 7
+0
+wrqA 0 2
+0
+nfPY 0 8
+0
+lukx 1 7
+0
+AyeW 0 1
+0
+MJrf 0 0
+0
+KGXg 0 8
+0
+lnwY 1 0
+0
+TBfE 0 2
+0
+lgWv 1 4
+0
+PqoU 0 6
+0
+OFbm 1 6
+0
+WTRb 1 3
+0
+TxMn 0 4
+0
+zWzF 0 6
+0
+MHBq 1 2
+0
+xkVx 1 5
+0
+loPd 0 4
+0
+kdWs 0 4
+0
+NuTv 0 7
+0
+eEWr 1 7
+0
+WRzf 0 6
+0
+MYNr 1 8
+0
+oFiS 0 0
+0
+JTRu 0 0
+0
+STXJ 1 0
+0
+Iirm 0 6
+0
+PjOs 0 2
+0
+DqFJ 1 2
+0
+fDla 1 2
+0
+fxbe 0 6
+0
+Uvcm 1 3
+0
+Lwnh 0 1
+0
+lhHQ 0 7
+0
+WDVE 1 3
+0
+iofz 1 4
+0
+WDdE 1 0
+0
+VbKc 1 2
+0
+fBlG 0 7
+0
+HTnx 1 8
+0
+GWBL 1 0
+0
+WRSM 0 3
+0
+WhaX 0 7
+0
+OWnM 0 7
+0
+zhYB 0 4
+0
+OFYs 0 8
+0
+Tadx 0 7
+0
+ueBB 1 8
+0
+vsdN 0 6
+0
+gQYd 1 8
+0
+vxTH 0 6
+0
+bYBv 0 5
+0
+fThs 1 0
+0
+onaC 1 2
+0
+OwgP 1 1
+0
+PALE 1 0
+0
+iaJp 1 2
+0
+TlUw 1 3
+0
+HbGp 0 3
+0
+NcrP 1 8
+0
+qNIY 1 5
+0
+ARmZ 0 6
+0
+jihN 0 0
+0
+staO 1 7
+0
+eaKx 0 1
+0
+PcZs 1 2
+0
+zRdL 0 5
+0
+ycKi 0 6
+0
+ovOW 0 2
+0
+NYzQ 0 5
+0
+ILSU 1 1
+0
+Ezrc 0 6
+0
+rEML 1 6
+0
+HRUu 0 4
+0
+Fjnv 1 8
+0
+rOJo 1 5
+0
+NBHJ 0 2
+0
+tibJ 1 2
+0
+hebP 0 1
+0
+ayLE 0 7
+0
+zeWD 1 8
+0
+nfcG 0 6
+0
+zuKk 1 2
+0
+emiT 1 4
+0
+KAJA 1 3
+0
+SSKq 0 7
+0
+URgQ 0 8
+0
+TqHI 1 2
+0
+rhsM 0 0
+0
+VXEe 0 5
+0
+PIAi 0 4
+0
+xFrK 0 0
+0
+SgoO 0 1
+0
+PGEp 0 1
+0
+DSAy 1 0
+0
+Idoy 1 6
+0
+UNzm 1 4
+0
+QUBf 0 5
+0
+ipYW 0 3
+0
+hpZM 1 8
+0
+szmJ 1 4
+0
+HOmd 1 4
+0
+bUiu 0 0
+0
+NYMu 1 7
+0
+hclo 0 2
+0
+feZh 0 5
+0
+PJFT 0 7
+0
+MVtX 0 1
+0
+JYiH 1 4
+0
+sghl 0 2
+0
+tSqx 1 5
+0
+jknx 0 2
+0
+lYSP 1 4
+0
+qZcF 1 7
+0
+fTra 1 8
+0
+bwNY 0 2
+0
+kFiz 1 4
+0
+BHhO 1 4
+0
+ISyn 1 3
+0
+tCii 1 6
+0
+XUnR 1 5
+0
+EdyK 0 1
+0
+kHLi 0 3
+0
+oqfL 1 3
+0
+EvXY 1 2
+0
+yqLC 1 8
+0
+ADSn 0 4
+0
+yVvx 0 3
+0
+nmET 0 1
+0
+nCdn 0 5
+0
+AANQ 0 3
+0
+sIKU 0 3
+0
+KOdE 1 5
+0
+EXep 1 2
+0
+KfVY 1 2
+0
+VoeB 1 0
+0
+EHTf 0 2
+0
+qrHM 0 6
+0
+JaZU 0 0
+0
+FrCG 0 5
+0
+uylb 0 6
+0
+ieBZ 1 7
+0
+nKgV 0 5
+0
+kLFb 0 0
+0
+xIBS 1 3
+0
+mLuG 1 8
+0
+jAcN 0 5
+0
+pBnc 0 2
+0
+Mqkh 1 2
+0
+BaTf 0 6
+0
+rcoF 1 7
+0
+dgUH 1 8
+0
+SeVW 1 0
+0
+sozt 1 0
+0
+zjtl 1 0
+0
+AZqo 1 7
+0
+YwPO 1 4
+0
+scuw 1 4
+0
+IKOT 0 4
+0
+IQpf 0 1
+0
+qzld 1 2
+0
+ExXZ 0 2
+0
+gBOO 1 0
+0
+ipGG 1 3
+0
+IibZ 0 6
+0
+EtZG 0 3
+0
+mSUO 1 8
+0
+eNxp 1 5
+0
+EfGn 0 3
+0
+cpko 0 3
+0
+WWKZ 0 8
+0
+yPoD 0 3
+0
+OekM 0 4
+0
+UGZH 0 4
+0
+CVrJ 1 1
+0
+qSxr 1 5
+0
+cwub 1 7
+0
+tVZY 0 6
+0
+kOLm 0 4
+0
+MaIU 1 7
+0
+cynR 1 4
+0
+tfyj 1 7
+0
+BfIQ 1 3
+0
+LENK 0 3
+0
+UNPD 0 4
+0
+tQQz 1 0
+0
+PIDu 0 6
+0
+rEFy 1 5
+0
+iwRk 0 6
+0
+DiKQ 0 4
+0
+IjQx 0 8
+0
+PhUJ 0 8
+0
+xmey 1 1
+0
+vRrc 1 2
+0
+Lwkr 0 1
+0
+zDkJ 1 3
+0
+UbAu 1 1
+0
+WuxO 0 0
+0
+LXKc 0 8
+0
+aGtp 0 0
+0
+hmjp 0 2
+0
+degt 0 0
+0
+mBRj 0 5
+0
+Eqwf 0 1
+0
+qoqX 1 7
+0
+JGfF 1 7
+0
+QFxv 1 0
+0
+ZHLY 0 5
+0
+oCZO 0 2
+0
+Ixyo 0 8
+0
+ugQd 0 7
+0
+kDfM 0 8
+0
+ZCDA 0 4
+0
+KWYf 0 2
+0
+STxi 0 4
+0
+vbuE 0 2
+0
+BEES 0 6
+0
+fXeb 1 1
+0
+VeQe 0 8
+0
+hzLN 0 3
+0
+hCpd 0 1
+0
+fePA 1 8
+0
+kaoD 1 7
+0
+mfSy 1 4
+0
+sdoI 1 6
+0
+jnfa 0 6
+0
+kZOI 1 6
+0
+cbFC 0 5
+0
+aiXM 0 2
+0
+Gnuk 0 7
+0
+VqfG 1 6
+0
+CvTZ 0 3
+0
+rKNz 0 3
+0
+pSde 1 7
+0
+WgCe 1 5
+0
+qHqO 1 3
+0
+ptdM 1 8
+0
+GkoZ 1 4
+0
+rUIS 1 2
+0
+EGrf 1 5
+0
+DALY 0 7
+0
+AxbN 0 8
+0
+Mqol 1 5
+0
+iPQI 1 0
+0
+GdXC 0 6
+0
+zqnw 1 7
+0
+GIXy 0 2
+0
+gIxo 0 4
+0
+qvUV 1 3
+0
+KfwK 0 5
+0
+MGhA 0 1
+0
+BjlZ 0 7
+0
+Bzba 0 4
+0
+FNdO 0 0
+0
+svXY 0 0
+0
+UjRv 1 1
+0
+Xijm 1 4
+0
+yONk 1 7
+0
+vZdE 1 4
+0
+YZIa 0 7
+0
+gPyj 0 1
+0
+tteF 1 5
+0
+YlHU 1 6
+0
+Koty 1 8
+0
+TQZP 0 1
+0
+MrFU 0 4
+0
+Fmcg 0 3
+0
+gbdI 1 4
+0
+YtfC 1 7
+0
+iOTV 1 5
+0
+Yjre 1 0
+0
+hNhT 0 8
+0
+kRDI 1 4
+0
+HVzB 0 6
+0
+eYbb 0 1
+0
+RfQH 1 0
+0
+wEdn 1 4
+0
+NdJZ 0 6
+0
+hZeP 0 2
+0
+seri 1 4
+0
+hiYz 1 3
+0
+SAbk 1 4
+0
+kDag 0 7
+0
+fwmq 1 8
+0
+Yyvk 1 6
+0
+UAfN 1 3
+0
+fNXM 0 8
+0
+IyzT 1 6
+0
+vsCV 1 1
+0
+TbUO 0 4
+0
+tPhg 0 7
+0
+ngTD 1 6
+0
+Mdve 1 2
+0
+Oaff 1 4
+0
+sCyn 0 3
+0
+idQf 0 7
+0
+jxGE 0 1
+0
+evHq 1 5
+0
+wrcE 0 3
+0
+PmVh 1 2
+0
+DLmf 0 8
+0
+uFug 1 3
+0
+rNqa 1 2
+0
+GJdU 0 2
+0
+DAtC 1 7
+0
+XEyd 0 3
+0
+gDda 0 1
+0
+ySbT 1 4
+0
+XeXq 1 6
+0
+HFuC 0 8
+0
+Dceb 1 5
+0
+tLIT 0 5
+0
+ElDg 0 1
+0
+btiJ 0 8
+0
+WZuj 1 5
+0
+DSnw 1 4
+0
+MYls 1 4
+0
+hFjh 1 8
+0
+bJaO 1 6
+0
+fpCr 0 3
+0
+TGFQ 1 3
+0
+mlhf 1 6
+0
+qAFE 0 5
+0
+dRaq 0 0
+0
+qMsL 1 3
+0
+qTKY 0 4
+0
+BiUt 1 5
+0
+proA 0 1
+0
+ZMkb 0 7
+0
+bmPp 0 6
+0
+eLqc 0 1
+0
+qLjh 0 7
+0
+pbAN 0 5
+0
+Zxvb 1 7
+0
+gMpY 0 3
+0
+wbLP 0 5
+0
+Mrui 0 1
+0
+yCRo 1 6
+0
+jKNb 1 1
+0
+LNcT 1 0
+0
+jQDI 0 8
+0
+qgEf 0 2
+0
+YnQh 0 5
+0
+XyYy 1 5
+0
+OkOl 0 3
+0
+VSpw 1 4
+0
+ZlqN 1 3
+0
+BgLu 0 0
+0
+SItF 1 2
+0
+gVvn 0 0
+0
+zPfE 0 7
+0
+dHZa 0 6
+0
+KmUv 1 3
+0
+rteE 1 6
+0
+USKT 0 5
+0
+zniz 0 0
+0
+TdTQ 0 1
+0
+pPrK 0 3
+0
+aFSb 0 3
+0
+wYBW 1 0
+0
+kwsv 0 3
+0
+UfKJ 1 8
+0
+PzlY 1 6
+0
+xbzX 0 5
+0
+XmaR 0 4
+0
+wqvE 1 7
+0
+TSdL 1 0
+0
+DWHr 1 5
+0
+oVGl 0 0
+0
+esqI 1 0
+0
+rVwl 1 3
+0
+qIca 0 0
+0
+nlPZ 0 8
+0
+dUJg 1 4
+0
+zOak 0 0
+0
+wjsI 0 2
+0
+fbEp 1 2
+0
+wkQt 1 3
+0
+SGyh 1 3
+0
+afnq 0 5
+0
+FcSh 1 2
+0
+wAAN 1 0
+0
+yuKR 0 2
+0
+RHvo 0 0
+0
+uzwK 0 4
+0
+aypw 1 5
+0
+Fjwp 1 7
+0
+kPOK 1 7
+0
+PElC 0 8
+0
+CcaD 0 7
+0
+ZnHF 0 4
+0
+fCER 0 8
+0
+cvhc 1 6
+0
+DzzO 1 5
+0
+Umyh 0 0
+0
+JOkt 0 4
+0
+FwMj 0 1
+0
+SMeE 0 2
+0
+EUdn 0 0
+0
+GSxE 1 8
+0
+ZpDy 0 4
+0
+hBQm 0 6
+0
+zQax 1 0
+0
+WTOa 1 0
+0
+nikF 1 2
+0
+ReWq 1 8
+0
+aHCC 0 5
+0
+Kryk 1 5
+0
+DzmE 1 7
+0
+YGky 1 8
+0
+sANQ 1 6
+0
+JDPG 1 2
+0
+WIul 1 6
+0
+CpZB 0 5
+0
+xATR 0 3
+0
+ZoKC 1 1
+0
+vVhO 0 7
+0
+HwaE 1 8
+0
+dKPz 0 7
+0
+Uxjr 1 8
+0
+CgyQ 0 5
+0
+WxuK 0 2
+0
+gPHH 1 4
+0
+GAHP 0 1
+0
+CPAq 0 7
+0
+pQOr 1 8
+0
+ERpz 1 5
+0
+kjbF 1 6
+0
+SYSC 0 6
+0
+QLjM 1 4
+0
+rigk 1 8
+0
+unmn 1 7
+0
+BhfV 0 2
+0
+dGUh 1 8
+0
+HYuu 1 8
+0
+Hdrl 0 2
+0
+BDuw 0 1
+0
+xKHP 0 8
+0
+jMTe 1 5
+0
+eEPa 0 0
+0
+vCeu 1 3
+0
+dgrp 0 2
+0
+LgcG 0 7
+0
+LfeU 1 4
+0
+JZnp 1 6
+0
+RuYx 1 0
+0
+FLTk 1 8
+0
+nnVH 1 4
+0
+nfua 0 3
+0
+fovE 1 3
+0
+bwGV 0 7
+0
+UJpS 0 0
+0
+zujA 0 2
+0
+MVJH 0 3
+0
+dPqi 0 2
+0
+gOvf 1 0
+0
+UyAC 1 5
+0
+ShMx 1 0
+0
+MulV 1 6
+0
+IsDN 1 0
+0
+zjIT 0 5
+0
+ZGzD 1 7
+0
+IDkS 1 2
+0
+DpEQ 0 3
+0
+rMqr 1 3
+0
+JhQf 1 8
+0
+DoRt 0 2
+0
+mHCk 0 3
+0
+rjdN 1 3
+0
+aooB 1 3
+0
+snNQ 0 2
+0
+AoIP 1 3
+0
+llrg 1 7
+0
+Qjkm 1 5
+0
+Exzd 1 2
+0
+igAC 0 7
+0
+hGrN 1 5
+0
+iGXr 1 5
+0
+kwoC 0 3
+0
+YpHM 0 6
+0
+HLXW 0 2
+0
+oJyP 1 0
+0
+TXxO 1 4
+0
+nSvi 1 8
+0
+flpc 1 2
+0
+ZiNL 1 3
+0
+eZIw 0 7
+0
+rlpi 0 1
+0
+YXJu 1 4
+0
+vvPf 1 6
+0
+rrrL 0 7
+0
+NCFv 0 1
+0
+ckai 0 8
+0
+ynON 1 2
+0
+PJgA 0 4
+0
+xtwZ 0 5
+0
+XGDz 0 0
+0
+YVTR 0 0
+0
+oZWV 1 4
+0
+SYEH 0 0
+0
+KWFR 1 5
+0
+AgYz 0 5
+0
+bpoX 0 1
+0
+YKfG 1 0
+0
+fIuZ 1 1
+0
+vLQb 1 1
+0
+KLZo 0 6
+0
+wdCt 1 4
+0
+nUAk 1 0
+0
+kYra 0 3
+0
+PvcP 0 0
+0
+cHCI 1 6
+0
+oYJq 1 4
+0
+PAaz 0 3
+0
+GdyP 1 7
+0
+pJBh 0 4
+0
+eOvl 1 6
+0
+saaY 1 0
+0
+IBpC 0 8
+0
+ZfLy 1 5
+0
+xKQB 0 7
+0
+OAdK 1 4
+0
+Bnrr 0 3
+0
+pIEo 0 3
+0
+YMfz 0 5
+0
+XAga 0 6
+0
+HSlI 1 2
+0
+YVmN 1 4
+0
+BHit 1 5
+0
+EohC 0 0
+0
+upaT 1 5
+0
+DhIW 0 6
+0
+ZNGk 0 4
+0
+eKIx 1 3
+0
+RtBd 1 0
+0
+Bymg 1 5
+0
+EnmZ 1 1
+0
+jGFS 1 8
+0
+ieLp 0 7
+0
+cXQN 1 8
+0
+jXfk 1 6
+0
+jmYL 1 8
+0
+Sjuv 1 0
+0
+mvdD 1 0
+0
+pSvn 1 1
+0
+gffJ 0 8
+0
+XVfj 0 1
+0
+alhJ 1 0
+0
+vgIf 1 5
+0
+VHGo 1 7
+0
+PNul 1 6
+0
+WGLr 1 6
+0
+yCxY 0 7
+0
+wsWq 0 4
+0
+vjUu 0 4
+0
+GoNo 1 8
+0
+wudO 1 4
+0
+TrNu 1 0
+0
+CvZl 1 1
+0
+nvTp 0 7
+0
+ZDMp 0 6
+0
+sySs 1 3
+0
+kqZO 1 4
+0
+eePZ 0 2
+0
+BEoW 1 6
+0
+kiMT 1 5
+0
+OyiF 0 4
+0
+tcLM 0 3
+0
+czQZ 1 0
+0
+tvSP 0 6
+0
+bKtI 1 0
+0
+TidO 1 4
+0
+gaMj 0 8
+0
+BatU 0 1
+0
+NVRy 0 7
+0
+EDYS 1 4
+0
+iZVM 0 0
+0
+Dteg 1 0
+0
+WUES 1 0
+0
+LfgI 1 8
+0
+HAwO 1 6
+0
+WPrt 1 1
+0
+HnhH 0 0
+0
+EoDv 1 5
+0
+OheV 1 2
+0
+iqMz 0 4
+0
+wSDO 1 1
+0
+PaEf 1 0
+0
+kbHq 1 2
+0
+iugq 1 5
+0
+ubmY 1 4
+0
+QeNv 0 0
+0
+IZEI 0 4
+0
+PPjg 1 8
+0
+Svrb 1 6
+0
+mDgs 1 7
+0
+SWeO 0 1
+0
+PoMh 0 1
+0
+CnRf 0 7
+0
+CkEj 0 3
+0
+TuWY 1 0
+0
+zHLP 1 5
+0
+SUGK 0 4
+0
+wqWU 1 2
+0
+nmfp 0 2
+0
+kxjv 1 4
+0
+wpQw 1 2
+0
+QKTY 1 0
+0
+TtIR 1 2
+0
+Zcai 0 4
+0
+YVPy 0 2
+0
+XbMg 1 0
+0
+JGSh 1 6
+0
+ZjWd 1 6
+0
+MtIy 0 2
+0
+djVM 1 4
+0
+aShz 1 0
+0
+SCls 1 0
+0
+FIcn 1 5
+0
+VcIF 0 1
+0
+nSsh 1 7
+0
+Nyjo 1 4
+0
+gwGr 0 3
+0
+Fuhz 1 2
+0
+Ffnd 0 6
+0
+DozV 0 5
+0
+VJHG 0 8
+0
+nnwr 0 8
+0
+PgGW 0 0
+0
+njfQ 1 8
+0
+RhVT 0 6
+0
+MzbT 1 6
+0
+dBLK 1 8
+0
+Hgki 0 5
+0
+BEPr 1 3
+0
+PGCP 1 1
+0
+omsE 0 4
+0
+cQWm 1 7
+0
+KLIx 1 2
+0
+nASq 1 6
+0
+wiHf 0 5
+0
+gcTM 0 1
+0
+lIWU 1 6
+0
+qABa 1 8
+0
+SoUd 0 4
+0
+Kfnk 0 5
+0
+aBiQ 1 5
+0
+XOjS 0 5
+0
+Hdie 1 7
+0
+ZcNu 0 0
+0
+RlOE 0 2
+0
+aodO 0 1
+0
+Gcxh 0 4
+0
+wfci 1 3
+0
+MQjj 0 4
+0
+mrcn 0 7
+0
+fcoc 0 8
+0
+vBXM 0 2
+0
+UrxS 0 5
+0
+BHHJ 0 7
+0
+lZiM 1 8
+0
+zBfD 0 4
+0
+XEqx 1 7
+0
+hYuj 0 2
+0
+DRco 0 7
+0
+jtmo 1 2
+0
+nQbm 1 5
+0
+Qruv 0 7
+0
+mmvm 1 0
+0
+WdmL 0 3
+0
+BzWN 0 0
+0
+EOtv 1 3
+0
+RwXd 0 3
+0
+txCV 1 1
+0
+jFRr 0 0
+0
+NoOS 0 0
+0
+ypAC 0 0
+0
+avSI 0 3
+0
+Jnvy 0 3
+0
+QxjA 1 4
+0
+Wqkv 1 0
+0
+kaSE 0 6
+0
+Bpym 1 2
+0
+gWQp 1 5
+0
+BpjG 0 2
+0
+GJTz 1 8
+0
+GIYw 0 6
+0
+VKQG 0 4
+0
+wwTm 1 1
+0
+fZFB 0 3
+0
+TNjT 0 8
+0
+Jaoc 0 1
+0
+cZIt 0 3
+0
+TAGt 1 3
+0
+rnQB 0 8
+0
+DKzg 0 4
+0
+fscU 0 4
+0
+cjwc 0 3
+0
+ZigX 1 5
+0
+scBo 1 4
+0
+qkDB 1 5
+0
+lNXp 1 3
+0
+DwXc 1 3
+0
+tmEL 1 0
+0
+frrj 1 4
+0
+JoKu 1 3
+0
+JhJo 0 2
+0
+jQIw 0 2
+0
+VnXU 0 1
+0
+kjny 0 8
+0
+kRTl 0 0
+0
+IJTy 0 8
+0
+GFXh 0 4
+0
+ZJmr 1 0
+0
+gZbd 0 0
+0
+uDhA 0 2
+0
+LcUC 1 7
+0
+oEOv 1 0
+0
+aEJm 0 2
+0
+wBHp 0 8
+0
+vwBJ 1 1
+0
+DMPD 1 5
+0
+fLPe 0 0
+0
+WdrO 0 6
+0
+DuKc 1 5
+0
+RZJA 1 8
+0
+fQHv 0 4
+0
+PfIt 0 5
+0
+rQzY 0 2
+0
+PlHf 0 8
+0
+iBQz 0 2
+0
+Nacx 0 8
+0
+HRyf 0 7
+0
+erwk 0 2
+0
+iEmi 1 4
+0
+QinL 1 0
+0
+dnoJ 0 1
+0
+SRvb 1 4
+0
+sbOy 1 4
+0
+wjms 0 6
+0
+SKGG 1 2
+0
+xqhj 0 1
+0
+VpnM 0 7
+0
+Nslp 1 2
+0
+WWgk 1 2
+0
+yLEn 1 0
+0
+iwnD 0 7
+0
+ZXjy 0 2
+0
+dlhf 1 1
+0
+hQna 0 8
+0
+QQnh 1 8
+0
+Emru 0 2
+0
+VKxs 0 8
+0
+HyYT 0 5
+0
+Dqqz 1 3
+0
+QQZF 0 5
+0
+XNNn 1 0
+0
+GBro 0 8
+0
+ZlYT 1 4
+0
+dezn 0 7
+0
+WfeA 0 3
+0
+zAdF 1 6
+0
+ndTK 1 2
+0
+KlCE 0 0
+0
+bczw 1 7
+0
+QFfc 1 6
+0
+wtHz 0 4
+0
+eQaW 1 7
+0
+aosg 1 7
+0
+tvRj 1 4
+0
+WLkv 0 7
+0
+UbNq 1 4
+0
+JHji 1 6
+0
+BaJJ 0 6
+0
+SwNO 1 7
+0
+VAgg 0 0
+0
+YFKM 0 2
+0
+pjwn 1 2
+0
+UDUL 1 4
+0
+YGim 0 3
+0
+LBWa 0 6
+0
+GVrJ 1 8
+0
+grMB 1 4
+0
+dcap 0 8
+0
+QvUY 0 2
+0
+zkxR 1 5
+0
+EdHd 0 6
+0
+wKqD 1 6
+0
+YhdU 0 8
+0
+kmur 1 5
+0
+nbph 0 6
+0
+Boys 1 4
+0
+Ijha 1 8
+0
+fHUR 1 4
+0
+ePKf 0 8
+0
+IRYT 0 7
+0
+gWFy 1 1
+0
+oWqi 1 3
+0
+eLOQ 1 6
+0
+nOhd 1 3
+0
+Imev 0 6
+0
+vKZH 1 1
+0
+riGn 1 1
+0
+IQdC 1 0
+0
+EuLi 1 3
+0
+bqbK 1 6
+0
+NCbp 0 0
+0
+BszQ 0 8
+0
+Qyxi 1 0
+0
+oybI 1 2
+0
+VRiz 1 7
+0
+njLh 0 6
+0
+AATf 1 3
+0
+ynei 0 7
+0
+Oiyf 1 6
+0
+TfCd 1 3
+0
+eLlr 1 1
+0
+fKZM 1 0
+0
+xAnV 1 5
+0
+AgVt 0 3
+0
+Bjmo 0 2
+0
+bdsa 0 1
+0
+bycN 0 5
+0
+bDgz 0 2
+0
+dSyQ 1 7
+0
+lKMU 1 3
+0
+CNRn 0 7
+0
+JZZH 1 5
+0
+GOBf 0 7
+0
+WOiB 0 4
+0
+lYzT 0 2
+0
+GDQr 1 6
+0
+HlHW 1 5
+0
+WamX 1 8
+0
+pfxL 1 6
+0
+vwcT 1 1
+0
+Bmmb 0 1
+0
+HduJ 1 1
+0
+YHgv 0 4
+0
+Fkko 1 1
+0
+cdSh 0 2
+0
+WPHG 1 3
+0
+RmSn 0 8
+0
+ijKz 1 0
+0
+hNrG 0 3
+0
+yVAv 1 3
+0
+RtEV 0 6
+0
+xzBq 0 2
+0
+OmIn 1 7
+0
+TXUx 0 2
+0
+uzCy 1 3
+0
+TiTH 1 7
+0
+zCIr 1 7
+0
+bWiW 1 8
+0
+exYk 0 0
+0
+GNVR 1 4
+0
+eqsp 1 7
+0
+vyDp 0 7
+0
+AOIp 1 5
+0
+cVSI 1 6
+0
+amPs 1 5
+0
+Vomg 0 5
+0
+ryiR 0 7
+0
+Zgvw 1 8
+0
+NyeC 0 1
+0
+sZgu 0 1
+0
+rKpD 1 0
+0
+xNJL 0 8
+0
+dEcE 1 2
+0
+KgcX 0 4
+0
+YCcS 0 8
+0
+NISN 1 7
+0
+xaJB 1 4
+0
+aqjk 1 8
+0
+RGkQ 0 0
+0
+muGJ 1 0
+0
+JsoW 1 4
+0
+tRgj 1 7
+0
+LYCI 0 5
+0
+AgSB 0 2
+0
+LUKD 0 6
+0
+DbSI 0 5
+0
+Ynnt 0 8
+0
+iXHR 1 7
+0
+dwng 1 3
+0
+yQYC 1 0
+0
+sdxM 1 5
+0
+DIgR 1 3
+0
+tRYJ 1 4
+0
+vqre 0 7
+0
+nvqO 0 2
+0
+xLLL 0 5
+0
+YmkV 0 4
+0
+qFXZ 1 1
+0
+JqYf 1 8
+0
+eTax 1 7
+0
+XDsS 0 3
+0
+joPZ 1 3
+0
+OXhq 0 8
+0
+Sgek 1 1
+0
+rTMn 1 4
+0
+gQLG 1 6
+0
+lIDd 0 3
+0
+QMlh 1 2
+0
+wFgH 1 3
+0
+GkcT 0 1
+0
+cVAu 0 1
+0
+iDUx 0 1
+0
+urRh 1 7
+0
+QVcC 0 4
+0
+Gicd 1 6
+0
+QPoZ 1 3
+0
+gySM 0 7
+0
+byck 0 0
+0
+LLTd 1 7
+0
+bAGr 1 8
+0
+NJaU 1 7
+0
+XFRG 0 5
+0
+daIW 0 6
+0
+SCXc 0 1
+0
+wBYx 0 5
+0
+AXLg 1 3
+0
+UWct 1 0
+0
+FVqa 1 2
+0
+szeG 1 6
+0
+EyOP 0 3
+0
+yIAP 0 7
+0
+qplx 1 2
+0
+aBTa 1 3
+0
+JZUo 0 7
+0
+ozqo 1 6
+0
+rYDw 0 5
+0
+onEC 0 4
+0
+ovwP 1 0
+0
+HBtA 1 3
+0
+gNEf 1 2
+0
+AeWd 0 1
+0
+FpID 0 5
+0
+HABY 1 2
+0
+CfTM 0 7
+0
+BXBh 0 5
+0
+muOU 0 0
+0
+YVye 0 0
+0
+JGlW 0 5
+0
+SaVY 0 6
+0
+vFtG 0 6
+0
+JTaj 0 3
+0
+IlDR 1 1
+0
+BOHP 0 4
+0
+EYLO 0 7
+0
+FcLG 0 6
+0
+SiRF 0 3
+0
+KNLQ 0 4
+0
+hQfS 0 6
+0
+uuhj 1 2
+0
+zIaZ 1 7
+0
+VkGa 0 2
+0
+TVBT 0 1
+0
+kYtK 0 2
+0
+gLkR 0 1
+0
+dMWK 0 0
+0
+Vbea 1 3
+0
+pFfq 1 0
+0
+HWld 1 6
+0
+YOiK 1 7
+0
+aSnP 1 3
+0
+yZrC 1 2
+0
+DBtY 0 6
+0
+ZFge 1 2
+0
+ijuD 1 8
+0
+VaUC 0 5
+0
+nNUR 0 4
+0
+RzJe 0 5
+0
+wAvZ 1 3
+0
+LbgM 1 4
+0
+HfoF 0 2
+0
+GJam 0 3
+0
+TIFW 0 0
+0
+oIDS 0 6
+0
+MJDr 1 3
+0
+VCxJ 0 7
+0
+NEgi 0 4
+0
+EnUx 0 5
+0
+toKI 0 0
+0
+vkeq 0 7
+0
+wZsa 1 5
+0
+pvOL 1 5
+0
+XXpK 1 2
+0
+cWXS 1 0
+0
+NfYz 1 6
+0
+qRxF 0 3
+0
+OEUY 1 4
+0
+MxyT 1 5
+0
+GzBc 0 2
+0
+jtpA 1 0
+0
+mikI 1 3
+0
+uVwL 0 6
+0
+IVjh 1 2
+0
+KXcB 0 8
+0
+FiPy 1 7
+0
+nqYX 0 7
+0
+rpek 1 3
+0
+XwEd 1 0
+0
+nrOW 0 1
+0
+wwCq 1 4
+0
+hESq 0 7
+0
+AgPg 1 3
+0
+xtRp 1 8
+0
+tPdq 1 7
+0
+LqcX 0 1
+0
+AdHb 0 7
+0
+QdxE 0 0
+0
+SyDa 0 3
+0
+bjNu 0 0
+0
+iSBN 1 0
+0
+dtiW 0 4
+0
+fcUM 0 8
+0
+UPFZ 0 3
+0
+uazy 1 8
+0
+dPIk 1 5
+0
+Yljy 0 3
+0
+Dgdp 1 7
+0
+DpQe 1 8
+0
+mYHn 1 2
+0
+neWo 1 6
+0
+mUWO 0 1
+0
+BPEJ 1 5
+0
+ZLrB 1 3
+0
+bPgM 0 1
+0
+PAxF 1 3
+0
+yRTs 1 4
+0
+wLiB 0 3
+0
+uKGy 0 8
+0
+XIZO 0 7
+0
+EFKJ 1 1
+0
+FySO 0 6
+0
+nBaj 0 0
+0
+Oogm 0 5
+0
+LmKk 1 1
+0
+MkPL 1 7
+0
+dhLB 0 0
+0
+DbPe 1 3
+0
+YGGp 1 3
+0
+Slyu 1 8
+0
+wOCZ 0 0
+0
+FXdf 0 2
+0
+uDYr 1 8
+0
+XLhm 0 7
+0
+jsqt 0 7
+0
+dqCO 1 3
+0
+QxgT 0 1
+0
+eomL 0 4
+0
+ywJO 1 0
+0
+DouT 0 2
+0
+NasL 1 4
+0
+RHWJ 0 1
+0
+KIXR 0 2
+0
+IyAT 1 1
+0
+wYQB 0 0
+0
+nuSE 1 7
+0
+DxDe 1 0
+0
+yHtT 1 4
+0
+cVKr 1 1
+0
+WIOw 0 5
+0
+jrMi 1 3
+0
+mehw 1 5
+0
+kMWN 1 6
+0
+uBbk 1 5
+0
+dLaS 1 8
+0
+vQak 1 7
+0
+EohO 0 2
+0
+kYoi 1 2
+0
+Mlra 1 0
+0
+sAJj 0 1
+0
+gTTJ 0 4
+0
+VYZD 1 8
+0
+nBeE 0 0
+0
+gJeI 1 8
+0
+yksM 1 5
+0
+Lsvc 0 5
+0
+Rwnt 0 5
+0
+Tknn 1 0
+0
+zWof 0 5
+0
+xRDe 0 5
+0
+WnYl 0 7
+0
+ZDYT 1 2
+0
+CUiW 1 7
+0
+Puqq 0 1
+0
+WgoX 0 6
+0
+PebI 1 4
+0
+Kjwu 1 8
+0
+MHrl 0 6
+0
+BqOC 1 3
+0
+qRPr 1 0
+0
+zIdK 0 8
+0
+kZDP 0 1
+0
+suwb 0 2
+0
+ACNr 1 5
+0
+QoPS 0 1
+0
+Lqua 0 8
+0
+MNWb 0 5
+0
+TemG 1 6
+0
+ntQw 1 8
+0
+RCjz 0 0
+0
+NZSh 0 0
+0
+gYyh 1 6
+0
+JlLT 0 4
+0
+VjDE 1 3
+0
+WUEl 0 3
+0
+oFOh 1 0
+0
+Ilau 0 0
+0
+sDoJ 1 4
+0
+fDHQ 0 4
+0
+uTFl 1 0
+0
+AFjy 0 8
+0
+erMj 0 2
+0
+gYSx 0 2
+0
+JtnY 1 8
+0
+wdPR 1 0
+0
+LztH 0 4
+0
+poZh 0 6
+0
+BrEI 1 1
+0
+rwVV 1 7
+0
+VNrY 1 3
+0
+OkDh 0 3
+0
+SUzm 0 1
+0
+iRqd 1 7
+0
+afxj 1 1
+0
+rLOt 1 4
+0
+VpCj 1 4
+0
+HyiL 1 0
+0
+xezC 1 8
+0
+ZNyy 0 3
+0
+vNMD 0 8
+0
+nWzk 1 2
+0
+yEws 0 3
+0
+AnzC 0 5
+0
+QPDV 0 6
+0
+yTqe 1 6
+0
+bmcq 1 7
+0
+uCCU 0 5
+0
+kYCW 1 7
+0
+iMgf 1 2
+0
+fooh 0 0
+0
+QHTn 1 0
+0
+FHnT 1 5
+0
+vZbr 0 1
+0
+aKBA 1 1
+0
+nwRQ 1 4
+0
+xdKq 0 1
+0
+NjKq 1 0
+0
+HwIz 1 5
+0
+ZaXL 0 5
+0
+JSdZ 0 1
+0
+OUyV 1 8
+0
+MRst 0 5
+0
+CTTC 1 5
+0
+EXsq 1 8
+0
+iCmI 0 4
+0
+sIsb 1 6
+0
+TrZt 1 1
+0
+piWz 1 1
+0
+ekjJ 0 4
+0
+EYxa 1 7
+0
+nLyP 1 5
+0
+yBuo 1 8
+0
+CeCl 1 1
+0
+pwHw 0 5
+0
+qZPe 0 1
+0
+Qqru 1 3
+0
+QhPC 0 0
+0
+yYqz 1 6
+0
+GvhP 0 2
+0
+ljmr 1 1
+0
+CfsN 1 3
+0
+Qjzz 1 8
+0
+AbGd 0 0
+0
+WHaj 1 5
+0
+uBay 1 5
+0
+olBG 1 4
+0
+cdrj 1 5
+0
+kZHm 0 1
+0
+qTLr 0 5
+0
+JnAO 1 7
+0
+VMRV 1 6
+0
+XeMU 0 8
+0
+DGcP 0 3
+0
+POqf 0 3
+0
+ssWo 0 2
+0
+MNIF 1 2
+0
+ARin 0 7
+0
+dGEL 0 2
+0
+IIha 0 4
+0
+cSAM 1 2
+0
+oxSb 0 2
+0
+COUI 1 0
+0
+MAWl 1 0
+0
+YhGH 0 2
+0
+XXyO 0 7
+0
+IhwI 1 8
+0
+llNw 0 6
+0
+hYqO 1 6
+0
+uwbc 1 5
+0
+uSUY 0 7
+0
+jlUQ 1 5
+0
+KBCk 1 4
+0
+NHom 1 5
+0
+PMtT 1 0
+0
+rDxu 1 2
+0
+oDYO 1 2
+0
+MgpY 0 8
+0
+UZlx 1 3
+0
+KzOl 0 1
+0
+cTsa 1 6
+0
+jVWT 1 1
+0
+qSHt 1 1
+0
+RIUE 1 2
+0
+XUJw 1 3
+0
+zGjG 1 3
+0
+WuUo 0 4
+0
+dmfe 1 6
+0
+DLNO 1 0
+0
+eTxy 1 0
+0
+HAdE 1 5
+0
+iAXN 1 0
+0
+ewUW 0 0
+0
+NOiW 1 2
+0
+VRRp 1 3
+0
+tzxl 0 6
+0
+GndK 1 8
+0
+hzJB 0 2
+0
+gzvj 0 8
+0
+XtxZ 1 4
+0
+FiwK 1 4
+0
+ceuE 0 2
+0
+vYUx 1 5
+0
+tRRw 1 3
+0
+vNJa 0 5
+0
+bQWY 0 8
+0
+AgqV 1 6
+0
+lrXO 1 2
+0
+nnHL 0 4
+0
+WjLl 0 1
+0
+mikZ 1 6
+0
+mpTE 0 0
+0
+RpWY 0 5
+0
+YdTl 1 6
+0
+Kxjb 0 3
+0
+Zkjb 1 5
+0
+FLev 0 3
+0
+FpGI 1 5
+0
+XeDa 0 1
+0
+FeIJ 1 2
+0
+oODV 1 7
+0
+BEfh 0 4
+0
+QmHh 1 3
+0
+Chzc 0 7
+0
+PcSs 0 1
+0
+yBjF 0 1
+0
+IMYZ 1 6
+0
+BZdP 0 3
+0
+AJXr 1 0
+0
+yvFN 0 1
+0
+EKIi 1 3
+0
+jvwb 1 4
+0
+OTKx 1 1
+0
+PJLR 0 8
+0
+qVTG 1 0
+0
+QGrX 1 3
+0
+GXgb 0 3
+0
+YKBl 0 3
+0
+ONWS 1 4
+0
+SjAa 0 1
+0
+bNSL 0 2
+0
+yEhI 0 5
+0
+nHfi 0 0
+0
+McqO 1 6
+0
+IZtz 1 4
+0
+NbyD 1 3
+0
+UOeJ 0 8
+0
+iWaq 1 4
+0
+szVq 1 8
+0
+ldHh 1 2
+0
+shLe 0 6
+0
+rYMl 0 1
+0
+cwEa 1 0
+0
+Rboo 0 2
+0
+Zonn 1 7
+0
+uhDF 1 4
+0
+vfzL 1 3
+0
+uQfh 1 6
+0
+rZwY 0 8
+0
+BSki 1 1
+0
+RscU 1 0
+0
+UvNZ 1 6
+0
+OSPr 0 7
+0
+VxJM 0 6
+0
+CsrN 1 2
+0
+GJfM 0 8
+0
+iKUj 0 6
+0
+bZNN 0 1
+0
+MuLV 1 4
+0
+IkdX 0 5
+0
+XpZC 0 3
+0
+HTlp 0 5
+0
+hOmy 1 6
+0
+YWPi 0 6
+0
+idGY 1 3
+0
+rDbo 1 8
+0
+QIQP 0 3
+0
+BmMI 1 8
+0
+dmKW 0 3
+0
+OJKa 1 1
+0
+uxNp 0 0
+0
+YIrS 1 8
+0
+IVaF 1 6
+0
+wfyh 0 1
+0
+veWq 1 6
+0
+BmUj 0 3
+0
+VWDF 1 6
+0
+sOtr 0 3
+0
+qoSL 0 6
+0
+uaYm 1 7
+0
+HJVe 1 2
+0
+ldsM 1 7
+0
+Govg 1 3
+0
+ovVv 0 1
+0
+YEQh 1 0
+0
+dSMH 0 6
+0
+qYbz 1 0
+0
+qZmM 1 4
+0
+PCfP 0 5
+0
+vttZ 0 5
+0
+soaL 0 0
+0
+LoPE 1 5
+0
+NXgA 0 0
+0
+vzlA 1 0
+0
+LElL 1 0
+0
+idIe 1 2
+0
+bzjX 0 0
+0
+wXSm 1 4
+0
+GSQc 0 6
+0
+efAk 1 8
+0
+tKWf 1 1
+0
+bAul 1 0
+0
+CYTP 1 1
+0
+Nqxy 0 5
+0
+ALPB 0 6
+0
+ADom 1 8
+0
+MIiX 0 7
+0
+jLzS 1 8
+0
+uZos 1 6
+0
+HORH 1 4
+0
+kkQf 1 4
+0
+JIaT 1 3
+0
+DPcK 1 1
+0
+cffD 1 0
+0
+OhdE 1 8
+0
+OCWC 0 8
+0
+byHd 0 2
+0
+DtWl 1 6
+0
+PvDa 1 1
+0
+SsHm 0 1
+0
+OmVo 1 7
+0
+fkNZ 1 5
+0
+frwp 0 6
+0
+RMlf 0 1
+0
+AvZk 0 7
+0
+ejdt 1 2
+0
+SWpX 0 2
+0
+HSNY 1 3
+0
+aHtH 0 2
+0
+Tbej 1 6
+0
+CzuG 1 4
+0
+LGeS 0 0
+0
+gBpX 1 8
+0
+wFTF 1 3
+0
+Ukph 1 3
+0
+hJrC 1 5
+0
+LrcH 0 5
+0
+uOUp 1 8
+0
+jGUr 1 6
+0
+mved 1 7
+0
+WQqX 1 2
+0
+nrlY 0 5
+0
+ZyXk 1 4
+0
+vNbk 0 8
+0
+bYhS 1 0
+0
+rHKc 1 8
+0
+OrOq 0 3
+0
+eWai 0 7
+0
+emom 1 3
+0
+zsmE 1 8
+0
+PySI 0 5
+0
+uFrV 1 8
+0
+qCGE 1 0
+0
+oiqT 0 1
+0
+cpbP 0 1
+0
+Fsdb 0 1
+0
+WRpP 1 7
+0
+ETYO 1 1
+0
+OBay 1 5
+0
+ogCe 1 2
+0
+sWOH 0 1
+0
+YsJF 1 7
+0
+PDvK 0 7
+0
+jiCs 0 3
+0
+CaNS 1 0
+0
+FTUa 0 7
+0
+kytK 1 5
+0
+jrhC 1 4
+0
+JMdr 0 4
+0
+LNPM 0 2
+0
+djwt 0 6
+0
+dVAx 1 0
+0
+yCKe 1 3
+0
+wDsm 1 2
+0
+FiFZ 0 6
+0
+VRxa 1 5
+0
+nsrB 1 2
+0
+mxdT 1 1
+0
+RmWL 0 1
+0
+klTb 1 2
+0
+zfDl 1 5
+0
+mGNi 1 7
+0
+IYcO 1 1
+0
+DZZS 1 4
+0
+HeZt 0 1
+0
+SYpM 0 7
+0
+Bktm 1 4
+0
+JONO 0 3
+0
+RmUg 1 3
+0
+RPbm 1 8
+0
+TYGT 1 6
+0
+vjWh 1 5
+0
+szKJ 0 7
+0
+yqpC 1 0
+0
+KWWu 0 6
+0
+vRIV 0 3
+0
+SLZt 0 1
+0
+eJFe 0 8
+0
+HyPb 1 6
+0
+QrpN 1 6
+0
+Wrvl 0 3
+0
+fORr 0 3
+0
+uNFh 1 6
+0
+yboA 0 6
+0
+VhGm 1 3
+0
+itHV 1 3
+0
+kVtj 0 2
+0
+SMRh 0 0
+0
+Ymbq 1 6
+0
+gKEH 1 4
+0
+sCww 1 0
+0
+InHV 1 0
+0
+QRBJ 1 5
+0
+TqKH 1 8
+0
+FxZz 0 4
+0
+QWjg 1 4
+0
+JpvF 1 7
+0
+YJAf 1 0
+0
+CVfs 0 7
+0
+rwnf 1 7
+0
+KMvP 1 7
+0
+lbUO 0 8
+0
+tEff 1 1
+0
+UkeU 1 3
+0
+HcWH 1 3
+0
+pMUn 1 0
+0
+ucxY 0 3
+0
+IFgl 1 3
+0
+RAcf 0 0
+0
+vJjr 0 0
+0
+jSpg 1 8
+0
+Cqhz 1 8
+0
+CbyU 0 5
+0
+hdak 0 2
+0
+Nntv 1 5
+0
+zjEX 1 3
+0
+lsLm 1 4
+0
+WIkq 0 5
+0
+niQK 0 0
+0
+PXmM 0 8
+0
+drse 0 0
+0
+yazZ 1 2
+0
+HzKc 1 5
+0
+Kawb 1 4
+0
+KRga 0 0
+0
+NKWt 0 8
+0
+NiKh 1 1
+0
+yPmg 0 7
+0
+BMfJ 1 7
+0
+TmAt 0 7
+0
+AsEf 0 1
+0
+wjeW 0 8
+0
+BZIx 0 5
+0
+ZQOV 1 4
+0
+tEEy 1 1
 10
-8
-5 2022 11 22 6 19 2022 11 26 5 40 4
-6 2022 11 2 3 41 7
-7
-7
-8
-8
-2
-6 2022 11 21 0 45 7
-8
-5 2022 11 6 3 28 2022 11 9 4 28 2
-6 2022 11 3 0 54 4
-2
-3 gbptl
-7
-4 2022 11 21 8 59 2022 11 22 0 50 4
-4 2022 11 30 11 42 2022 11 30 6 56 3
-6 2022 11 14 2 15 7
-7
-8
-2
-10
-10
-4 2022 11 5 7 16 2022 11 11 1 52 1
-6 2022 11 10 7 25 4
-7
-10
-9
-8
-10
-9
-4 2022 11 9 11 34 2022 11 15 10 50 8
-6 2022 11 2 5 20 2
-3 gbptl
-7
-5 2022 11 19 11 8 2022 11 25 7 52 5
-8

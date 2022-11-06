@@ -1,101 +1,4042 @@
-100
-0 pgeql 0 2
-0 fgput 0 1
-2
-2
-0 gyovo 0 8
-1 fgput gyovo 32758 3 2022 11 1 1 30
-2
-0 offqb 1 4
-2
-3 gyovo
-2
-3 offqb
-1 offqb pgeql 10986 6 2022 11 1 2 6
-2
-2
-1 null fgput 18116 7 2022 1 3 26
-3 offqb
-0 wmwkh 0 5
-0 cisen 0 5
-0 wdpph 1 1
-3 gyovo
-2
-3 gyovo
-0 tnggs 0 3
-1 cisen pgeql 18116 1 2022 11 1 4 41
-3 wmwkh
-3 fgput
-2
-2
-2
-0 uvdly 0 8
-1 fgput wmwkh 18116 1 2022 11 1 5 41
-0 pevgj 0 0
-3 gyovo
-2
-2
-2
-1 null pevgj 29662 4 2022 1 6 13
-0 stgvc 1 5
-2
-3 tnggs
-2
-3 pevgj
-0 ohajr 0 5
-2
-0 kjssj 1 5
-3 tnggs
-3 cisen
-0 bwegm 0 2
-2
-2
-3 gyovo
-2
-0 zzdxw 0 5
-3 tnggs
-1 offqb bwegm 29662 7 2022 11 1 7 33
-3 ohajr
-2
-0 mzajl 1 7
-2
-0 vcwix 0 0
-2
-2
-3 gyovo
-0 vkivm 0 0
-0 dwlpd 0 1
-3 gyovo
-2
-1 null tnggs 23666 7 2022 1 8 20
-0 bnvyt 1 7
-2
-0 gerao 0 8
-2
-0 idaim 1 5
-3 gerao
-2
-0 phdne 0 1
-0 ujafe 1 8
-2
-2
-3 cisen
-2
-3 offqb
-1 ohajr bwegm 7652 7 2022 11 1 9 28
-2
-1 null idaim 22490 4 2022 1 10 16
-0 uieix 1 2
-3 fgput
-0 zfkki 1 4
-3 mzajl
-1 gyovo null 1710 1 2022 1 12 55
-3 tnggs
-2
-0 ubzyn 0 0
-0 naxie 0 5
-0 aofxn 1 4
-3 wmwkh
-2
-3 uvdly
-3 fgput
+1617
+0
+qPUh 0 5
+1
+null qPUh 7161 8
+2022 11 1 0 28
+0
+KDpR 1 7
+1
+null KDps 6173 0
+2022 11 1 0 40
+0
+NvUe 0 3
+1
+null NvUe 1519 2
+2022 11 1 0 50
+0
+MUjj 0 1
+1
+null null 5893 3
+2022 11 1 1 21
+0
+KFOq 1 8
+1
+null KFOq 2529 8
+2022 11 1 1 32
+0
+ESOz 0 6
+1
+ESOz ESOz 4337 4
+2022 11 1 1 43
+0
+NuiS 0 5
+1
+null NuiS 5636 8
+2022 11 1 2 17
+0
+CiZd 0 7
+1
+null CiZd 8313 5
+2022 11 1 2 36
+0
+GfjE 1 2
+1
+null GfjE 8711 1
+2022 11 1 3 12
+0
+CXpE 1 2
+1
+null CXpE 7939 1
+2022 11 1 3 51
+0
+YJsG 1 3
+1
+null YJsG 6759 2
+2022 11 1 4 20
+0
+GmDj 1 4
+1
+null GmDj 7342 8
+2022 11 1 4 44
+0
+koOu 0 1
+1
+null koOu 2816 8
+2022 11 1 4 58
+0
+wxdR 1 3
+1
+null wxdR 4072 5
+2022 11 1 5 37
+0
+YGZj 0 1
+1
+null YGZj 3715 0
+2022 11 1 6 12
+0
+WZXc 0 3
+1
+null WZXc 5412 3
+2022 11 1 6 43
+0
+SaBo 0 8
+1
+null SaBo 8683 4
+2022 11 1 7 18
+0
+DFxh 0 3
+1
+null DFxh 647 4
+2022 11 1 7 51
+0
+dUrC 0 8
+1
+null dUrC 4671 2
+2022 11 1 8 21
+0
+YoIT 0 0
+1
+null YoIT 8295 2
+2022 11 1 8 31
+0
+hBse 1 1
+1
+null hBse 4575 1
+2022 11 1 9 6
+0
+CNkg 0 4
+1
+null CNkg 1699 2
+2022 11 1 9 36
+0
+kvaS 1 3
+1
+null kvaS 1574 4
+2022 11 1 9 46
+0
+lpGa 0 2
+1
+null lpGa 6208 7
+2022 11 1 10 17
+0
+Ncta 1 0
+1
+null Ncta 3958 4
+2022 11 1 10 31
+0
+afRt 0 5
+1
+null afRt 2311 5
+2022 11 1 11 5
+0
+wpzi 1 7
+1
+null wpzi 8660 3
+2022 11 1 11 19
+0
+tNna 0 7
+1
+null tNna 4874 1
+2022 11 1 11 39
+0
+QQUX 1 4
+1
+null QQUX 8155 4
+2022 11 1 12 16
+0
+tTEZ 0 1
+1
+null tTEZ 8097 7
+2022 11 1 12 48
+0
+IZVG 0 1
+1
+null IZVG 7683 2
+2022 11 1 13 13
+0
+beIF 0 4
+1
+null beIF 6232 5
+2022 11 1 13 38
+0
+gKih 0 1
+1
+null gKih 5794 3
+2022 11 1 14 5
+0
+SpqC 0 0
+1
+null SpqC 306 3
+2022 11 1 14 41
+0
+zJxE 0 0
+1
+null zJxE 2197 7
+2022 11 1 14 57
+0
+FBNy 1 6
+1
+null FBNy 5845 4
+2022 11 1 15 35
+0
+vBxb 1 2
+1
+null vBxb 279 5
+2022 11 1 15 59
+0
+Szov 0 1
+1
+null Szov 2118 7
+2022 11 1 16 37
+0
+crnQ 0 2
+1
+null crnQ 7156 3
+2022 11 1 17 15
+0
+WuhP 1 6
+1
+null WuhP 1645 8
+2022 11 1 17 30
+0
+cJqQ 1 6
+1
+null cJqQ 1002 4
+2022 11 1 18 7
+0
+VKEK 0 4
+1
+null VKEK 7487 0
+2022 11 1 18 21
+0
+gZKQ 1 7
+1
+null gZKQ 5128 0
+2022 11 1 18 46
+0
+ZZep 1 7
+1
+null ZZep 1226 4
+2022 11 1 19 12
+0
+HLLT 1 3
+1
+null HLLT 5464 8
+2022 11 1 19 23
+0
+wdoX 1 3
+1
+null wdoX 3015 8
+2022 11 1 19 37
+0
+HDtx 0 6
+1
+null HDtx 8425 4
+2022 11 1 20 2
+0
+mFEv 1 4
+1
+null mFEv 3665 1
+2022 11 1 20 27
+0
+XSio 1 7
+1
+null XSio 6300 3
+2022 11 1 20 44
+0
+bTYB 1 8
+1
+null bTYB 4629 5
+2022 11 1 21 13
+0
+eXhr 0 2
+1
+null eXhr 821 1
+2022 11 1 21 30
+0
+aoJQ 1 3
+1
+null aoJQ 6878 8
+2022 11 1 21 58
+0
+xXjz 0 8
+1
+null xXjz 8822 7
+2022 11 1 22 22
+0
+UOUA 1 3
+1
+null UOUA 7807 4
+2022 11 1 22 54
+0
+SZXA 0 1
+1
+null SZXA 83 4
+2022 11 1 23 6
+0
+Pxqn 1 8
+1
+null Pxqn 158 3
+2022 11 1 23 25
+0
+SJSU 1 2
+1
+null SJSU 9420 0
+2022 11 1 23 37
+0
+Mtvu 1 6
+1
+null Mtvu 4674 5
+2022 11 2 0 4
+0
+JHSy 0 4
+1
+null JHSy 8360 6
+2022 11 2 0 43
+0
+eyZs 1 3
+1
+null eyZs 316 3
+2022 11 2 1 6
+0
+xHcl 1 4
+1
+null xHcl 6112 1
+2022 11 2 1 19
+0
+lnUI 0 1
+1
+null lnUI 4431 3
+2022 11 2 1 56
+0
+SIBu 1 8
+1
+null SIBu 9352 0
+2022 11 2 2 34
+0
+jaEx 0 5
+1
+null jaEx 7567 3
+2022 11 2 2 52
+0
+zrQZ 0 4
+1
+null zrQZ 3041 1
+2022 11 2 3 25
+0
+ZRnk 0 7
+1
+null ZRnk 1687 7
+2022 11 2 3 56
+0
+tsvF 1 5
+1
+null tsvF 6849 6
+2022 11 2 4 26
+0
+MAGc 1 7
+1
+null MAGc 7730 6
+2022 11 2 4 40
+0
+wAzW 1 5
+1
+null wAzW 6262 8
+2022 11 2 5 7
+0
+yGWb 1 6
+1
+null yGWb 4760 1
+2022 11 2 5 28
+0
+BYkR 1 4
+1
+null BYkR 2708 3
+2022 11 2 6 4
+0
+RGhk 1 4
+1
+null RGhk 9971 4
+2022 11 2 6 22
+0
+Cscf 1 5
+1
+null Cscf 2600 3
+2022 11 2 6 44
+0
+UDtF 1 0
+1
+null UDtF 5912 2
+2022 11 2 7 2
+0
+mBRk 1 5
+1
+null mBRk 1477 6
+2022 11 2 7 31
+0
+rEnH 1 2
+1
+null rEnH 4144 2
+2022 11 2 7 59
+0
+aFqQ 1 2
+1
+null aFqQ 8910 3
+2022 11 2 8 19
+0
+Qzwi 0 5
+1
+null Qzwi 4609 2
+2022 11 2 8 31
+0
+XfUG 0 3
+1
+null XfUG 5621 4
+2022 11 2 8 58
+0
+MxSH 0 4
+1
+null MxSH 3312 7
+2022 11 2 9 8
+0
+PSgv 0 7
+1
+null PSgv 2494 7
+2022 11 2 9 25
+0
+RtaN 1 7
+1
+null RtaN 9262 1
+2022 11 2 9 39
+0
+AVKR 0 4
+1
+null AVKR 3980 4
+2022 11 2 10 14
+0
+EMix 1 6
+1
+null EMix 3950 8
+2022 11 2 10 52
+0
+zOjj 1 8
+1
+null zOjj 1010 5
+2022 11 2 11 13
+0
+BTEA 0 7
+1
+null BTEA 454 8
+2022 11 2 11 37
+0
+pryr 0 2
+1
+null pryr 6780 1
+2022 11 2 12 9
+0
+mMSX 1 1
+1
+null mMSX 3403 3
+2022 11 2 12 24
+0
+cBUb 1 8
+1
+null cBUb 9481 7
+2022 11 2 12 55
+0
+uPHK 1 8
+1
+null uPHK 5431 6
+2022 11 2 13 18
+0
+TUyw 0 7
+1
+null TUyw 9459 2
+2022 11 2 13 47
+0
+aSgy 0 5
+1
+null aSgy 6581 0
+2022 11 2 14 6
+0
+EPxd 0 4
+1
+null EPxd 111 2
+2022 11 2 14 18
+0
+kVCt 0 5
+1
+null kVCt 5525 5
+2022 11 2 14 57
+0
+YmSG 0 5
+1
+null YmSG 1136 0
+2022 11 2 15 30
+0
+KlCo 0 6
+1
+null KlCo 8739 2
+2022 11 2 16 8
+0
+ytyt 0 6
+1
+null ytyt 6910 0
+2022 11 2 16 45
+0
+VJTs 1 7
+1
+null VJTs 8738 1
+2022 11 2 17 17
+0
+igpP 0 1
+1
+null igpP 8938 4
+2022 11 2 17 56
+0
+cTnI 0 5
+1
+null cTnI 7603 0
+2022 11 2 18 33
+0
+xqQn 0 0
+1
+null xqQn 5094 3
+2022 11 2 19 10
+0
+bkSR 1 3
+1
+null bkSR 8048 7
+2022 11 2 19 42
+0
+Kckt 0 2
+1
+null Kckt 6173 7
+2022 11 2 20 10
+0
+jzSb 1 6
+1
+null jzSb 1957 1
+2022 11 2 20 37
+0
+EcBd 0 5
+1
+null EcBd 6345 7
+2022 11 2 21 17
+0
+VhGN 1 0
+1
+null VhGN 7974 1
+2022 11 2 21 35
+0
+qCWI 0 8
+1
+null qCWI 1317 4
+2022 11 2 21 54
+0
+Gnzb 0 4
+1
+null Gnzb 985 0
+2022 11 2 22 29
+0
+zRAC 0 3
+1
+null zRAC 3900 7
+2022 11 2 22 52
+0
+wdYc 0 4
+1
+null wdYc 3712 7
+2022 11 2 23 19
+0
+FIml 0 8
+1
+null FIml 6527 2
+2022 11 2 23 40
+0
+jtfD 1 8
+1
+null jtfD 1351 0
+2022 11 3 0 13
+0
+NKgr 1 2
+1
+null NKgr 3499 1
+2022 11 3 0 26
+0
+BsJM 0 2
+1
+null BsJM 1338 2
+2022 11 3 0 59
+0
+zzwL 0 3
+1
+null zzwL 8429 5
+2022 11 3 1 15
+0
+xreL 1 4
+1
+null xreL 3711 1
+2022 11 3 1 33
+0
+mmNP 1 0
+1
+null mmNP 731 2
+2022 11 3 2 10
+0
+pIvz 0 2
+1
+null pIvz 942 0
+2022 11 3 2 38
+0
+RbDk 1 4
+1
+null RbDk 665 0
+2022 11 3 2 54
+0
+mmwA 1 2
+1
+null mmwA 3888 6
+2022 11 3 3 6
+0
+swPP 1 0
+1
+null swPP 2085 8
+2022 11 3 3 20
+0
+tdok 1 1
+1
+null tdok 6876 2
+2022 11 3 3 48
+0
+MAAK 1 4
+1
+null MAAK 2590 2
+2022 11 3 4 23
+0
+vgoL 1 0
+1
+null vgoL 1660 3
+2022 11 3 4 33
+0
+IeSj 0 3
+1
+null IeSj 4561 4
+2022 11 3 5 13
+0
+VCbM 1 1
+1
+null VCbM 6794 5
+2022 11 3 5 42
+0
+exwn 1 0
+1
+null exwn 1363 5
+2022 11 3 6 22
+0
+dtyd 1 0
+1
+null dtyd 2476 2
+2022 11 3 6 37
+0
+eiTS 0 4
+1
+null eiTS 4672 3
+2022 11 3 7 16
+0
+vSIt 1 4
+1
+null vSIt 7757 7
+2022 11 3 7 43
+0
+Trkj 1 6
+1
+null Trkj 7368 1
+2022 11 3 8 8
+0
+JYUy 1 8
+1
+null JYUy 4193 6
+2022 11 3 8 34
+0
+qMpV 0 2
+1
+null qMpV 5406 1
+2022 11 3 8 54
+0
+lbLo 0 0
+1
+null lbLo 7543 1
+2022 11 3 9 32
+0
+FLxB 0 1
+1
+null FLxB 9013 7
+2022 11 3 9 48
+0
+UxFQ 0 5
+1
+null UxFQ 2555 3
+2022 11 3 10 8
+0
+hdJG 0 1
+1
+null hdJG 3239 5
+2022 11 3 10 22
+0
+Ixet 0 7
+1
+null Ixet 9169 0
+2022 11 3 10 50
+0
+RAnS 1 6
+1
+null RAnS 2529 7
+2022 11 3 11 5
+0
+qXll 0 8
+1
+null qXll 5565 7
+2022 11 3 11 27
+0
+EkMc 1 0
+1
+null EkMc 7576 2
+2022 11 3 11 52
+0
+EIpL 1 5
+1
+null EIpL 7883 8
+2022 11 3 12 12
+0
+FoDb 0 0
+1
+null FoDb 1983 3
+2022 11 3 12 25
+0
+twpd 0 8
+1
+null twpd 3841 8
+2022 11 3 13 2
+0
+NCaS 0 3
+1
+null NCaS 985 7
+2022 11 3 13 39
+0
+uLqf 0 3
+1
+null uLqf 978 8
+2022 11 3 14 8
+0
+ARew 0 8
+1
+null ARew 2095 1
+2022 11 3 14 28
+0
+JhXd 1 6
+1
+null JhXd 4456 3
+2022 11 3 14 55
+0
+ogsy 1 5
+1
+null ogsy 8889 7
+2022 11 3 15 25
+0
+RNNF 0 0
+1
+null RNNF 9633 3
+2022 11 3 15 41
+0
+akiK 0 7
+1
+null akiK 2291 5
+2022 11 3 16 6
+0
+PjCI 0 7
+1
+null PjCI 8357 1
+2022 11 3 16 45
+0
+WhHw 1 3
+1
+null WhHw 4250 2
+2022 11 3 17 10
+0
+dKRa 1 0
+1
+null dKRa 6747 8
+2022 11 3 17 37
+0
+TqgW 1 8
+1
+null TqgW 2640 0
+2022 11 3 18 1
+0
+vsUI 0 3
+1
+null vsUI 1850 5
+2022 11 3 18 28
+0
+ADkh 0 1
+1
+null ADkh 9341 8
+2022 11 3 18 58
+0
+UDmJ 1 7
+1
+null UDmJ 9864 6
+2022 11 3 19 30
+0
+bBjd 0 7
+1
+null bBjd 6023 5
+2022 11 3 19 44
+0
+YuBC 0 8
+1
+null YuBC 3316 0
+2022 11 3 20 24
+0
+SoAm 0 8
+1
+null SoAm 6561 6
+2022 11 3 21 4
+0
+mGNV 0 2
+1
+null mGNV 4287 0
+2022 11 3 21 37
+0
+ybrZ 1 2
+1
+null ybrZ 6484 3
+2022 11 3 22 13
+0
+nvAw 1 1
+1
+null nvAw 4259 4
+2022 11 3 22 25
+0
+wlpB 1 2
+1
+null wlpB 8103 0
+2022 11 3 22 37
+0
+VZaF 1 4
+1
+null VZaF 2227 8
+2022 11 3 22 58
+0
+GBGV 0 6
+1
+null GBGV 3430 8
+2022 11 3 23 11
+0
+EcYL 1 0
+1
+null EcYL 9917 8
+2022 11 3 23 36
+0
+qGkr 1 0
+1
+null qGkr 4153 0
+2022 11 3 23 50
+0
+zyQa 1 2
+1
+null zyQa 737 7
+2022 11 4 0 2
+0
+iqQs 1 7
+1
+null iqQs 447 1
+2022 11 4 0 34
+0
+OHfE 0 4
+1
+null OHfE 4467 8
+2022 11 4 0 55
+0
+cRCv 1 8
+1
+null cRCv 8555 0
+2022 11 4 1 21
+0
+ZBlW 0 2
+1
+null ZBlW 8297 1
+2022 11 4 1 47
+0
+HtTf 0 6
+1
+null HtTf 9518 7
+2022 11 4 2 5
+0
+ZjPk 0 3
+1
+null ZjPk 772 8
+2022 11 4 2 28
+0
+MGxr 1 6
+1
+null MGxr 9377 2
+2022 11 4 2 46
+0
+VrtO 1 6
+1
+null VrtO 2956 8
+2022 11 4 3 24
+0
+SiKW 1 6
+1
+null SiKW 6186 5
+2022 11 4 4 1
+0
+VSys 0 6
+1
+null VSys 4449 4
+2022 11 4 4 38
+0
+QcUS 1 4
+1
+null QcUS 1396 7
+2022 11 4 5 13
+0
+fWHT 0 1
+1
+null fWHT 6085 7
+2022 11 4 5 50
+0
+wiLq 0 4
+1
+null wiLq 6209 5
+2022 11 4 6 7
+0
+hfDZ 0 5
+1
+null hfDZ 7841 7
+2022 11 4 6 40
+0
+NqnT 0 0
+1
+null NqnT 7886 5
+2022 11 4 6 59
+0
+BmQa 1 5
+1
+null BmQa 5659 2
+2022 11 4 7 21
+0
+NYRd 0 0
+1
+null NYRd 8530 2
+2022 11 4 7 32
+0
+efVp 1 6
+1
+null efVp 8903 2
+2022 11 4 8 6
+0
+CHdx 1 2
+1
+null CHdx 3437 2
+2022 11 4 8 24
+0
+tmMJ 1 2
+1
+null tmMJ 4566 4
+2022 11 4 8 57
+0
+Rgva 1 5
+1
+null Rgva 5830 6
+2022 11 4 9 35
+0
+bapW 0 4
+1
+null bapW 464 5
+2022 11 4 9 53
+0
+fIRn 0 0
+1
+null fIRn 4887 4
+2022 11 4 10 22
+0
+IZFK 1 5
+1
+null IZFK 1439 8
+2022 11 4 10 58
+0
+xQHp 1 2
+1
+null xQHp 3109 1
+2022 11 4 11 21
+0
+TWsT 1 5
+1
+null TWsT 8562 6
+2022 11 4 11 42
+0
+VOEq 0 5
+1
+null VOEq 4809 8
+2022 11 4 11 55
+0
+lMKX 0 2
+1
+null lMKX 8286 5
+2022 11 4 12 31
+0
+nSLP 0 5
+1
+null nSLP 3800 7
+2022 11 4 12 49
+0
+HDFc 1 3
+1
+null HDFc 8946 1
+2022 11 4 13 21
+0
+aJVW 1 0
+1
+null aJVW 4214 3
+2022 11 4 13 53
+0
+Elqp 0 0
+1
+null Elqp 5087 5
+2022 11 4 14 24
+0
+dFEf 1 5
+1
+null dFEf 9305 8
+2022 11 4 14 40
+0
+Gzux 0 6
+1
+null Gzux 9316 3
+2022 11 4 14 53
+0
+Wgmn 1 1
+1
+null Wgmn 7965 0
+2022 11 4 15 19
+0
+WqDu 1 7
+1
+null WqDu 5748 2
+2022 11 4 15 46
+0
+fVvh 0 8
+1
+null fVvh 6707 2
+2022 11 4 16 0
+0
+ySlA 0 8
+1
+null ySlA 424 3
+2022 11 4 16 24
+0
+aqXT 0 4
+1
+null aqXT 8587 2
+2022 11 4 17 4
+0
+CouF 0 1
+1
+null CouF 3713 3
+2022 11 4 17 44
+0
+NjIz 0 1
+1
+null NjIz 8263 4
+2022 11 4 17 58
+0
+kPyY 1 4
+1
+null kPyY 9732 4
+2022 11 4 18 36
+0
+itpM 1 7
+1
+null itpM 1219 6
+2022 11 4 19 12
+0
+hXtc 1 6
+1
+null hXtc 6260 1
+2022 11 4 19 39
+0
+upnf 1 3
+1
+null upnf 6572 5
+2022 11 4 20 0
+0
+spKV 0 1
+1
+null spKV 9293 4
+2022 11 4 20 33
+0
+dmsn 0 4
+1
+null dmsn 7674 5
+2022 11 4 20 56
+0
+SiHx 1 6
+1
+null SiHx 2660 8
+2022 11 4 21 21
+0
+ErbD 0 5
+1
+null ErbD 2218 7
+2022 11 4 21 37
+0
+XMLF 1 4
+1
+null XMLF 8522 5
+2022 11 4 22 3
+0
+NkLT 1 7
+1
+null NkLT 2087 6
+2022 11 4 22 18
+0
+opgX 1 6
+1
+null opgX 5692 2
+2022 11 4 22 48
+0
+iHxc 0 1
+1
+null iHxc 1912 2
+2022 11 4 22 58
+0
+qzkd 1 2
+1
+null qzkd 2747 7
+2022 11 4 23 35
+0
+AvWI 0 4
+1
+null AvWI 6298 2
+2022 11 4 23 48
+0
+SWqt 1 3
+1
+null SWqt 1671 3
+2022 11 5 0 4
+0
+XUDm 1 4
+1
+null XUDm 4931 6
+2022 11 5 0 23
+0
+dPcx 1 4
+1
+null dPcx 8581 3
+2022 11 5 0 42
+0
+yiSa 0 8
+1
+null yiSa 6412 6
+2022 11 5 1 15
+0
+fWQO 1 0
+1
+null fWQO 3582 3
+2022 11 5 1 35
+0
+eKbl 0 4
+1
+null eKbl 4785 2
+2022 11 5 1 46
+0
+dPvL 1 3
+1
+null dPvL 226 2
+2022 11 5 2 3
+0
+OFdJ 1 3
+1
+null OFdJ 439 6
+2022 11 5 2 19
+0
+XhaH 1 0
+1
+null XhaH 9073 1
+2022 11 5 2 43
+0
+yNQr 1 8
+1
+null yNQr 5351 1
+2022 11 5 2 58
+0
+vIND 1 7
+1
+null vIND 4023 5
+2022 11 5 3 30
+0
+AGtD 0 4
+1
+null AGtD 4422 5
+2022 11 5 3 56
+0
+qBVJ 0 1
+1
+null qBVJ 2291 6
+2022 11 5 4 34
+0
+gHdu 0 2
+1
+null gHdu 9575 8
+2022 11 5 5 1
+0
+tlTp 1 3
+1
+null tlTp 7783 6
+2022 11 5 5 28
+0
+OxOk 1 2
+1
+null OxOk 5119 5
+2022 11 5 5 46
+0
+sNRn 1 1
+1
+null sNRn 41 0
+2022 11 5 5 56
+0
+RMtc 0 6
+1
+null RMtc 2477 2
+2022 11 5 6 33
+0
+Tfgs 0 3
+1
+null Tfgs 4230 4
+2022 11 5 6 50
+0
+GLHv 1 8
+1
+null GLHv 6623 8
+2022 11 5 7 4
+0
+KYVo 1 6
+1
+null KYVo 3028 8
+2022 11 5 7 34
+0
+WWoh 0 3
+1
+null WWoh 987 4
+2022 11 5 7 45
+0
+bema 1 8
+1
+null bema 5216 1
+2022 11 5 8 21
+0
+PEKD 1 4
+1
+null PEKD 7062 4
+2022 11 5 8 47
+0
+fKTz 1 8
+1
+null fKTz 1437 4
+2022 11 5 9 22
+0
+zmvY 1 1
+1
+null zmvY 466 6
+2022 11 5 9 48
+0
+yndo 0 8
+1
+null yndo 7564 5
+2022 11 5 10 16
+0
+AyOJ 0 5
+1
+null AyOJ 4708 8
+2022 11 5 10 46
+0
+Oqqs 0 6
+1
+null Oqqs 7825 8
+2022 11 5 10 58
+0
+Crjb 0 2
+1
+null Crjb 8355 4
+2022 11 5 11 34
+0
+RyQH 0 7
+1
+null RyQH 6571 4
+2022 11 5 11 53
+0
+KvWh 0 7
+1
+null KvWh 564 6
+2022 11 5 12 14
+0
+QWmu 0 1
+1
+null QWmu 126 3
+2022 11 5 12 29
+0
+dpAK 0 3
+1
+null dpAK 5527 6
+2022 11 5 12 42
+0
+EBXO 0 4
+1
+null EBXO 7973 6
+2022 11 5 13 5
+0
+Axgq 1 5
+1
+null Axgq 6776 2
+2022 11 5 13 43
+0
+WGHm 0 7
+1
+null WGHm 9709 5
+2022 11 5 14 16
+0
+gSwP 0 3
+1
+null gSwP 6763 5
+2022 11 5 14 46
+0
+xAnE 0 2
+1
+null xAnE 7078 6
+2022 11 5 15 23
+0
+llML 0 2
+1
+null llML 260 8
+2022 11 5 15 53
+0
+ubNP 0 0
+1
+null ubNP 6768 4
+2022 11 5 16 6
+0
+itLg 1 3
+1
+null itLg 2640 1
+2022 11 5 16 43
+0
+cAGP 0 4
+1
+null cAGP 6245 0
+2022 11 5 17 7
+0
+hWic 0 2
+1
+null hWic 5374 7
+2022 11 5 17 22
+0
+vsjx 1 2
+1
+null vsjx 4590 5
+2022 11 5 17 54
+0
+LAap 0 4
+1
+null LAap 7713 5
+2022 11 5 18 16
+0
+XPRv 0 4
+1
+null XPRv 6502 5
+2022 11 5 18 34
+0
+wdPn 0 3
+1
+null wdPn 53 0
+2022 11 5 18 57
+0
+wqCG 1 3
+1
+null wqCG 893 5
+2022 11 5 19 35
+0
+Xshh 0 8
+1
+null Xshh 148 2
+2022 11 5 19 45
+0
+JOkk 0 3
+1
+null JOkk 1522 4
+2022 11 5 20 25
+0
+civR 0 2
+1
+null civR 7760 1
+2022 11 5 20 58
+0
+edhv 0 1
+1
+null edhv 4687 5
+2022 11 5 21 9
+0
+ePPB 0 6
+1
+null ePPB 166 7
+2022 11 5 21 20
+0
+ICwm 0 4
+1
+null ICwm 5219 8
+2022 11 5 21 45
+0
+zVRd 1 0
+1
+null zVRd 3050 3
+2022 11 5 22 5
+0
+BlJU 1 0
+1
+null BlJU 2592 3
+2022 11 5 22 25
+0
+KjlE 1 3
+1
+null KjlE 5426 8
+2022 11 5 22 59
+0
+koEX 1 7
+1
+null koEX 2516 3
+2022 11 5 23 37
+0
+VgYY 1 3
+1
+null VgYY 8364 1
+2022 11 6 0 3
+0
+BrTC 0 3
+1
+null BrTC 2463 1
+2022 11 6 0 35
+0
+nvqG 0 7
+1
+null nvqG 4305 1
+2022 11 6 1 1
+0
+ALbs 0 0
+1
+null ALbs 4616 7
+2022 11 6 1 41
+0
+glDm 0 6
+1
+null glDm 6412 1
+2022 11 6 1 59
+0
+RZDl 1 3
+1
+null RZDl 2076 7
+2022 11 6 2 18
+0
+aLpQ 1 4
+1
+null aLpQ 440 0
+2022 11 6 2 35
+0
+cALu 1 2
+1
+null cALu 6186 7
+2022 11 6 3 8
+0
+pYVF 1 6
+1
+null pYVF 5108 8
+2022 11 6 3 45
+0
+WDLP 1 4
+1
+null WDLP 7826 6
+2022 11 6 3 56
+0
+FMlw 0 5
+1
+null FMlw 1485 4
+2022 11 6 4 31
+0
+terL 0 7
+1
+null terL 7350 5
+2022 11 6 5 0
+0
+kuhg 0 4
+1
+null kuhg 1013 3
+2022 11 6 5 10
+0
+nibI 1 0
+1
+null nibI 8053 7
+2022 11 6 5 35
+0
+YGyy 0 6
+1
+null YGyy 4572 2
+2022 11 6 5 55
+0
+daWw 0 2
+1
+null daWw 6550 5
+2022 11 6 6 25
+0
+toFu 1 1
+1
+null toFu 9164 4
+2022 11 6 6 46
+0
+NVhu 0 5
+1
+null NVhu 8861 2
+2022 11 6 6 56
+0
+gKeT 1 0
+1
+null gKeT 3193 5
+2022 11 6 7 21
+0
+aWAa 1 7
+1
+null aWAa 5855 2
+2022 11 6 7 40
+0
+ZUhZ 0 8
+1
+null ZUhZ 1364 8
+2022 11 6 8 3
+0
+ptVw 0 2
+1
+null ptVw 3315 2
+2022 11 6 8 14
+0
+tQHu 0 1
+1
+null tQHu 4405 0
+2022 11 6 8 45
+0
+yMdR 1 0
+1
+null yMdR 5821 8
+2022 11 6 9 9
+0
+PbEj 1 2
+1
+null PbEj 254 7
+2022 11 6 9 31
+0
+FnpC 0 6
+1
+null FnpC 1356 8
+2022 11 6 9 54
+0
+Cypy 1 3
+1
+null Cypy 7205 8
+2022 11 6 10 15
+0
+KgND 0 1
+1
+null KgND 2717 5
+2022 11 6 10 47
+0
+cSEk 1 2
+1
+null cSEk 4526 6
+2022 11 6 11 22
+0
+MPPP 1 3
+1
+null MPPP 5492 7
+2022 11 6 11 39
+0
+avsz 0 5
+1
+null avsz 1120 1
+2022 11 6 11 59
+0
+sAkq 1 8
+1
+null sAkq 2443 6
+2022 11 6 12 34
+0
+Hufv 0 2
+1
+null Hufv 3655 8
+2022 11 6 12 50
+0
+Luzj 0 7
+1
+null Luzj 9886 6
+2022 11 6 13 26
+0
+XrWt 1 8
+1
+null XrWt 186 1
+2022 11 6 13 57
+0
+mKAw 0 0
+1
+null mKAw 5659 4
+2022 11 6 14 10
+0
+HpfL 1 3
+1
+null HpfL 4681 8
+2022 11 6 14 38
+0
+CSzV 0 4
+1
+null CSzV 1161 3
+2022 11 6 14 54
+0
+uwfz 0 3
+1
+null uwfz 3694 3
+2022 11 6 15 6
+0
+CJNP 1 4
+1
+null CJNP 5851 8
+2022 11 6 15 16
+0
+uClx 1 2
+1
+null uClx 473 4
+2022 11 6 15 32
+0
+jXRi 0 1
+1
+null jXRi 2645 2
+2022 11 6 16 5
+0
+damo 0 4
+1
+null damo 7968 2
+2022 11 6 16 37
+0
+vlUo 0 8
+1
+null vlUo 7481 2
+2022 11 6 17 4
+0
+ntus 1 7
+1
+null ntus 8561 3
+2022 11 6 17 36
+0
+uPwh 1 5
+1
+null uPwh 2758 0
+2022 11 6 18 8
+0
+gXVh 1 5
+1
+null gXVh 5667 0
+2022 11 6 18 46
+0
+jron 0 2
+1
+null jron 5441 4
+2022 11 6 19 24
+0
+XZKd 1 3
+1
+null XZKd 8585 3
+2022 11 6 19 45
+0
+KmcC 1 4
+1
+null KmcC 7816 7
+2022 11 6 20 9
+0
+TuiD 0 3
+1
+null TuiD 7431 4
+2022 11 6 20 48
+0
+XYny 1 4
+1
+null XYny 9370 0
+2022 11 6 21 26
+0
+FbaF 0 3
+1
+null FbaF 9077 2
+2022 11 6 21 46
+0
+MbhJ 1 1
+1
+null MbhJ 4469 6
+2022 11 6 22 14
+0
+uEEP 0 7
+1
+null uEEP 1239 4
+2022 11 6 22 37
+0
+LegL 0 5
+1
+null LegL 5138 0
+2022 11 6 22 47
+0
+xivI 0 5
+1
+null xivI 9425 7
+2022 11 6 23 12
+0
+zAwE 1 4
+1
+null zAwE 9683 1
+2022 11 6 23 48
+0
+seIA 0 7
+1
+null seIA 1057 5
+2022 11 7 0 9
+0
+giOL 1 5
+1
+null giOL 2935 0
+2022 11 7 0 22
+0
+XBFF 0 1
+1
+null XBFF 6521 4
+2022 11 7 0 39
+0
+kiat 1 1
+1
+null kiat 2961 7
+2022 11 7 0 59
+0
+qhgt 1 2
+1
+null qhgt 742 7
+2022 11 7 1 34
+0
+zqcI 0 3
+1
+null zqcI 2008 2
+2022 11 7 1 44
+0
+eQyg 1 5
+1
+null eQyg 7357 6
+2022 11 7 2 14
+0
+rpom 0 2
+1
+null rpom 52 1
+2022 11 7 2 30
+0
+XbgR 1 4
+1
+null XbgR 4068 0
+2022 11 7 3 3
+0
+ZbcL 1 1
+1
+null ZbcL 1884 2
+2022 11 7 3 18
+0
+nKSc 0 2
+1
+null nKSc 2484 5
+2022 11 7 3 49
+0
+atDg 1 2
+1
+null atDg 4381 1
+2022 11 7 4 21
+0
+ROpU 1 1
+1
+null ROpU 6866 4
+2022 11 7 4 36
+0
+BzoU 1 7
+1
+null BzoU 7841 7
+2022 11 7 4 48
+0
+EwRX 1 5
+1
+null EwRX 2015 3
+2022 11 7 5 26
+0
+ZhIH 1 1
+1
+null ZhIH 5581 5
+2022 11 7 6 3
+0
+nXbM 1 5
+1
+null nXbM 8523 1
+2022 11 7 6 43
+0
+BETk 1 2
+1
+null BETk 3208 4
+2022 11 7 6 54
+0
+pUJb 1 1
+1
+null pUJb 1473 8
+2022 11 7 7 31
+0
+pWkb 0 4
+1
+null pWkb 1773 2
+2022 11 7 8 9
+0
+WVbN 0 3
+1
+null WVbN 6653 7
+2022 11 7 8 40
+0
+hdyb 0 6
+1
+null hdyb 95 8
+2022 11 7 9 2
+0
+VxSg 0 5
+1
+null VxSg 6765 8
+2022 11 7 9 24
+0
+HpkX 0 2
+1
+null HpkX 7671 5
+2022 11 7 9 51
+0
+wxQp 0 4
+1
+null wxQp 3604 7
+2022 11 7 10 11
+0
+SyND 1 7
+1
+null SyND 575 2
+2022 11 7 10 34
+0
+zTEf 1 4
+1
+null zTEf 4176 2
+2022 11 7 10 45
+0
+pOIP 0 6
+1
+null pOIP 3321 6
+2022 11 7 10 56
+0
+zfXE 1 8
+1
+null zfXE 6226 6
+2022 11 7 11 26
+0
+YvhZ 1 7
+1
+null YvhZ 2983 6
+2022 11 7 11 51
+0
+dKzN 1 6
+1
+null dKzN 1008 6
+2022 11 7 12 30
+0
+IJix 0 3
+1
+null IJix 6348 5
+2022 11 7 13 8
+0
+GbeY 0 5
+1
+null GbeY 9457 4
+2022 11 7 13 32
+0
+jmak 0 3
+1
+null jmak 5209 8
+2022 11 7 14 5
+0
+LvCW 0 7
+1
+null LvCW 5205 3
+2022 11 7 14 39
+0
+kHmy 1 8
+1
+null kHmy 3647 6
+2022 11 7 15 10
+0
+maja 1 1
+1
+null maja 1900 0
+2022 11 7 15 32
+0
+smNx 0 2
+1
+null smNx 4100 3
+2022 11 7 16 5
+0
+SUZA 0 7
+1
+null SUZA 709 7
+2022 11 7 16 23
+0
+NqMI 1 8
+1
+null NqMI 666 6
+2022 11 7 16 54
+0
+jTaB 1 6
+1
+null jTaB 6857 1
+2022 11 7 17 10
+0
+bVVp 0 3
+1
+null bVVp 7442 4
+2022 11 7 17 41
+0
+PSuK 1 3
+1
+null PSuK 8581 7
+2022 11 7 17 55
+0
+KHXk 0 3
+1
+null KHXk 9408 6
+2022 11 7 18 27
+0
+cBIc 1 8
+1
+null cBIc 4363 2
+2022 11 7 19 7
+0
+dSOb 0 7
+1
+null dSOb 3795 2
+2022 11 7 19 22
+0
+JxUu 1 4
+1
+null JxUu 3758 5
+2022 11 7 19 56
+0
+FcBk 1 0
+1
+null FcBk 8772 3
+2022 11 7 20 30
+0
+lbgf 0 1
+1
+null lbgf 8534 4
+2022 11 7 20 41
+0
+hUXB 0 2
+1
+null hUXB 3642 0
+2022 11 7 21 14
+0
+mULG 1 8
+1
+null mULG 4190 2
+2022 11 7 21 51
+0
+OCXG 1 5
+1
+null OCXG 2944 7
+2022 11 7 22 16
+0
+nUwl 0 2
+1
+null nUwl 1139 8
+2022 11 7 22 37
+0
+gmtd 1 1
+1
+null gmtd 3559 4
+2022 11 7 22 55
+0
+SKAT 1 4
+1
+null SKAT 5888 8
+2022 11 7 23 28
+0
+RcMk 0 7
+1
+null RcMk 5810 3
+2022 11 8 0 2
+0
+ueFa 1 5
+1
+null ueFa 8087 5
+2022 11 8 0 26
+0
+HLIV 1 7
+1
+null HLIV 197 5
+2022 11 8 1 4
+0
+kSYf 1 6
+1
+null kSYf 6077 8
+2022 11 8 1 37
+0
+kOMM 1 8
+1
+null kOMM 4473 1
+2022 11 8 2 14
+0
+GaBl 0 6
+1
+null GaBl 1486 5
+2022 11 8 2 54
+0
+HUvQ 1 0
+1
+null HUvQ 9973 7
+2022 11 8 3 16
+0
+TzDO 0 6
+1
+null TzDO 7060 5
+2022 11 8 3 29
+0
+JagG 1 6
+1
+null JagG 975 6
+2022 11 8 3 54
+0
+NdJx 1 7
+1
+null NdJx 4045 6
+2022 11 8 4 18
+0
+fZox 1 7
+1
+null fZox 4282 2
+2022 11 8 4 34
+0
+hsQJ 1 5
+1
+null hsQJ 3672 7
+2022 11 8 4 51
+0
+YQGC 0 0
+1
+null YQGC 855 1
+2022 11 8 5 4
+0
+myax 1 7
+1
+null myax 3880 8
+2022 11 8 5 37
+0
+HtXX 1 3
+1
+null HtXX 2934 0
+2022 11 8 6 8
+0
+zTBH 0 1
+1
+null zTBH 6360 8
+2022 11 8 6 39
+0
+JHjQ 1 4
+1
+null JHjQ 9016 1
+2022 11 8 6 55
+0
+HbRe 1 2
+1
+null HbRe 8976 1
+2022 11 8 7 29
+0
+lhRS 0 7
+1
+null lhRS 742 0
+2022 11 8 8 0
+0
+DwBI 0 2
+1
+null DwBI 6516 4
+2022 11 8 8 22
+0
+yPvp 1 5
+1
+null yPvp 5402 2
+2022 11 8 8 32
+0
+VWsN 1 2
+1
+null VWsN 8593 6
+2022 11 8 9 2
+0
+jXXo 1 0
+1
+null jXXo 74 3
+2022 11 8 9 17
+0
+fxOb 1 0
+1
+null fxOb 4958 4
+2022 11 8 9 27
+0
+ySjH 0 4
+1
+null ySjH 3777 8
+2022 11 8 9 47
+0
+Zjtd 0 0
+1
+null Zjtd 2954 3
+2022 11 8 10 7
+0
+ERYo 0 2
+1
+null ERYo 8984 7
+2022 11 8 10 35
+0
+jNgo 0 0
+1
+null jNgo 6590 5
+2022 11 8 11 3
+0
+Jztt 0 1
+1
+null Jztt 2105 6
+2022 11 8 11 37
+0
+awVb 0 2
+1
+null awVb 5069 2
+2022 11 8 12 14
+0
+vBQZ 0 3
+1
+null vBQZ 5570 2
+2022 11 8 12 28
+0
+CXcM 1 0
+1
+null CXcM 3418 1
+2022 11 8 12 50
+0
+zpEO 1 2
+1
+null zpEO 1138 5
+2022 11 8 13 14
+0
+qJCB 1 2
+1
+null qJCB 3688 4
+2022 11 8 13 36
+0
+VRzg 1 4
+1
+null VRzg 3284 8
+2022 11 8 14 7
+0
+DpuB 1 0
+1
+null DpuB 5972 3
+2022 11 8 14 36
+0
+AGLi 1 4
+1
+null AGLi 9532 7
+2022 11 8 14 50
+0
+qwNh 1 6
+1
+null qwNh 164 2
+2022 11 8 15 7
+0
+CnHf 1 6
+1
+null CnHf 4883 4
+2022 11 8 15 45
+0
+jiKz 0 1
+1
+null jiKz 8645 1
+2022 11 8 16 24
+0
+JnVW 1 4
+1
+null JnVW 948 4
+2022 11 8 16 48
+0
+lFHU 0 2
+1
+null lFHU 9678 2
+2022 11 8 17 3
+0
+Fjba 0 8
+1
+null Fjba 531 3
+2022 11 8 17 40
+0
+AEWY 1 7
+1
+null AEWY 5306 2
+2022 11 8 18 20
+0
+ulwg 0 4
+1
+null ulwg 47 1
+2022 11 8 18 37
+0
+LkPw 1 3
+1
+null LkPw 7588 8
+2022 11 8 19 12
+0
+ZaxX 1 4
+1
+null ZaxX 9607 6
+2022 11 8 19 35
+0
+sPxw 0 2
+1
+null sPxw 3391 5
+2022 11 8 20 4
+0
+MHki 1 2
+1
+null MHki 6518 1
+2022 11 8 20 27
+0
+ysCv 1 4
+1
+null ysCv 3858 3
+2022 11 8 20 45
+0
+oDeq 1 2
+1
+null oDeq 6751 3
+2022 11 8 20 59
+0
+EHxa 0 4
+1
+null EHxa 2616 5
+2022 11 8 21 22
+0
+aOSt 0 3
+1
+null aOSt 2484 0
+2022 11 8 21 39
+0
+ftIY 0 7
+1
+null ftIY 9164 5
+2022 11 8 21 58
+0
+OJpA 0 4
+1
+null OJpA 9869 7
+2022 11 8 22 19
+0
+QhfW 0 6
+1
+null QhfW 1974 8
+2022 11 8 22 52
+0
+fiGL 1 6
+1
+null fiGL 6572 1
+2022 11 8 23 4
+0
+fpif 1 7
+1
+null fpif 6462 8
+2022 11 8 23 18
+0
+Gaix 1 5
+1
+null Gaix 9625 2
+2022 11 8 23 46
+0
+oPrI 0 3
+1
+null oPrI 1433 5
+2022 11 9 0 9
+0
+sqye 0 2
+1
+null sqye 239 3
+2022 11 9 0 38
+0
+gctK 0 3
+1
+null gctK 2481 3
+2022 11 9 1 0
+0
+fTdG 0 8
+1
+null fTdG 7303 1
+2022 11 9 1 14
+0
+lpfJ 1 6
+1
+null lpfJ 6802 1
+2022 11 9 1 28
+0
+RrAr 0 1
+1
+null RrAr 1757 8
+2022 11 9 2 0
+0
+cCtj 1 1
+1
+null cCtj 4832 2
+2022 11 9 2 40
+0
+Sunw 0 2
+1
+null Sunw 7925 5
+2022 11 9 3 12
+0
+lEBK 1 2
+1
+null lEBK 4988 7
+2022 11 9 3 45
+0
+uLfz 0 3
+1
+null uLfz 8329 6
+2022 11 9 4 4
+0
+TznG 1 4
+1
+null TznG 2235 3
+2022 11 9 4 28
+0
+VmFT 0 1
+1
+null VmFT 1321 3
+2022 11 9 5 0
+0
+qKVD 1 7
+1
+null qKVD 4539 0
+2022 11 9 5 30
+0
+nhyp 1 3
+1
+null nhyp 3859 8
+2022 11 9 5 45
+0
+mluw 1 2
+1
+null mluw 9819 6
+2022 11 9 5 58
+0
+DXsy 0 1
+1
+null DXsy 1451 4
+2022 11 9 6 13
+0
+lfKd 1 7
+1
+null lfKd 4629 8
+2022 11 9 6 27
+0
+URLp 1 1
+1
+null URLp 5344 2
+2022 11 9 6 59
+0
+gdOp 1 0
+1
+null gdOp 4951 4
+2022 11 9 7 26
+0
+JxEs 1 0
+1
+null JxEs 5407 3
+2022 11 9 7 50
+0
+vrtA 0 4
+1
+null vrtA 591 8
+2022 11 9 8 23
+0
+QxHS 1 2
+1
+null QxHS 2973 6
+2022 11 9 8 41
+0
+SJzI 1 1
+1
+null SJzI 9686 0
+2022 11 9 8 57
+0
+Oaid 0 4
+1
+null Oaid 5862 2
+2022 11 9 9 36
+0
+OFsE 1 7
+1
+null OFsE 3131 7
+2022 11 9 9 48
+0
+dwGm 0 3
+1
+null dwGm 9588 0
+2022 11 9 10 8
+0
+vOwR 0 5
+1
+null vOwR 6293 6
+2022 11 9 10 18
+0
+HIuL 0 7
+1
+null HIuL 7813 7
+2022 11 9 10 48
+0
+SQEO 1 5
+1
+null SQEO 6976 0
+2022 11 9 11 7
+0
+mMbY 0 3
+1
+null mMbY 4926 1
+2022 11 9 11 40
+0
+hLnR 0 2
+1
+null hLnR 3402 1
+2022 11 9 12 17
+0
+rpVl 0 7
+1
+null rpVl 1942 3
+2022 11 9 12 46
+0
+MxNs 1 4
+1
+null MxNs 1449 7
+2022 11 9 13 15
+0
+ZHFL 1 3
+1
+null ZHFL 3450 4
+2022 11 9 13 28
+0
+DxVd 1 0
+1
+null DxVd 2169 0
+2022 11 9 13 58
+0
+zKVE 1 1
+1
+null zKVE 4367 2
+2022 11 9 14 32
+0
+ziID 1 2
+1
+null ziID 2577 2
+2022 11 9 14 42
+0
+DRRR 1 7
+1
+null DRRR 124 2
+2022 11 9 15 5
+0
+gZzT 0 8
+1
+null gZzT 3350 5
+2022 11 9 15 37
+0
+xfmN 1 4
+1
+null xfmN 1456 7
+2022 11 9 16 5
+0
+lLHh 1 2
+1
+null lLHh 2927 7
+2022 11 9 16 20
+0
+Jsln 1 4
+1
+null Jsln 2778 1
+2022 11 9 16 51
+0
+GJdL 0 1
+1
+null GJdL 3276 4
+2022 11 9 17 17
+0
+bIkv 1 8
+1
+null bIkv 3025 4
+2022 11 9 17 36
+0
+CrWq 1 3
+1
+null CrWq 2094 5
+2022 11 9 18 14
+0
+NeKv 1 4
+1
+null NeKv 6884 8
+2022 11 9 18 37
+0
+jLQm 1 1
+1
+null jLQm 6012 0
+2022 11 9 18 54
+0
+iHgP 0 3
+1
+null iHgP 4522 8
+2022 11 9 19 7
+0
+LQqj 1 6
+1
+null LQqj 4336 7
+2022 11 9 19 35
+0
+jVSR 1 6
+1
+null jVSR 914 6
+2022 11 9 20 1
+0
+lhLq 0 3
+1
+null lhLq 6394 2
+2022 11 9 20 24
+0
+IukD 0 1
+1
+null IukD 1781 6
+2022 11 9 21 2
+0
+nIeC 0 8
+1
+null nIeC 2675 7
+2022 11 9 21 23
+0
+bXpl 1 0
+1
+null bXpl 3267 1
+2022 11 9 21 58
+0
+htNK 0 4
+1
+null htNK 5492 4
+2022 11 9 22 33
+0
+kMEM 0 0
+1
+null kMEM 5506 7
+2022 11 9 22 48
+0
+MQWG 1 6
+1
+null MQWG 5651 8
+2022 11 9 23 11
+0
+oIaF 1 5
+1
+null oIaF 8931 6
+2022 11 9 23 41
+0
+vQZg 0 4
+1
+null vQZg 691 0
+2022 11 10 0 5
+0
+hUis 0 5
+1
+null hUis 26 5
+2022 11 10 0 20
+0
+Urso 0 8
+1
+null Urso 6194 4
+2022 11 10 0 42
+0
+yTBe 0 7
+1
+null yTBe 3421 5
+2022 11 10 1 11
+0
+Fckl 1 5
+1
+null Fckl 9942 1
+2022 11 10 1 50
+0
+bcSe 1 5
+1
+null bcSe 4839 0
+2022 11 10 2 28
+0
+XpmT 1 2
+1
+null XpmT 5668 4
+2022 11 10 2 58
+0
+shEZ 1 6
+1
+null shEZ 4114 1
+2022 11 10 3 34
+0
+ROdh 0 1
+1
+null ROdh 8876 7
+2022 11 10 4 6
+0
+HNvY 1 0
+1
+null HNvY 5361 2
+2022 11 10 4 21
+0
+caPR 1 4
+1
+null caPR 2207 5
+2022 11 10 4 53
+0
+NFTc 1 7
+1
+null NFTc 3368 7
+2022 11 10 5 14
+0
+NHZK 0 0
+1
+null NHZK 5426 5
+2022 11 10 5 32
+0
+pACQ 0 7
+1
+null pACQ 28 2
+2022 11 10 6 0
+0
+omqJ 0 7
+1
+null omqJ 7347 6
+2022 11 10 6 23
+0
+Gqhc 0 0
+1
+null Gqhc 5462 1
+2022 11 10 6 39
+0
+CyZX 1 5
+1
+null CyZX 5166 8
+2022 11 10 6 55
+0
+USNM 1 4
+1
+null USNM 960 0
+2022 11 10 7 35
+0
+oawW 1 0
+1
+null oawW 9126 0
+2022 11 10 8 5
+0
+zPZx 1 2
+1
+null zPZx 2031 0
+2022 11 10 8 18
+0
+GKjB 1 6
+1
+null GKjB 1546 1
+2022 11 10 8 41
+0
+RBcg 1 7
+1
+null RBcg 1194 2
+2022 11 10 9 12
+0
+zxve 1 6
+1
+null zxve 8850 2
+2022 11 10 9 48
+0
+aJrs 0 7
+1
+null aJrs 158 2
+2022 11 10 10 7
+0
+PbkV 1 3
+1
+null PbkV 5748 8
+2022 11 10 10 37
+0
+xCAL 0 6
+1
+null xCAL 2114 0
+2022 11 10 11 0
+0
+ktDE 0 4
+1
+null ktDE 7586 7
+2022 11 10 11 13
+0
+MEBK 1 6
+1
+null MEBK 1890 5
+2022 11 10 11 31
+0
+EqFs 0 8
+1
+null EqFs 8916 6
+2022 11 10 11 43
+0
+Orsh 0 8
+1
+null Orsh 2892 0
+2022 11 10 12 6
+0
+WllI 1 3
+1
+null WllI 8745 3
+2022 11 10 12 25
+0
+irlK 0 8
+1
+null irlK 250 4
+2022 11 10 12 38
+0
+mkLZ 1 6
+1
+null mkLZ 4943 5
+2022 11 10 12 56
+0
+FWDf 1 0
+1
+null FWDf 1843 8
+2022 11 10 13 15
+0
+lNjg 1 8
+1
+null lNjg 6357 7
+2022 11 10 13 48
+0
+AtNq 1 2
+1
+null AtNq 9234 1
+2022 11 10 14 17
+0
+gHJu 1 8
+1
+null gHJu 9915 2
+2022 11 10 14 47
+0
+KYXF 1 4
+1
+null KYXF 2579 3
+2022 11 10 15 16
+0
+Gaiu 1 8
+1
+null Gaiu 4980 7
+2022 11 10 15 36
+0
+qwhL 1 8
+1
+null qwhL 7486 0
+2022 11 10 16 14
+0
+JtQS 1 0
+1
+null JtQS 4451 8
+2022 11 10 16 38
+0
+Ikgu 0 6
+1
+null Ikgu 9062 3
+2022 11 10 17 12
+0
+MDkY 0 5
+1
+null MDkY 6212 3
+2022 11 10 17 49
+0
+sKNG 1 8
+1
+null sKNG 1463 3
+2022 11 10 18 5
+0
+Iupm 0 8
+1
+null Iupm 3165 4
+2022 11 10 18 31
+0
+XEGj 1 6
+1
+null XEGj 9986 0
+2022 11 10 19 1
+0
+akrk 0 4
+1
+null akrk 8673 6
+2022 11 10 19 32
+0
+hNfM 0 7
+1
+null hNfM 7509 7
+2022 11 10 19 52
+0
+fbTL 1 3
+1
+null fbTL 2665 0
+2022 11 10 20 16
+0
+lrUx 1 7
+1
+null lrUx 1537 2
+2022 11 10 20 51
+0
+IKgd 0 1
+1
+null IKgd 810 7
+2022 11 10 21 7
+0
+rVUW 1 7
+1
+null rVUW 3852 2
+2022 11 10 21 26
+0
+ZeFl 1 3
+1
+null ZeFl 9180 3
+2022 11 10 21 56
+0
+SqyF 0 5
+1
+null SqyF 3457 4
+2022 11 10 22 22
+0
+wJpH 0 7
+1
+null wJpH 1156 4
+2022 11 10 22 47
+0
+SbkO 0 7
+1
+null SbkO 2458 0
+2022 11 10 23 15
+0
+pYMv 0 3
+1
+null pYMv 5661 8
+2022 11 10 23 40
+0
+dYJC 0 4
+1
+null dYJC 2573 7
+2022 11 10 23 56
+0
+uOsT 1 2
+1
+null uOsT 7155 5
+2022 11 11 0 6
+0
+PnMB 1 8
+1
+null PnMB 4624 7
+2022 11 11 0 38
+0
+mkZL 1 8
+1
+null mkZL 9647 5
+2022 11 11 1 15
+0
+woTR 1 2
+1
+null woTR 1036 5
+2022 11 11 1 33
+0
+Nkjn 1 2
+1
+null Nkjn 4133 4
+2022 11 11 1 58
+0
+MARh 0 4
+1
+null MARh 2831 5
+2022 11 11 2 27
+0
+AiBg 1 3
+1
+null AiBg 1647 0
+2022 11 11 2 47
+0
+KkKJ 0 6
+1
+null KkKJ 9577 5
+2022 11 11 3 14
+0
+HrBW 0 7
+1
+null HrBW 1968 7
+2022 11 11 3 40
+0
+GdKL 0 5
+1
+null GdKL 1893 4
+2022 11 11 4 12
+0
+GjWV 1 8
+1
+null GjWV 7440 1
+2022 11 11 4 36
+0
+gdyT 0 3
+1
+null gdyT 9282 1
+2022 11 11 5 2
+0
+RbRP 1 7
+1
+null RbRP 319 7
+2022 11 11 5 15
+0
+nShf 0 1
+1
+null nShf 1416 1
+2022 11 11 5 31
+0
+UTvs 0 2
+1
+null UTvs 4229 3
+2022 11 11 6 5
+0
+pYct 0 2
+1
+null pYct 3142 2
+2022 11 11 6 19
+0
+DUwg 0 7
+1
+null DUwg 8456 7
+2022 11 11 6 54
+0
+mErh 1 8
+1
+null mErh 435 3
+2022 11 11 7 27
+0
+xYhq 1 6
+1
+null xYhq 3022 7
+2022 11 11 7 55
+0
+oVFf 1 3
+1
+null oVFf 9 5
+2022 11 11 8 35
+0
+Bzqd 1 2
+1
+null Bzqd 2784 1
+2022 11 11 9 14
+0
+Fjnw 1 3
+1
+null Fjnw 5615 1
+2022 11 11 9 31
+0
+tUkH 0 1
+1
+null tUkH 3765 7
+2022 11 11 9 41
+0
+dzMz 1 3
+1
+null dzMz 9162 1
+2022 11 11 10 10
+0
+Owkw 0 0
+1
+null Owkw 9891 6
+2022 11 11 10 28
+0
+qGye 1 8
+1
+null qGye 2468 6
+2022 11 11 11 3
+0
+FbVL 0 1
+1
+null FbVL 3754 4
+2022 11 11 11 33
+0
+QBwG 1 6
+1
+null QBwG 1015 4
+2022 11 11 12 0
+0
+bTzQ 1 7
+1
+null bTzQ 7838 3
+2022 11 11 12 40
+0
+vCSS 1 4
+1
+null vCSS 6960 8
+2022 11 11 12 55
+0
+nYVo 0 5
+1
+null nYVo 605 5
+2022 11 11 13 26
+0
+qMTE 0 5
+1
+null qMTE 7775 7
+2022 11 11 14 4
+0
+GoFS 0 8
+1
+null GoFS 3167 4
+2022 11 11 14 33
+0
+QSom 1 0
+1
+null QSom 9943 5
+2022 11 11 14 50
+0
+tpba 0 4
+1
+null tpba 6012 8
+2022 11 11 15 24
+0
+pjPA 0 8
+1
+null pjPA 2025 8
+2022 11 11 16 2
+0
+ZpxN 1 1
+1
+null ZpxN 5823 7
+2022 11 11 16 39
+0
+ursJ 1 5
+1
+null ursJ 4748 4
+2022 11 11 17 3
+0
+mlXc 1 6
+1
+null mlXc 3981 0
+2022 11 11 17 43
+0
+EZuu 0 1
+1
+null EZuu 2707 1
+2022 11 11 18 12
+0
+JPvJ 0 8
+1
+null JPvJ 4893 1
+2022 11 11 18 22
+0
+qXca 1 7
+1
+null qXca 8703 8
+2022 11 11 18 33
+0
+zxPk 1 7
+1
+null zxPk 6253 8
+2022 11 11 18 59
+0
+IqCm 1 3
+1
+null IqCm 1630 6
+2022 11 11 19 9
+0
+TuyA 1 3
+1
+null TuyA 6013 2
+2022 11 11 19 25
+0
+TAhX 0 0
+1
+null TAhX 4488 5
+2022 11 11 19 48
+0
+tTdH 0 5
+1
+null tTdH 1578 0
+2022 11 11 20 8
+0
+LIGO 0 2
+1
+null LIGO 7720 2
+2022 11 11 20 40
+0
+VCSQ 1 5
+1
+null VCSQ 179 6
+2022 11 11 21 0
+0
+VzOs 0 0
+1
+null VzOs 2099 1
+2022 11 11 21 16
+0
+AUjv 1 3
+1
+null AUjv 6941 2
+2022 11 11 21 37
+0
+KVGw 0 1
+1
+null KVGw 6890 0
+2022 11 11 22 1
+0
+oVud 1 2
+1
+null oVud 2314 8
+2022 11 11 22 27
+0
+ITBc 1 6
+1
+null ITBc 4444 3
+2022 11 11 23 0
+0
+hlvv 1 6
+1
+null hlvv 6203 4
+2022 11 11 23 29
+0
+xKid 0 8
+1
+null xKid 1091 2
+2022 11 12 0 8
+0
+WjSG 1 2
+1
+null WjSG 3929 3
+2022 11 12 0 40
+0
+hMEK 0 0
+1
+null hMEK 6925 7
+2022 11 12 0 53
+0
+ZRqm 0 4
+1
+null ZRqm 6957 3
+2022 11 12 1 6
+0
+ycpv 0 5
+1
+null ycpv 1701 1
+2022 11 12 1 44
+0
+Moev 0 0
+1
+null Moev 2984 4
+2022 11 12 2 4
+0
+QMhp 0 5
+1
+null QMhp 5222 4
+2022 11 12 2 42
+0
+ReDo 0 4
+1
+null ReDo 6029 2
+2022 11 12 3 10
+0
+TKxC 0 5
+1
+null TKxC 4671 4
+2022 11 12 3 46
+0
+KDfv 1 0
+1
+null KDfv 1502 3
+2022 11 12 4 22
+0
+bsgu 1 2
+1
+null bsgu 2045 6
+2022 11 12 4 42
+0
+DKqZ 0 4
+1
+null DKqZ 2403 6
+2022 11 12 5 15
+0
+jTCL 0 7
+1
+null jTCL 8939 3
+2022 11 12 5 35
+0
+NkfQ 0 5
+1
+null NkfQ 462 3
+2022 11 12 6 13
+0
+TeLY 1 8
+1
+null TeLY 3415 5
+2022 11 12 6 49
+0
+fiLb 1 5
+1
+null fiLb 3169 6
+2022 11 12 7 7
+0
+ceNx 0 7
+1
+null ceNx 5338 6
+2022 11 12 7 44
+0
+CgUR 0 0
+1
+null CgUR 4898 4
+2022 11 12 7 54
+0
+ybsa 1 5
+1
+null ybsa 998 1
+2022 11 12 8 26
+0
+TSdn 0 4
+1
+null TSdn 4715 2
+2022 11 12 9 0
+0
+wpfz 1 6
+1
+null wpfz 797 5
+2022 11 12 9 22
+0
+plnf 0 8
+1
+null plnf 8088 0
+2022 11 12 9 45
+0
+JgXs 0 6
+1
+null JgXs 9556 1
+2022 11 12 10 2
+0
+IjPr 0 8
+1
+null IjPr 826 1
+2022 11 12 10 35
+0
+xEQc 0 7
+1
+null xEQc 6932 1
+2022 11 12 11 6
+0
+abOR 0 6
+1
+null abOR 1340 3
+2022 11 12 11 43
+0
+kilL 0 3
+1
+null kilL 7982 1
+2022 11 12 12 7
+0
+oGxU 1 0
+1
+null oGxU 242 1
+2022 11 12 12 43
+0
+yJaX 1 8
+1
+null yJaX 3484 2
+2022 11 12 13 9
+0
+ZYEa 1 2
+1
+null ZYEa 5061 7
+2022 11 12 13 35
+0
+nXtg 0 5
+1
+null nXtg 788 8
+2022 11 12 13 58
+0
+WRdr 1 3
+1
+null WRdr 6002 3
+2022 11 12 14 8
+0
+XxyM 1 3
+1
+null XxyM 2773 5
+2022 11 12 14 45
+0
+BLBI 1 6
+1
+null BLBI 852 6
+2022 11 12 15 22
+0
+zxRF 0 2
+1
+null zxRF 6833 2
+2022 11 12 15 48
+0
+fFWb 0 5
+1
+null fFWb 8460 5
+2022 11 12 15 59
+0
+SltI 0 3
+1
+null SltI 2771 3
+2022 11 12 16 27
+0
+KpDn 1 2
+1
+null KpDn 1353 4
+2022 11 12 16 49
+0
+Otdj 1 0
+1
+null Otdj 8486 5
+2022 11 12 17 6
+0
+wzrz 0 4
+1
+null wzrz 8484 6
+2022 11 12 17 37
+0
+tXgH 0 1
+1
+null tXgH 6006 3
+2022 11 12 17 49
+0
+rBsX 0 7
+1
+null rBsX 8200 4
+2022 11 12 18 27
+0
+RlKU 0 7
+1
+null RlKU 6700 5
+2022 11 12 18 57
+0
+xQNZ 1 6
+1
+null xQNZ 4429 4
+2022 11 12 19 20
+0
+NJTU 0 3
+1
+null NJTU 8684 4
+2022 11 12 19 36
+0
+edFP 0 8
+1
+null edFP 5739 6
+2022 11 12 19 50
+0
+BiLM 0 7
+1
+null BiLM 922 2
+2022 11 12 20 4
+0
+fMmn 0 2
+1
+null fMmn 6753 7
+2022 11 12 20 32
+0
+lNIf 0 6
+1
+null lNIf 9589 4
+2022 11 12 21 2
+0
+wzBA 1 0
+1
+null wzBA 840 7
+2022 11 12 21 40
+0
+cxZT 0 5
+1
+null cxZT 8228 7
+2022 11 12 21 57
+0
+VDCs 0 6
+1
+null VDCs 6033 0
+2022 11 12 22 14
+0
+iolP 1 7
+1
+null iolP 1223 8
+2022 11 12 22 52
+0
+Slyu 0 3
+1
+null Slyu 8503 3
+2022 11 12 23 19
+0
+iuYq 0 4
+1
+null iuYq 165 2
+2022 11 12 23 46
+0
+RMIs 1 7
+1
+null RMIs 9406 6
+2022 11 13 0 1
+0
+PcLw 1 5
+1
+null PcLw 1012 0
+2022 11 13 0 36
+0
+yrJO 0 3
+1
+null yrJO 7020 5
+2022 11 13 1 12
+0
+XTML 1 6
+1
+null XTML 1550 8
+2022 11 13 1 44
+0
+PuqS 0 6
+1
+null PuqS 182 4
+2022 11 13 2 18
+0
+QhOS 1 8
+1
+null QhOS 2776 0
+2022 11 13 2 46
+0
+YKMi 0 2
+1
+null YKMi 9483 7
+2022 11 13 3 1
+0
+VvuX 0 8
+1
+null VvuX 1824 1
+2022 11 13 3 24
+0
+YFOb 1 8
+1
+null YFOb 1730 1
+2022 11 13 3 36
+0
+SyDY 1 8
+1
+null SyDY 9768 3
+2022 11 13 4 3
+0
+BtOK 0 8
+1
+null BtOK 3579 3
+2022 11 13 4 36
+0
+cfNL 0 0
+1
+null cfNL 9318 7
+2022 11 13 5 8
+0
+ldgF 1 1
+1
+null ldgF 3295 1
+2022 11 13 5 31
+0
+epVl 1 4
+1
+null epVl 568 8
+2022 11 13 5 56
+0
+Ngvw 0 3
+1
+null Ngvw 2315 3
+2022 11 13 6 9
+0
+xGeo 0 1
+1
+null xGeo 2199 5
+2022 11 13 6 41
+0
+LzYN 1 0
+1
+null LzYN 4907 3
+2022 11 13 7 4
+0
+SuLI 0 2
+1
+null SuLI 6716 6
+2022 11 13 7 40
+0
+JEbh 1 2
+1
+null JEbh 6388 4
+2022 11 13 8 12
+0
+oheI 0 2
+1
+null oheI 3611 8
+2022 11 13 8 49
+0
+ySit 0 8
+1
+null ySit 177 2
+2022 11 13 9 15
+0
+eaiY 1 7
+1
+null eaiY 4145 2
+2022 11 13 9 45
+0
+XEum 0 8
+1
+null XEum 238 3
+2022 11 13 10 25
+0
+phWp 0 5
+1
+null phWp 2300 4
+2022 11 13 10 58
+0
+Cszu 1 3
+1
+null Cszu 5527 8
+2022 11 13 11 13
+0
+QhvT 1 6
+1
+null QhvT 8269 7
+2022 11 13 11 23
+0
+WDgQ 0 2
+1
+null WDgQ 9207 3
+2022 11 13 11 54
+0
+zxod 1 5
+1
+null zxod 6431 1
+2022 11 13 12 34
+0
+qmjd 0 5
+1
+null qmjd 2408 0
+2022 11 13 12 44
+0
+PYFQ 0 0
+1
+null PYFQ 933 2
+2022 11 13 13 13
+0
+LWHs 0 8
+1
+null LWHs 4353 4
+2022 11 13 13 33
+0
+ptcl 0 6
+1
+null ptcl 4003 2
+2022 11 13 13 49
+0
+RRIW 0 2
+1
+null RRIW 6077 6
+2022 11 13 14 15
+0
+GRGB 1 4
+1
+null GRGB 7069 0
+2022 11 13 14 39
+0
+KkCF 1 4
+1
+null KkCF 2843 4
+2022 11 13 15 5
+0
+aZIr 0 2
+1
+null aZIr 4250 4
+2022 11 13 15 22
+0
+vkVj 0 1
+1
+null vkVj 2176 5
+2022 11 13 15 32
+0
+EYzi 1 3
+1
+null EYzi 6822 3
+2022 11 13 15 42
+0
+eoeL 0 7
+1
+null eoeL 8066 5
+2022 11 13 16 17
+0
+AgeC 0 0
+1
+null AgeC 1238 5
+2022 11 13 16 27
+0
+YUlr 1 1
+1
+null YUlr 3284 3
+2022 11 13 16 52
+0
+kIyA 1 0
+1
+null kIyA 7315 5
+2022 11 13 17 11
+0
+zVwz 0 3
+1
+null zVwz 8504 0
+2022 11 13 17 50
+0
+YclY 0 2
+1
+null YclY 70 6
+2022 11 13 18 22
+0
+cbME 1 7
+1
+null cbME 3950 3
+2022 11 13 18 40
+0
+LUfq 0 8
+1
+null LUfq 9869 0
+2022 11 13 19 15
+0
+WiBa 0 8
+1
+null WiBa 3860 8
+2022 11 13 19 50
+0
+cvYI 1 8
+1
+null cvYI 8929 4
+2022 11 13 20 1
+0
+KtvJ 0 8
+1
+null KtvJ 7288 1
+2022 11 13 20 33
+0
+KcId 1 6
+1
+null KcId 5176 3
+2022 11 13 20 49
+0
+EIFG 0 4
+1
+null EIFG 2203 2
+2022 11 13 21 11
+0
+Csgj 1 3
+1
+null Csgj 3714 6
+2022 11 13 21 47
+0
+Yogi 1 1
+1
+null Yogi 7447 3
+2022 11 13 22 5
+0
+LXjU 1 0
+1
+null LXjU 9429 7
+2022 11 13 22 41
+0
+RlYK 0 0
+1
+null RlYK 8799 6
+2022 11 13 23 6
+0
+KTRd 0 7
+1
+null KTRd 709 0
+2022 11 13 23 40
+0
+dSju 0 8
+1
+null dSju 1675 4
+2022 11 14 0 18
+0
+redK 1 7
+1
+null redK 1593 1
+2022 11 14 0 41
+0
+YpPp 0 0
+1
+null YpPp 6135 8
+2022 11 14 1 17
+0
+jPsM 0 4
+1
+null jPsM 3937 0
+2022 11 14 1 27
+0
+elcy 1 4
+1
+null elcy 4806 4
+2022 11 14 1 57
+0
+EFBA 0 4
+1
+null EFBA 8830 7
+2022 11 14 2 16
+0
+rEQe 0 2
+1
+null rEQe 6559 1
+2022 11 14 2 41
+0
+Yaqw 0 2
+1
+null Yaqw 9350 4
+2022 11 14 3 17
+0
+LHlQ 1 3
+1
+null LHlQ 6911 1
+2022 11 14 3 51
+0
+hqLY 0 3
+1
+null hqLY 1594 3
+2022 11 14 4 14
+0
+UFtI 0 5
+1
+null UFtI 9809 0
+2022 11 14 4 41
+0
+dEsb 1 3
+1
+null dEsb 4906 5
+2022 11 14 5 5
+0
+dZIq 0 3
+1
+null dZIq 8521 0
+2022 11 14 5 19
+0
+iHDg 0 3
+1
+null iHDg 3789 1
+2022 11 14 5 40
+0
+rqGH 1 2
+1
+null rqGH 2850 8
+2022 11 14 6 9
+0
+ISTx 1 1
+1
+null ISTx 1087 0
+2022 11 14 6 41
+0
+xvyP 1 4
+1
+null xvyP 2287 5
+2022 11 14 7 11
+0
+tMWE 0 7
+1
+null tMWE 7455 8
+2022 11 14 7 27
+0
+AFjA 1 5
+1
+null AFjA 993 5
+2022 11 14 8 1
+0
+TeJB 1 5
+1
+null TeJB 8103 7
+2022 11 14 8 14
+0
+fqpJ 1 1
+1
+null fqpJ 178 8
+2022 11 14 8 43
+0
+GZhX 0 2
+1
+null GZhX 8073 7
+2022 11 14 9 14
+0
+FDbZ 0 3
+1
+null FDbZ 8029 7
+2022 11 14 9 52
+0
+gvbC 0 3
+1
+null gvbC 5419 3
+2022 11 14 10 20
+0
+CCQh 1 2
+1
+null CCQh 5589 5
+2022 11 14 10 33
+0
+EPUV 1 8
+1
+null EPUV 9283 6
+2022 11 14 11 11
+0
+kIIO 0 1
+1
+null kIIO 7526 1
+2022 11 14 11 43
+0
+CGZs 1 4
+1
+null CGZs 1945 1
+2022 11 14 12 6
+0
+FyKr 1 6
+1
+null FyKr 3176 3
+2022 11 14 12 30
+0
+lfey 1 3
+1
+null lfey 6974 1
+2022 11 14 12 44
+0
+jfNd 0 8
+1
+null jfNd 4198 7
+2022 11 14 12 55
+0
+Csbu 0 2
+1
+null Csbu 2892 5
+2022 11 14 13 10
+0
+vyBY 0 6
+1
+null vyBY 7459 0
+2022 11 14 13 47
+0
+JVHP 1 2
+1
+null JVHP 3251 6
+2022 11 14 14 16
+0
+Krxd 0 1
+1
+null Krxd 4736 3
+2022 11 14 14 36
+0
+NjVV 1 1
+1
+null NjVV 9872 6
+2022 11 14 15 10
+0
+kvyS 1 2
+1
+null kvyS 1653 0
+2022 11 14 15 24
+0
+biXq 0 6
+1
+null biXq 8907 3
+2022 11 14 15 37
+0
+XfjG 0 6
+1
+null XfjG 5625 6
+2022 11 14 16 12
+0
+QkwU 0 5
+1
+null QkwU 5607 1
+2022 11 14 16 24
+0
+nqZU 0 0
+1
+null nqZU 3133 0
+2022 11 14 16 42
+0
+ovWk 0 4
+1
+null ovWk 289 2
+2022 11 14 17 0
+0
+tTaP 0 0
+1
+null tTaP 4357 1
+2022 11 14 17 28
+0
+hAdk 0 2
+1
+null hAdk 3142 7
+2022 11 14 17 53
+0
+ZIOA 1 2
+1
+null ZIOA 4168 1
+2022 11 14 18 10
+0
+mqge 0 2
+1
+null mqge 70 2
+2022 11 14 18 21
+0
+CYbt 1 5
+1
+null CYbt 7429 0
+2022 11 14 18 52
+0
+bcbc 1 7
+1
+null bcbc 7860 1
+2022 11 14 19 29
+0
+XqGu 0 0
+1
+null XqGu 5515 3
+2022 11 14 19 57
+0
+NcVV 1 7
+1
+null NcVV 8771 3
+2022 11 14 20 34
+0
+CXjt 1 8
+1
+null CXjt 2191 7
+2022 11 14 20 56
+0
+KfDR 1 1
+1
+null KfDR 947 4
+2022 11 14 21 26
+0
+kyNn 0 2
+1
+null kyNn 4114 2
+2022 11 14 21 50
+0
+NSFo 0 3
+1
+null NSFo 5813 6
+2022 11 14 22 8
+0
+Bzbi 1 3
+1
+null Bzbi 7950 3
+2022 11 14 22 28
+0
+BmLf 1 3
+1
+null BmLf 2799 7
+2022 11 14 22 57
+0
+ZKaD 1 4
+1
+null ZKaD 8314 0
+2022 11 14 23 7
+0
+kFWM 1 1
+1
+null kFWM 2500 5
+2022 11 14 23 33
+0
+mgHJ 0 0
+1
+null mgHJ 6523 4
+2022 11 14 23 51
+0
+cjND 0 8
+1
+null cjND 4408 5
+2022 11 15 0 1
+0
+awqU 1 0
+1
+null awqU 8155 0
+2022 11 15 0 32
+0
+ScAg 0 0
+1
+null ScAg 1252 7
+2022 11 15 1 6
+0
+iIBl 1 2
+1
+null iIBl 3242 5
+2022 11 15 1 46
+0
+tuWN 0 3
+1
+null tuWN 2475 5
+2022 11 15 2 7
+0
+QHKg 1 7
+1
+null QHKg 9177 0
+2022 11 15 2 31
+0
+ERhH 1 6
+1
+null ERhH 5056 8
+2022 11 15 3 9
+0
+IUTq 1 8
+1
+null IUTq 233 5
+2022 11 15 3 35
+0
+HWof 0 1
+1
+null HWof 3414 3
+2022 11 15 3 54
+0
+WsLJ 1 4
+1
+null WsLJ 5996 3
+2022 11 15 4 10
+0
+RkuV 0 3
+1
+null RkuV 6068 1
+2022 11 15 4 21
+10
