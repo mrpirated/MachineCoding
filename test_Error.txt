@@ -1,0 +1,1 @@
+FAIL random_t::next(long long n): n must be positive

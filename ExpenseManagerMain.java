@@ -24,265 +24,7 @@
 
 */
 import java.util.*;
-import java.lang.*;
 import java.io.*;
-
-public class ExpenseManagerMain {
-	static PrintWriter out;
-	static int MOD = 1000000007;
-	static FastReader scan;
-
-	/*-------- I/O usaing short named function ---------*/
-	public static String ns() {
-		return scan.next();
-	}
-
-	public static int ni() {
-		return scan.nextInt();
-	}
-
-	public static long nl() {
-		return scan.nextLong();
-	}
-
-	public static double nd() {
-		return scan.nextDouble();
-	}
-
-	public static String nln() {
-		return scan.nextLine();
-	}
-
-	public static void p(Object o) {
-		out.print(o);
-	}
-
-	public static void ps(Object o) {
-		out.print(o + " ");
-	}
-
-	public static void pn(Object o) {
-		out.println(o);
-	}
-
-	/*-------- for output of an array ---------------------*/
-	static void iPA(int arr[]) {
-		StringBuilder output = new StringBuilder();
-		for (int i = 0; i < arr.length; i++)
-			output.append(arr[i] + " ");
-		out.println(output);
-	}
-
-	static void lPA(long arr[]) {
-		StringBuilder output = new StringBuilder();
-		for (int i = 0; i < arr.length; i++)
-			output.append(arr[i] + " ");
-		out.println(output);
-	}
-
-	static void sPA(String arr[]) {
-		StringBuilder output = new StringBuilder();
-		for (int i = 0; i < arr.length; i++)
-			output.append(arr[i] + " ");
-		out.println(output);
-	}
-
-	static void dPA(double arr[]) {
-		StringBuilder output = new StringBuilder();
-		for (int i = 0; i < arr.length; i++)
-			output.append(arr[i] + " ");
-		out.println(output);
-	}
-
-	/*-------------- for input in an array ---------------------*/
-	static void iIA(int arr[]) {
-		for (int i = 0; i < arr.length; i++)
-			arr[i] = ni();
-	}
-
-	static void lIA(long arr[]) {
-		for (int i = 0; i < arr.length; i++)
-			arr[i] = nl();
-	}
-
-	static void sIA(String arr[]) {
-		for (int i = 0; i < arr.length; i++)
-			arr[i] = ns();
-	}
-
-	static void dIA(double arr[]) {
-		for (int i = 0; i < arr.length; i++)
-			arr[i] = nd();
-	}
-
-	/*------------ for taking input faster ----------------*/
-	static class FastReader {
-		BufferedReader br;
-		StringTokenizer st;
-
-		public FastReader() {
-			br = new BufferedReader(new InputStreamReader(System.in));
-		}
-
-		String next() {
-			while (st == null || !st.hasMoreElements()) {
-				try {
-					st = new StringTokenizer(br.readLine());
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-			return st.nextToken();
-		}
-
-		int nextInt() {
-			return Integer.parseInt(next());
-		}
-
-		long nextLong() {
-			return Long.parseLong(next());
-		}
-
-		double nextDouble() {
-			return Double.parseDouble(next());
-		}
-
-		String nextLine() {
-			String str = "";
-			try {
-				str = br.readLine();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			return str;
-		}
-	}
-
-	public static void main(String[] args) throws java.lang.Exception {
-		System.setIn(new FileInputStream(new File("input.txt")));
-		System.setOut(new PrintStream(new File("output.txt")));
-		out = new PrintWriter(System.out);
-		scan = new FastReader();
-		// for fast output sometimes
-		StringBuilder sb = new StringBuilder();
-		int t = ni();
-		ExpenseManager em = new ExpenseManager();
-		Debugger debugger = new Debugger();
-		while (t-- > 0) {
-			int type = ni();
-
-			switch (type) {
-				case 0: {
-					String name = ns();
-					int position = ni(), department = ni();
-					try {
-						em.addUser(name, Position.values()[position], Department.values()[department]);
-					} catch (IllegalArgumentException e) {
-						debugger.Debug(e.getMessage());
-					}
-					break;
-				}
-				case 1: {
-					String from = ns();
-					if (from.equals("null"))
-						from = null;
-					String to = ns();
-					if (to.equals("null"))
-						to = null;
-
-					double amount = nd();
-					int category = ni();
-					int year = ni(), month = ni(), day = ni(), hour = ni(), minute = ni();
-
-					try {
-						em.addTransaction(from, to, amount, Category.values()[category],
-								new DateTime(year, month, day, hour, minute));
-					} catch (IllegalArgumentException e) {
-						debugger.Debug(e.getMessage());
-					}
-					break;
-				}
-				case 2: {
-					// ps("getNetRevenue:");
-					debugger.Debug(em.getNetRevenue());
-					break;
-				}
-				case 3: {
-					String name = ns();
-					if (name.equals("null"))
-						name = null;
-					try {
-						debugger.Debug(em.getNetRevenueOfUser(name));
-					} catch (IllegalArgumentException e) {
-						debugger.Debug(e.getMessage());
-					}
-					break;
-				}
-				case 4: {
-					int start_year = ni(), start_month = ni(), start_day = ni(), start_hour = ni(), start_minute = ni();
-					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
-
-					int category = ni();
-					debugger.Debug(em.getNetRevenueOfACategory(
-							new DateTime(start_year, start_month, start_day, start_hour, start_minute),
-							new DateTime(end_year, end_month, end_day, end_hour, end_minute),
-							Category.values()[category]));
-					break;
-				}
-				case 5: {
-					int start_year = ni(), start_month = ni(), start_day = ni(), start_hour = ni(), start_minute = ni();
-					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
-					int department = ni();
-					debugger.Debug(em.getExpenseOfDepartment(
-							new DateTime(start_year, start_month, start_day, start_hour, start_minute),
-							new DateTime(end_year, end_month, end_day, end_hour, end_minute),
-							Department.values()[department]));
-					break;
-				}
-				case 6: {
-					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
-					int department = ni();
-					debugger.Debug(em.getCashflowOfDepartment(Department.values()[department],
-							new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
-					break;
-				}
-				case 7: {
-					debugger.Debug(em.getMoneyTransferredBetweenInterDepartments());
-					break;
-				}
-				case 8: {
-					List<Department> list = em.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio();
-					for (Department department : list) {
-						debugger.Debug(department);
-					}
-					// pn("");
-					break;
-				}
-				case 9: {
-					List<User> res = em.getListofFSINDescendOrderOfIncome();
-					for (User s : res) {
-						debugger.Debug(s);
-					}
-					// pn("");
-					break;
-				}
-				case 10: {
-					// System.out.print(x);
-					for (User user : em.users) {
-						debugger.Debug(user);
-					}
-					for (Transaction tx : em.transactions) {
-						debugger.Debug(tx);
-					}
-					break;
-				}
-			}
-		}
-		out.flush();
-		out.close();
-	}
-
-}
 
 enum Position {
 	FS,
@@ -690,6 +432,261 @@ class ExpenseManager {
 		}
 
 		return res;
+	}
+
+}
+
+public class ExpenseManagerMain {
+	static PrintWriter out;
+	static int MOD = 1000000007;
+	static FastReader scan;
+
+	/*-------- I/O usaing short named function ---------*/
+	public static String ns() {
+		return scan.next();
+	}
+
+	public static int ni() {
+		return scan.nextInt();
+	}
+
+	public static long nl() {
+		return scan.nextLong();
+	}
+
+	public static double nd() {
+		return scan.nextDouble();
+	}
+
+	public static String nln() {
+		return scan.nextLine();
+	}
+
+	public static void p(Object o) {
+		out.print(o);
+	}
+
+	public static void ps(Object o) {
+		out.print(o + " ");
+	}
+
+	public static void pn(Object o) {
+		out.println(o);
+	}
+
+	/*-------- for output of an array ---------------------*/
+	static void iPA(int arr[]) {
+		StringBuilder output = new StringBuilder();
+		for (int i = 0; i < arr.length; i++)
+			output.append(arr[i] + " ");
+		out.println(output);
+	}
+
+	static void lPA(long arr[]) {
+		StringBuilder output = new StringBuilder();
+		for (int i = 0; i < arr.length; i++)
+			output.append(arr[i] + " ");
+		out.println(output);
+	}
+
+	static void sPA(String arr[]) {
+		StringBuilder output = new StringBuilder();
+		for (int i = 0; i < arr.length; i++)
+			output.append(arr[i] + " ");
+		out.println(output);
+	}
+
+	static void dPA(double arr[]) {
+		StringBuilder output = new StringBuilder();
+		for (int i = 0; i < arr.length; i++)
+			output.append(arr[i] + " ");
+		out.println(output);
+	}
+
+	/*-------------- for input in an array ---------------------*/
+	static void iIA(int arr[]) {
+		for (int i = 0; i < arr.length; i++)
+			arr[i] = ni();
+	}
+
+	static void lIA(long arr[]) {
+		for (int i = 0; i < arr.length; i++)
+			arr[i] = nl();
+	}
+
+	static void sIA(String arr[]) {
+		for (int i = 0; i < arr.length; i++)
+			arr[i] = ns();
+	}
+
+	static void dIA(double arr[]) {
+		for (int i = 0; i < arr.length; i++)
+			arr[i] = nd();
+	}
+
+	/*------------ for taking input faster ----------------*/
+	static class FastReader {
+		BufferedReader br;
+		StringTokenizer st;
+
+		public FastReader() {
+			br = new BufferedReader(new InputStreamReader(System.in));
+		}
+
+		String next() {
+			while (st == null || !st.hasMoreElements()) {
+				try {
+					st = new StringTokenizer(br.readLine());
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+			return st.nextToken();
+		}
+
+		int nextInt() {
+			return Integer.parseInt(next());
+		}
+
+		long nextLong() {
+			return Long.parseLong(next());
+		}
+
+		double nextDouble() {
+			return Double.parseDouble(next());
+		}
+
+		String nextLine() {
+			String str = "";
+			try {
+				str = br.readLine();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			return str;
+		}
+	}
+
+	public static void main(String[] args) throws java.lang.Exception {
+		out = new PrintWriter(System.out);
+		scan = new FastReader();
+		// for fast output sometimes
+		StringBuilder sb = new StringBuilder();
+		int t = ni();
+		ExpenseManager em = new ExpenseManager();
+		Debugger debugger = new Debugger();
+		while (t-- > 0) {
+			int type = ni();
+
+			switch (type) {
+				case 0: {
+					String name = ns();
+					int position = ni(), department = ni();
+					try {
+						em.addUser(name, Position.values()[position], Department.values()[department]);
+					} catch (IllegalArgumentException e) {
+						debugger.Debug(e.getMessage());
+					}
+					break;
+				}
+				case 1: {
+					String from = ns();
+					if (from.equals("null"))
+						from = null;
+					String to = ns();
+					if (to.equals("null"))
+						to = null;
+
+					double amount = nd();
+					int category = ni();
+					int year = ni(), month = ni(), day = ni(), hour = ni(), minute = ni();
+
+					try {
+						em.addTransaction(from, to, amount, Category.values()[category],
+								new DateTime(year, month, day, hour, minute));
+					} catch (IllegalArgumentException e) {
+						debugger.Debug(e.getMessage());
+					}
+					break;
+				}
+				case 2: {
+					// ps("getNetRevenue:");
+					debugger.Debug(em.getNetRevenue());
+					break;
+				}
+				case 3: {
+					String name = ns();
+					if (name.equals("null"))
+						name = null;
+					try {
+						debugger.Debug(em.getNetRevenueOfUser(name));
+					} catch (IllegalArgumentException e) {
+						debugger.Debug(e.getMessage());
+					}
+					break;
+				}
+				case 4: {
+					int start_year = ni(), start_month = ni(), start_day = ni(), start_hour = ni(), start_minute = ni();
+					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
+
+					int category = ni();
+					debugger.Debug(em.getNetRevenueOfACategory(
+							new DateTime(start_year, start_month, start_day, start_hour, start_minute),
+							new DateTime(end_year, end_month, end_day, end_hour, end_minute),
+							Category.values()[category]));
+					break;
+				}
+				case 5: {
+					int start_year = ni(), start_month = ni(), start_day = ni(), start_hour = ni(), start_minute = ni();
+					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
+					int department = ni();
+					debugger.Debug(em.getExpenseOfDepartment(
+							new DateTime(start_year, start_month, start_day, start_hour, start_minute),
+							new DateTime(end_year, end_month, end_day, end_hour, end_minute),
+							Department.values()[department]));
+					break;
+				}
+				case 6: {
+					int end_year = ni(), end_month = ni(), end_day = ni(), end_hour = ni(), end_minute = ni();
+					int department = ni();
+					debugger.Debug(em.getCashflowOfDepartment(Department.values()[department],
+							new DateTime(end_year, end_month, end_day, end_hour, end_minute)));
+					break;
+				}
+				case 7: {
+					debugger.Debug(em.getMoneyTransferredBetweenInterDepartments());
+					break;
+				}
+				case 8: {
+					List<Department> list = em.getListOfDeptsInAscendOrderOfIncomeTOExpenseRatio();
+					for (Department department : list) {
+						debugger.Debug(department);
+					}
+					// pn("");
+					break;
+				}
+				case 9: {
+					List<User> res = em.getListofFSINDescendOrderOfIncome();
+					for (User s : res) {
+						debugger.Debug(s);
+					}
+					// pn("");
+					break;
+				}
+				case 10: {
+					// System.out.print(x);
+					for (User user : em.users) {
+						debugger.Debug(user);
+					}
+					for (Transaction tx : em.transactions) {
+						debugger.Debug(tx);
+					}
+					break;
+				}
+			}
+		}
+		out.flush();
+		out.close();
 	}
 
 }
